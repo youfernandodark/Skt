@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campeonato Forquilhense de Skate - Masculino</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #ff6f61;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #ff6f61;
+            color: white;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        input[type="number"] {
+            width: 80px;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #ff6f61;
+            color: white;
+            padding: 5px 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #e05d52;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .resultado-final {
+            font-weight: bold;
+            color: #ff6f61;
+        }
+        .classificacao {
+            font-weight: bold;
+            color: #ff6f61;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Campeonato Forquilhense de Skate - Categoria Masculina</h1>
+
+        <!-- Tabela de Participantes -->
+        <table id="tabelaParticipantes">
+            <thead>
+                <tr>
+                    <th>Posição</th>
+                    <th>Nomes</th>
+                    <th>Idade</th>
+                    <th>Base</th>
+                    <th>1° B</th>
+                    <th>2° B</th>
+                    <th>BT</th>
+                    <th>Resultado Final</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Dados dos participantes -->
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>Herbesty Levy Andrade</td>
+                    <td>13</td>
+                    <td>Goofy</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>Wesley Nicolas Ripardo da Costas</td>
+                    <td>12</td>
+                    <td>Goofy</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>Glayson Vander Azevedo Clemente</td>
+                    <td>11</td>
+                    <td>Goofy</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>Francisco Adryan Lima Almeida</td>
+                    <td>9</td>
+                    <td>Regular</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>João Victor Maciel dos Santos</td>
+                    <td>11</td>
+                    <td>Goofy</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>Luis Emanuel Nascimento Azevedo</td>
+                    <td>14</td>
+                    <td>Goofy</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>Wesley Ruan Silva</td>
+                    <td>11</td>
+                    <td>Regular</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>Luis Soares Pereira</td>
+                    <td>9</td>
+                    <td>Regular</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>Guilherme Torres dos Santos</td>
+                    <td>13</td>
+                    <td>Goofy</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>Enzo Gabriel Rodrigues de Sousa</td>
+                    <td>9</td>
+                    <td>Regular</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+                <tr>
+                    <td class="classificacao">-</td>
+                    <td>Wellison Ytalo Sousa Menezes</td>
+                    <td>12</td>
+                    <td>Regular</td>
+                    <td><input type="number" class="pontuacao" data-coluna="1b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="2b"></td>
+                    <td><input type="number" class="pontuacao" data-coluna="bt"></td>
+                    <td class="resultado-final">0</td>
+                    <td><button onclick="calcularResultado(this)">Calcular</button></td>
+                </tr>
+            </tbody>
+        </table>
+        <button style="margin-top: 20px;" onclick="atualizarClassificacao()">Atualizar Classificação</button>
+    </div>
+
+    <script>
+        // Função para calcular o resultado final (total dividido por 3)
+        function calcularResultado(button) {
+            const row = button.closest('tr'); // Encontra a linha da tabela
+            const inputs = row.querySelectorAll('.pontuacao'); // Seleciona todos os campos de pontuação
+            let total = 0;
+
+            // Soma os valores dos campos de pontuação
+            inputs.forEach(input => {
+                const value = parseFloat(input.value) || 0; // Converte para número ou assume 0 se vazio
+                total += value;
+            });
+
+            // Calcula o resultado final (total dividido por 3)
+            const resultadoFinal = total / 3;
+
+            // Atualiza a célula "Resultado Final"
+            row.querySelector('.resultado-final').textContent = resultadoFinal.toFixed(2); // Arredonda para 2 casas decimais
+        }
+
+        // Função para atualizar a classificação
+        function atualizarClassificacao() {
+            const rows = Array.from(document.querySelectorAll('#tabelaParticipantes tbody tr'));
+
+            // Ordena as linhas com base no resultado final
+            rows.sort((a, b) => {
+                const resultadoA = parseFloat(a.querySelector('.resultado-final').textContent) || 0;
+                const resultadoB = parseFloat(b.querySelector('.resultado-final').textContent) || 0;
+                return resultadoB - resultadoA; // Ordem decrescente
+            });
+
+            // Atualiza a classificação
+            rows.forEach((row, index) => {
+                const posicao = row.querySelector('.classificacao');
+                posicao.textContent = `${index + 1}º`; // Exibe todas as posições
+            });
+
+            // Reinsere as linhas na tabela na ordem correta
+            const tbody = document.querySelector('#tabelaParticipantes tbody');
+            tbody.innerHTML = ''; // Limpa a tabela
+            rows.forEach(row => tbody.appendChild(row));
+        }
+    </script>
+</body>
+</html>
