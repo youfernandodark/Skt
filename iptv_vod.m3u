@@ -1,19 +1,137 @@
-3U
-
-# --- CANAIS AO VIVO ---
-#EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/AMC_logo.svg/1200px-AMC_logo.svg.png" group-title="Canais TV", AMC
-https://1.cdn2embed.site/eLS1OpgSXamct2RMZhYKYcwIBQxeGPva/index.m3u8
-
-#EXTINF:-1 tvg-id="AE.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A%26E_Logo.svg/1200px-A%26E_Logo.svg.png" group-title="Canais TV", A&E
-https://1.cdn1embed.site/K8nDSqXxaeekMM9VThX0k9tgLb7tKR69y/index.m3u8
-
-# --- VOD: FILMES ---
-#EXTINF:-1 tvg-id="TerrorEstrada2024" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFH4s4vcllU_up3cxXKTFeZjcjGZiQDxgjlf1igAIWw&s=10" group-title="Filmes", Terror na Estrada
-https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4
-
-# --- VOD: SÉRIES ---
-#EXTINF:-1 tvg-id="LCDP_S01E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q2NmZjMzQtM2ZhYS00NWM3LTg0MDktYjNkNWYzM2MyYjI5XkEyXkFqcGc@._V1_.jpg" group-title="serie", La Casa de Papel - T01 E01: Efetuado
-https://video.wixstatic.com/video/8d3786_251e5a43d9384b21ab6525a558d1d830/720p/mp4/file.mp4
-
-#EXTINF:-1 tvg-id="LCDP_S01E02" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q2NmZjMzQtM2ZhYS00NWM3LTg0MDktYjNkNWYzM2MyYjI5XkEyXkFqcGc@._V1_.jpg" group-title="serie", La Casa de Papel - T01 E02: Imprudências
-https://video.wixstatic.com/video/8d3786_dc87babb750b4600ab81da3ed110c8aa/720p/mp4/file.mp4
+#EXTM3U
+
+# --- CANAIS AO VIVO ---
+
+# CANAIS | ABERTOS
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://embedcanaisonline.com/images/globo.webp",Globo sp
+https://cdn1embed.site/obu7g1TPvYglbspjics61ES1iWT/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://embedcanaisonline.com/images/sbtsp.png",SBT sp
+https://cdn1embed.site/gjqmlMjWWsbtspPel8XOFDWKWLCR/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://embedcanaisonline.com/images/record.png",Record sp
+https://cdn1embed.site/Ln03ovXjYrcrdspYMar2jiIqZlhQ3biawY/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://embedcanaisonline.com/images/bandsp.png",Band sp
+https://cdn1embed.site/QLxEJHwBVJbndspvwSDrtqohUmuhV/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="URL_DA_CAPA",RedeTV!
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="URL_DA_CAPA",TV Cultura
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="URL_DA_CAPA",TV Brasil
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="URL_DA_CAPA",Gazeta
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="URL_DA_CAPA",Canal Futura
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="URL_DA_CAPA",Record News
+URL_DO_CANAL
+
+# CANAIS | ESPORTES
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/sportv.png",SporTV 
+https://cdn1embed.site/OB1rcavXsprtviOqkVCJTBJahe/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/sportv2.png",SporTV 2
+https://cdn1embed.site/c1xLJjBictx5sprtv2gY3c5wnRpQ/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/sportv3.png",SporTV 3
+https://cdn1embed.site/Z3ANVj77p3kZsprtv3l4AblV7vY7AZQ/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/espn.png",ESPN 
+https://cdn1embed.site/fygw2wMqspnZcUDIh7yfJs1ON43xKmT/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/espn.png",ESPN 2
+https://cdn1embed.site/QoXsf2o3spn2gyrDO1xkxwnQrS7/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/espn.png",ESPN 3
+https://cdn1embed.site/OkIUpkDyr7OSspn3JoRu1XXdo0c/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/espn.png",ESPN 4
+https://cdn1embed.site/ren68K4TunPspn4Fz46PDjqipVJIqVL/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/tnt.png",TNT 
+https://cdn1embed.site/NOLJTuyMHstntDGMBgYSh2PP4XJU/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/bandsports.png",BandSports
+https://cdn1embed.site/VrpoiVgRbndsprV5IfLBcbfnoGM/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/premiere.png",Premiere clube
+https://cdn1embed.site/QBwBAD3UprmrcldRPPgdzUvZ3gp/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://embedcanaisonline.com/images/combate.png",Combate
+https://cdn1embed.site/mTPSIAoCLrZ3cmbtaWZkSBvrjn/index.m3u8
+
+# CANAIS | FILMES E SÉRIES
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/tcpremium.png",Telecine Premium
+https://cdn1embed.site/OlZieTX8DcstcprmmmcYm4cu7tGz0IEqc/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/tcaction.png",Telecine Action
+https://cdn1embed.site/uhd78grfatcactm82y7gfasmcdh98g3tg/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/tctouch.png",Telecine Touch
+https://cdn1embed.site/xbxtl8nv8XFmtctchoijes2YgGXI1V4H/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/tcpipoca.png",Telecine Pipoca
+https://cdn1embed.site/tPSQziMT8ftcppcJyPYv0iQS18VR6Hf/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/tccult.png",Telecine Cult
+https://cdn1embed.site/Z51vTfGPtccltlcpTCCHHNkxx6syAXvRM/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/tcfun.png",Telecine Fun
+https://cdn1embed.site/evgJRysqU2tcfnQ96M3jvfLQj6/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/hbo.png",HBO
+https://cdn1embed.site/LQF3jCIEwvJWhboIyD7u3mSpKyo2XA/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/hbo2.png",HBO 2
+https://cdn1embed.site/VET6ZyyQY0hb2PjF9ciG9Lv3g3/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/hbofamily.png",HBO Family
+https://cdn1embed.site/H6DaUjA3hbfmlyPjeEYqvNSzPf2v2R2Iy/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/hbosignature.png",HBO Signature
+https://cdn1embed.site/qQa5ZD5sRIkhbsgnteC8wLtO9BSqD2/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/hbomundi.png",HBO Mundi
+https://cdn1embed.site/HA9k0mZMi3qdhbmndPE3xJ7gT2H2hsfW/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/warner.png",Warner Channel
+https://cdn1embed.site/nsMtwgKGwrnrjQEo2gw2JxhWrKoZB2JX/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/axn.png",AXN
+https://cdn1embed.site/Dp17fr4CpWaxnKNQyvbF2ulFnwZqvr/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/universaltv.png",Universal TV
+https://cdn1embed.site/SXNiMyjkl1nvrsltXNZ5kUCcAx/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/megapix.png",Megapix
+https://cdn1embed.site/NsWVYCoIpt9mgpxZYE51mxR8KCDXs/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/studiouniversal.png",Studio Universal
+https://cdn1embed.site/jCeECOtYrLstdnvrdwGetDCcdx1seP3/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/globoplaynovelas.png",globoplay novelas
+https://cdn1embed.site/w3Xd3PvrhZglbplyxB4zVC59yvlFS/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/space.png",space
+https://cdn1embed.site/tDP9bdE2zBRgspcFT6Ce5fuMje/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="URL_DA_CAPA",Canal Brasil
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/cinemax.png",cinemax
+https://cdn1embed.site/mnVErULWHcnmxMsg1msoxltaTIircdJsS8/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/sonychannel.png",Sony Channel
+https://cdn1embed.site/ublqdiVAHhVesnychnECXxGLgCGo8/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://embedcanaisonline.com/images/amc.png",AMC
+https://cdn1embed.site/eLS1OpgSXamct2RMZhYKYcwIBQxeGPva/index.m3u8
+
+# CANAIS | INFANTIS
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="https://embedcanaisonline.com/images/discoverykids.png",Discovery Kids
+https://cdn1embed.site/DxRVRqLydscvryDO8xgRoEbN48Ju6NoPeO/index.m3u8
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="https://embedcanaisonline.com/images/cartoonnetwork.png",Cartoon Network
+https://cdn1embed.site/C5Gj1Bf86ocrtnntyC4w7bAdzGxp/index.m3u8
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="URL_DA_CAPA",Gloob
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="URL_DA_CAPA",Gloobinho
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="URL_DA_CAPA",Nickelodeon
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="URL_DA_CAPA",Nick Jr.
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="URL_DA_CAPA",Disney Channel
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="https://embedcanaisonline.com/images/tooncast.png",Tooncast
+https://cdn1embed.site/masnby3bokia7g4ttooncast518gsdghrhj1/index.m3u8
+
+# CANAIS | DOCUMENTÁRIO
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIO" tvg-logo="https://embedcanaisonline.com/images/discoverychannel.png",Discovery Channel
+https://cdn1embed.site/GH92hdagfdscvrySW51fAQ26cfWD3nbgfa/index.m3u8
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIO" tvg-logo="https://embedcanaisonline.com/images/history.png",History 
+https://cdn1embed.site/Pg1FNA88rcShstryxnCC8p2xgRxI/index.m3u8
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIO" tvg-logo="URL_DA_CAPA",National Geographic
+URL_DO_CANAL
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIO" tvg-logo="URL_DA_CAPA",Animal Planet
+URL_DO_CANAL`;
+
+        
+
+# --- VOD: FILMES ---
+
+#EXTINF:-1 tvg-id="TerrorEstrada2024" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFH4s4vcllU_up3cxXKTFeZjcjGZiQDxgjlf1igAIWw&s=10" group-title="Filmes", Terror na Estrada
+https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4
+
+# --- VOD: SÉRIES ---
+#EXTINF:-1 tvg-id="LCDP_S01E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q2NmZjMzQtM2ZhYS00NWM3LTg0MDktYjNkNWYzM2MyYjI5XkEyXkFqcGc@._V1_.jpg" group-title="serie", La Casa de Papel - T01 E01: Efetuado
+https://video.wixstatic.com/video/8d3786_251e5a43d9384b21ab6525a558d1d830/720p/mp4/file.mp4
+#EXTINF:-1 tvg-id="LCDP_S01E02" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q2NmZjMzQtM2ZhYS00NWM3LTg0MDktYjNkNWYzM2MyYjI5XkEyXkFqcGc@._V1_.jpg" group-title="serie", La Casa de Papel - T01 E02: Imprudências
+https://video.wixstatic.com/video/8d3786_dc87babb750b4600ab81da3ed110c8aa/720p/mp4/file.mp4
+
