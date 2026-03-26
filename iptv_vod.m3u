@@ -1,0 +1,19 @@
+#EXTM3U
+
+# --- CANAIS AO VIVO ---
+#EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/AMC_logo.svg/1200px-AMC_logo.svg.png" group-title="Canais TV", AMC
+https://1.cdn2embed.site/eLS1OpgSXamct2RMZhYKYcwIBQxeGPva/index.m3u8
+
+#EXTINF:-1 tvg-id="AE.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A%26E_Logo.svg/1200px-A%26E_Logo.svg.png" group-title="Canais TV", A&E
+https://1.cdn1embed.site/K8nDSqXxaeekMM9VThX0k9tgLb7tKR69y/index.m3u8
+
+# --- VOD: FILMES ---
+#EXTINF:-1 tvg-id="TerrorEstrada2024" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFH4s4vcllU_up3cxXKTFeZjcjGZiQDxgjlf1igAIWw&s=10" group-title="Filmes", Terror na Estrada
+https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4
+
+# --- VOD: SÉRIES ---
+#EXTINF:-1 tvg-id="LCDP_S01E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q2NmZjMzQtM2ZhYS00NWM3LTg0MDktYjNkNWYzM2MyYjI5XkEyXkFqcGc@._V1_.jpg" group-title="La Casa de Papel", La Casa de Papel - T01 E01: Efetuado
+https://video.wixstatic.com/video/8d3786_251e5a43d9384b21ab6525a558d1d830/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-id="LCDP_S01E02" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q2NmZjMzQtM2ZhYS00NWM3LTg0MDktYjNkNWYzM2MyYjI5XkEyXkFqcGc@._V1_.jpg" group-title="La Casa de Papel", La Casa de Papel - T01 E02: Imprudências
+https://video.wixstatic.com/video/8d3786_dc87babb750b4600ab81da3ed110c8aa/720p/mp4/file.mp4
