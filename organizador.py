@@ -6,7 +6,7 @@ meu_vod = [
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFH4s4vcllU_up3cxXKTFeZjcjGZiQDxgjlf1igAIWw&s=10",
         "url": "https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4",
         "ano": "2024",
-        [span_2](start_span)"sinopse": "Uma jornada aterrorizante por estradas desertas."[span_2](end_span)
+        "sinopse": "Uma jornada aterrorizante por estradas desertas."
     },
     {
         "id": "Gladiador2_2024",
@@ -33,6 +33,6 @@ meu_vod = [
         "logo": "https://m.media-amazon.com/images/M/MV5BN2Q2NmZjMzQtM2ZhYS00NWM3LTg0MDktYjNkNWYzM2MyYjI5XkEyXkFqcGc@._V1_.jpg",
         "url": "https://video.wixstatic.com/video/8d3786_251e5a43d9384b21ab6525a558d1d830/720p/mp4/file.mp4",
         "ano": "2017",
-        [span_3](start_span)"sinopse": "O Professor recruta uma jovem assaltante e outros sete criminosos."[span_3](end_span)
+        "sinopse": "O Professor recruta uma jovem assaltante e outros sete criminosos."
     }
 ]
