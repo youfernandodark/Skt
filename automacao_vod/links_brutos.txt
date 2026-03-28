@@ -1,2 +1,28 @@
-Avatar | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Ficção
+# ============================================
+# ARQUIVO DE LINKS VOD - FORMATO PADRÃO
+# ============================================
+# Formato: NOME_DO_FILME | URL_DO_VIDEO | CATEGORIA
+# Linhas com # são ignoradas (comentários)
+# ============================================
+
+# 🎬 FILMES - FICÇÃO CIENTÍFICA
+Avatar | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Ficção Científica
+Interestelar | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Ficção Científica
+Blade Runner 2049 | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Ficção Científica
+
+# 🦇 FILMES - AÇÃO
 Batman | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Ação
+John Wick | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Ação
+Mad Max | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Ação
+
+# 😂 FILMES - COMÉDIA
+Superbad | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Comédia
+The Hangover | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Comédia
+
+# 🎭 FILMES - DRAMA
+O Poderoso Chefão | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Drama
+Forrest Gump | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Drama
+
+# ============================================
+# FIM DO ARQUIVO
+# ============================================
