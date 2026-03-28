@@ -4,10 +4,6 @@ on:
   push:
     paths:
       - 'automacao_vod/links_brutos.txt'
-  workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   build:
@@ -21,8 +17,7 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Instalar Dependências
-        run: pip install requests
+      - run: pip install requests
 
       - name: Rodar Processador
         env:
@@ -31,9 +26,9 @@ jobs:
 
       - name: Commit e Push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Bot VOD"
+          git config --global user.email "bot@vod.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add lista_final_vod.m3u
-          git commit -m "🤖 Lista VOD atualizada [ci skip]" || exit 0
+          git commit -m "Lista atualizada automaticamente [ci skip]" || exit 0
           git push
