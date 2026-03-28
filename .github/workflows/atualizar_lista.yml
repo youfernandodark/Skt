@@ -1,1 +1,39 @@
+name: Gerar VOD Automatico
 
+on:
+  push:
+    paths:
+      - 'automacao_vod/links_brutos.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar Dependências
+        run: pip install requests
+
+      - name: Rodar Processador
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python automacao_vod/processador.py
+
+      - name: Commit e Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git add lista_final_vod.m3u
+          git commit -m "🤖 Lista VOD atualizada [ci skip]" || exit 0
+          git push
