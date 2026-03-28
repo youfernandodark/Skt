@@ -2,7 +2,7 @@ name: Gerar VOD Automatico
 on:
   push:
     paths:
-      - 'automacao_vod/links_brutos.txt'
+      - 'automacao_vod/links_brutos.txt' # Ajustado para o nome real do seu arquivo
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,3 +23,4 @@ jobs:
           git add lista_final_vod.m3u
           git commit -m "Lista atualizada automaticamente" || exit 0
           git push
+
