@@ -1,2 +1,4 @@
 # NOVO FORMATO: Nome | URL | Categoria | Tipo | EPG-ID
-                # Exemplo: Globo | http://... | TV | channel | Globo.br
+Nome | URL | Categoria | Tipo | EPG-ID
+                # Exemplo:
+Globo | http://... | TV | channel | Globo.br
