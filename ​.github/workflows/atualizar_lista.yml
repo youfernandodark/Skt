@@ -1,0 +1,29 @@
+name: Gerar Lista VOD Automática
+
+on:
+  push:
+    paths:
+      - 'automacao_vod/**' # Só roda se você mexer nesta pasta
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Executar script de processamento
+        run: python automacao_vod/processador.py
+
+      - name: Salvar alterações no repositório
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add lista_final_vod.m3u
+          git commit -m "Auto: Lista VOD atualizada" || exit 0
+          git push
