@@ -1,4 +1,4 @@
 # NOVO FORMATO: Nome | URL | Categoria | Tipo | EPG-ID
 Nome | URL | Categoria | Tipo | EPG-ID
                 # Exemplo:
-Globo | http://... | TV | channel | Globo.br
+Globo | http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18124.ts | TV | channel | Globo.br
