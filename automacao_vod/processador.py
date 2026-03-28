@@ -1,259 +1,79 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Processador de Lista VOD
-Gera arquivo M3U8 com metadados do TMDB para serviços de streaming.
-"""
-
 import os
 import sys
-import logging
 import requests
 from datetime import datetime
-from typing import Optional, List, Dict
 
-# Configuração de Logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler('automacao_vod/processamento.log', encoding='utf-8'),
-        logging.StreamHandler(sys.stdout)
-    ]
-)
-logger = logging.getLogger(__name__)
-
-# Configurações TMDB
+# Configurações
 TMDB_API_KEY = os.environ.get('TMDB_API_KEY')
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 TMDB_IMG_BASE = "https://image.tmdb.org/t/p/w500"
-
-# Configurações de Arquivos
 INPUT_FILE = "automacao_vod/links_brutos.txt"
 OUTPUT_FILE = "automacao_vod/lista_final_vod.m3u"
-BACKUP_FILE = "automacao_vod/backup_lista_vod.m3u"
 
+# URL do EPG (Exemplo comum: Github de guias públicos ou sua própria fonte XMLTV)
+URL_EPG = "https://meu-guia-epg.com/guia.xml" 
 
-def buscar_poster_tmdb(nome_filme: str) -> str:
-    """
-    Busca o poster do filme na API do TMDB.
-    
-    Args:
-        nome_filme: Nome do filme para busca
-        
-    Returns:
-        URL do poster ou string vazia se não encontrado
-    """
-    if not TMDB_API_KEY:
-        logger.warning("TMDB_API_KEY não configurada")
-        return ""
-    
-    params = {
-        "api_key": TMDB_API_KEY,
-        "query": nome_filme,
-        "language": "pt-BR",
-        "page": "1"
-    }
-    
+def verificar_link(url):
+    [span_0](start_span)"""Verifica se o link está online[span_0](end_span)"""
     try:
-        response = requests.get(
-            f"{TMDB_BASE_URL}/search/movie",
-            params=params,
-            timeout=10
-        )
-        response.raise_for_status()
-        dados = response.json()
-        
-        if dados.get('results'):
-            path = dados['results'][0].get('poster_path')
-            if path:
-                poster_url = f"{TMDB_IMG_BASE}{path}"
-                logger.info(f"Poster encontrado para '{nome_filme}'")
-                return poster_url
-        
-        logger.warning(f"Poster não encontrado para '{nome_filme}'")
-        return ""
-        
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Erro na requisição TMDB: {str(e)}")
-        return ""
-    except Exception as e:
-        logger.error(f"Erro inesperado: {str(e)}")
-        return ""
-
-
-def validar_linha(linha: str) -> Optional[Dict[str, str]]:
-    """
-    Valida e parseia uma linha do arquivo de entrada.
-    
-    Args:
-        linha: Linha do arquivo no formato "Nome | URL | Categoria"
-        
-    Returns:
-        Dicionário com dados ou None se inválido
-    """
-    linha = linha.strip()
-    
-    if not linha or linha.startswith('#'):
-        return None
-    
-    if '|' not in linha:
-        logger.warning(f"Linha inválida (sem separador |): {linha}")
-        return None
-    
-    partes = [p.strip() for p in linha.split('|')]
-    
-    if len(partes) < 2:
-        logger.warning(f"Linha incompleta: {linha}")
-        return None
-    
-    nome = partes[0]
-    url = partes[1]
-    categoria = partes[2].strip() if len(partes) > 2 else "VOD"
-    
-    if not nome or not url:
-        logger.warning(f"Linha com dados vazios: {linha}")
-        return None
-    
-    if not url.startswith('http'):
-        logger.warning(f"URL inválida: {url}")
-        return None
-    
-    return {
-        'nome': nome,
-        'url': url,
-        'categoria': categoria
-    }
-
-
-def criar_backup() -> None:
-    """Cria backup da lista anterior se existir."""
-    if os.path.exists(OUTPUT_FILE):
+        response = requests.head(url, timeout=5, allow_redirects=True)
+        return response.status_code in [200, 301, 302]
+    except:
         try:
-            with open(OUTPUT_FILE, 'r', encoding='utf-8') as f_in:
-                with open(BACKUP_FILE, 'w', encoding='utf-8') as f_out:
-                    f_out.write(f_in.read())
-            logger.info(f"Backup criado: {BACKUP_FILE}")
-        except Exception as e:
-            logger.error(f"Erro ao criar backup: {str(e)}")
+            response = requests.get(url, timeout=5, stream=True)
+            return response.status_code == 200
+        except:
+            return False
 
-
-def gerar_m3u() -> bool:
-    """
-    Gera o arquivo M3U com metadados completos.
-    
-    Returns:
-        True se sucesso, False se falha
-    """
-    logger.info("=" * 50)
-    logger.info("Iniciando geração da lista VOD")
-    logger.info("=" * 50)
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Processador de Lista VOD - Versão Corrigida
-"""
-
-import os
-import sys
-import requests
-from datetime import datetime
-
-# Configurações TMDB
-TMDB_API_KEY = os.environ.get('TMDB_API_KEY')
-TMDB_BASE_URL = "https://api.themoviedb.org/3"
-TMDB_IMG_BASE = "https://image.tmdb.org/t/p/w500"
-
-# Configurações de Arquivos (CORRIGIDO)
-INPUT_FILE = "automacao_vod/links_brutos.txt"
-OUTPUT_FILE = "automacao_vod/lista_final_vod.m3u"
-
-
-def buscar_poster_tmdb(nome_filme):
-    """Busca poster no TMDB"""
-    if not TMDB_API_KEY:
-        print(f"⚠️  TMDB_API_KEY não configurada")
+def buscar_metadados(nome, tipo):
+    [span_1](start_span)"""Busca no TMDB para filmes e séries[span_1](end_span)"""
+    if not TMDB_API_KEY or tipo == "channel":
         return ""
-    
-    params = {
-        "api_key": TMDB_API_KEY,  # Sem espaços extras
-        "query": nome_filme,
-        "language": "pt-BR"
-    }
-    
+    endpoint = "search/movie" if tipo == "movie" else "search/tv"
+    params = {"api_key": TMDB_API_KEY, "query": nome, "language": "pt-BR"}
     try:
-        response = requests.get(
-            f"{TMDB_BASE_URL}/search/movie",  # f-string corrigida
-            params=params,
-            timeout=10
-        )
+        response = requests.get(f"{TMDB_BASE_URL}/{endpoint}", params=params, timeout=10)
         dados = response.json()
-        
         if dados.get('results'):
             path = dados['results'][0].get('poster_path')
-            if path:
-                return f"{TMDB_IMG_BASE}{path}"
-        
-        print(f"⚠️  Poster não encontrado: {nome_filme}")
+            return f"{TMDB_IMG_BASE}{path}" if path else ""
         return ""
-        
-    except Exception as e:
-        print(f"❌ Erro na API TMDB: {str(e)}")
+    except:
         return ""
-
 
 def gerar_m3u():
-    """Gera arquivo M3U"""
-    # Verifica se diretório existe
     os.makedirs("automacao_vod", exist_ok=True)
-    
     if not os.path.exists(INPUT_FILE):
-        print(f"❌ Arquivo de entrada não encontrado: {INPUT_FILE}")
         return False
 
-    print("🎬 Iniciando geração da lista...")
-    contador = 0
-    
-    try:
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f_out:
-            f_out.write("#EXTM3U\n")
-            f_out.write(f"#GENERATED: {datetime.now().isoformat()}\n\n")
-            
-            with open(INPUT_FILE, "r", encoding="utf-8") as f_in:
-                for linha in f_in:
-                    linha = linha.strip()
-                    
-                    # Ignora linhas vazias e comentários
-                    if not linha or linha.startswith('#'):
-                        continue
-                    
-                    if '|' in linha:
-                        partes = [p.strip() for p in linha.split('|')]
-                        
-                        if len(partes) >= 2:
-                            nome = partes[0]
-                            url = partes[1]
-                            categoria = partes[2].strip() if len(partes) > 2 else "VOD"
-                            
-                            capa = buscar_poster_tmdb(nome)
-                            
-                            # Linha M3U corrigida
-                            f_out.write(f'#EXTINF:-1 tvg-logo="{capa}" group-title="{categoria}",{nome}\n')
-                            f_out.write(f'{url}\n\n')
-                            
-                            contador += 1
-                            print(f"✅ Processado: {nome}")
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f_out:
+        # Configuração do cabeçalho com a URL do EPG
+        f_out.write(f'#EXTM3U x-tvg-url="{URL_EPG}"\n\n')
         
-        print(f"\n🎉 Lista '{OUTPUT_FILE}' gerada com sucesso!")
-        print(f"📊 Total de itens: {contador}")
-        return True
-        
-    except Exception as e:
-        print(f"❌ Erro crítico: {str(e)}")
-        return False
+        with open(INPUT_FILE, "r", encoding="utf-8") as f_in:
+            for linha in f_in:
+                linha = linha.strip()
+                if not linha or '|' not in linha:
+                    continue
+                
+                # NOVO FORMATO: Nome | URL | Categoria | Tipo | EPG-ID
+                # Exemplo: Globo | http://... | TV | channel | Globo.br
+                partes = [p.strip() for p in linha.split('|')]
+                nome = partes[0]
+                url = partes[1]
+                cat = partes[2] if len(partes) > 2 else "Geral"
+                tipo = partes[3].lower() if len(partes) > 3 else "movie"
+                epg_id = partes[4] if len(partes) > 4 else "" # ID do canal no XMLTV
 
+                if verificar_link(url):
+                    capa = buscar_metadados(nome, tipo)
+                    tag_serie = ' tvg-type="series"' if tipo == "tv" else ""
+                    tag_epg = f' tvg-id="{epg_id}"' if epg_id else ""
+                    
+                    f_out.write(f'#EXTINF:-1{tag_epg} tvg-logo="{capa}" group-title="{cat}"{tag_serie},{nome}\n')
+                    f_out.write(f'{url}\n\n')
+    return True
 
-# CORREÇÃO CRÍTICA AQUI
 if __name__ == "__main__":
     sucesso = gerar_m3u()
     sys.exit(0 if sucesso else 1)
