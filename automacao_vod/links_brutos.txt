@@ -1,5 +1,4 @@
 # Formato: NOME | URL | CATEGORIA
 Terror na Estrada  | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | TERROR
-Batman | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Ação
-Batman | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Ação
-Batman | https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4 | Ação
+Batman | https://video.wixstatic.com/video/db47f8_1a07d839178b43f88a9e1c892a3288cb/720p/mp4/file.mp4 | Ação
+De Quem É a Culpa? | https://video.wixstatic.com/video/db47f8_d9fa3721bc69458eb3e0b55c761f7464/720p/mp4/file.mp4286d/720p/mp4/file.mp4 | suspense
