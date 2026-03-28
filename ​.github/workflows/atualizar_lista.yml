@@ -2,7 +2,7 @@ name: Gerar VOD Automatico
 on:
   push:
     paths:
-      - 'automacao_vod/links_brutos.txt'
+      - 'automacao_vod/links_brutos'
 jobs:
   build:
     runs-on: ubuntu-latest
