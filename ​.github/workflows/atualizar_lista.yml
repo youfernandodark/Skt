@@ -1,36 +1,25 @@
-name: Gerar Lista VOD com Capas
-
+name: Gerar VOD Automatico
 on:
   push:
     paths:
-      - 'automacao_vod/**'
-
+      - 'automacao_vod/links_brutos.txt'
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout do código
-        uses: actions/checkout@v3
-
-      - name: Configurar Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-
-      # --- NOVO PASSO: Instalar dependências ---
-      - name: Instalar biblioteca Requests
-        run: pip install requests
-
-      - name: Executar script de processamento
+      - run: pip install requests
+      - name: Rodar Processador
         env:
-          # Passa a chave secreta do GitHub para o Python
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }} 
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python automacao_vod/processador.py
-
-      - name: Salvar alterações no repositório
+      - name: Commit e Push
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "Bot VOD"
+          git config --global user.email "bot@vod.com"
           git add lista_final_vod.m3u
-          git commit -m "Auto: Lista VOD atualizada com capas TMDb" || exit 0
+          git commit -m "Lista atualizada automaticamente" || exit 0
           git push
