@@ -63,4 +63,33 @@ def gerar_m3u():
     print(f"Lista '{output_file}' gerada com sucesso!")
 
 if __name__ == "__main__":
+    gerar_m3u()        print(f"Arquivo '{input_file}' não encontrado!")
+        return
+
+    print("Iniciando geração da lista...")
+    
+    with open(output_file, "w", encoding="utf-8") as f_out:
+        f_out.write("#EXTM3U\n")
+        
+        with open(input_file, "r", encoding="utf-8") as f_in:
+            for linha in f_in:
+                if "|" in linha:
+                    partes = [p.strip() for p in linha.split("|")]
+                    
+                    if len(partes) < 2:
+                        continue
+                    
+                    nome = partes[0]
+                    url = partes[1]
+                    categoria = partes[2] if len(partes) > 2 else "VOD"
+                    
+                    capa = buscar_poster_tmdb(nome)
+                    
+                    f_out.write(f'#EXTINF:-1 tvg-logo="{capa}" group-title="{categoria}",{nome}\n{url}\n')
+                    
+                    time.sleep(0.3)
+    
+    print(f"Lista '{output_file}' gerada com sucesso!")
+
+if __name__ == "__main__":
     gerar_m3u()
