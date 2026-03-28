@@ -148,60 +148,112 @@ def gerar_m3u() -> bool:
     logger.info("=" * 50)
     logger.info("Iniciando geração da lista VOD")
     logger.info("=" * 50)
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Processador de Lista VOD - Versão Corrigida
+"""
+
+import os
+import sys
+import requests
+from datetime import datetime
+
+# Configurações TMDB
+TMDB_API_KEY = os.environ.get('TMDB_API_KEY')
+TMDB_BASE_URL = "https://api.themoviedb.org/3"
+TMDB_IMG_BASE = "https://image.tmdb.org/t/p/w500"
+
+# Configurações de Arquivos (CORRIGIDO)
+INPUT_FILE = "automacao_vod/links_brutos.txt"
+OUTPUT_FILE = "automacao_vod/lista_final_vod.m3u"
+
+
+def buscar_poster_tmdb(nome_filme):
+    """Busca poster no TMDB"""
+    if not TMDB_API_KEY:
+        print(f"⚠️  TMDB_API_KEY não configurada")
+        return ""
     
-    if not os.path.exists(INPUT_FILE):
-        logger.error(f"Arquivo de entrada não encontrado: {INPUT_FILE}")
-        return False
-    
-    criar_backup()
-    
-    contador_sucesso = 0
-    contador_falha = 0
+    params = {
+        "api_key": TMDB_API_KEY,  # Sem espaços extras
+        "query": nome_filme,
+        "language": "pt-BR"
+    }
     
     try:
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f_out:
+        response = requests.get(
+            f"{TMDB_BASE_URL}/search/movie",  # f-string corrigida
+            params=params,
+            timeout=10
+        )
+        dados = response.json()
+        
+        if dados.get('results'):
+            path = dados['results'][0].get('poster_path')
+            if path:
+                return f"{TMDB_IMG_BASE}{path}"
+        
+        print(f"⚠️  Poster não encontrado: {nome_filme}")
+        return ""
+        
+    except Exception as e:
+        print(f"❌ Erro na API TMDB: {str(e)}")
+        return ""
+
+
+def gerar_m3u():
+    """Gera arquivo M3U"""
+    # Verifica se diretório existe
+    os.makedirs("automacao_vod", exist_ok=True)
+    
+    if not os.path.exists(INPUT_FILE):
+        print(f"❌ Arquivo de entrada não encontrado: {INPUT_FILE}")
+        return False
+
+    print("🎬 Iniciando geração da lista...")
+    contador = 0
+    
+    try:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f_out:
             f_out.write("#EXTM3U\n")
-            f_out.write(f"#GENERATED: {datetime.now().isoformat()}\n")
-            f_out.write(f"#SOURCE: {INPUT_FILE}\n")
-            f_out.write("\n")
+            f_out.write(f"#GENERATED: {datetime.now().isoformat()}\n\n")
             
-            with open(INPUT_FILE, 'r', encoding='utf-8') as f_in:
-                for num_linha, linha in enumerate(f_in, 1):
-                    dados = validar_linha(linha)
+            with open(INPUT_FILE, "r", encoding="utf-8") as f_in:
+                for linha in f_in:
+                    linha = linha.strip()
                     
-                    if not dados:
+                    # Ignora linhas vazias e comentários
+                    if not linha or linha.startswith('#'):
                         continue
                     
-                    nome = dados['nome']
-                    url = dados['url']
-                    categoria = dados['categoria']
-                    
-                    logger.info(f"Processando [{num_linha}]: {nome}")
-                    
-                    capa = buscar_poster_tmdb(nome)
-                    
-                    f_out.write(f'#EXTINF:-1 ')
-                    f_out.write(f'tvg-id="" ')
-                    f_out.write(f'tvg-name="{nome}" ')
-                    f_out.write(f'tvg-logo="{capa}" ')
-                    f_out.write(f'group-title="{categoria}",')
-                    f_out.write(f'{nome}\n')
-                    f_out.write(f'{url}\n\n')
-                    
-                    contador_sucesso += 1
-                    
-        logger.info("=" * 50)
-        logger.info(f"Processamento concluído!")
-        logger.info(f"Sucesso: {contador_sucesso} | Falhas: {contador_falha}")
-        logger.info(f"Arquivo gerado: {OUTPUT_FILE}")
-        logger.info("=" * 50)
+                    if '|' in linha:
+                        partes = [p.strip() for p in linha.split('|')]
+                        
+                        if len(partes) >= 2:
+                            nome = partes[0]
+                            url = partes[1]
+                            categoria = partes[2].strip() if len(partes) > 2 else "VOD"
+                            
+                            capa = buscar_poster_tmdb(nome)
+                            
+                            # Linha M3U corrigida
+                            f_out.write(f'#EXTINF:-1 tvg-logo="{capa}" group-title="{categoria}",{nome}\n')
+                            f_out.write(f'{url}\n\n')
+                            
+                            contador += 1
+                            print(f"✅ Processado: {nome}")
+        
+        print(f"\n🎉 Lista '{OUTPUT_FILE}' gerada com sucesso!")
+        print(f"📊 Total de itens: {contador}")
         return True
         
     except Exception as e:
-        logger.error(f"Erro crítico: {str(e)}")
+        print(f"❌ Erro crítico: {str(e)}")
         return False
 
 
+# CORREÇÃO CRÍTICA AQUI
 if __name__ == "__main__":
     sucesso = gerar_m3u()
     sys.exit(0 if sucesso else 1)
