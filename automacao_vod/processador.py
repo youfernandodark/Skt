@@ -27,6 +27,7 @@ def gerar_m3u():
         print("Arquivo de links não encontrado.")
         return
 
+    print("Iniciando geração da lista...")
     with open(output_file, "w", encoding="utf-8") as f_out:
         f_out.write("#EXTM3U\n")
         with open(input_file, "r", encoding="utf-8") as f_in:
@@ -37,21 +38,9 @@ def gerar_m3u():
                     url = partes[1]
                     categoria = partes[2] if len(partes) > 2 else "VOD"
                     
-                    print(f"Processando: {nome}")
                     capa = buscar_poster_tmdb(nome)
                     f_out.write(f'#EXTINF:-1 tvg-logo="{capa}" group-title="{categoria}",{nome}\n{url}\n')
-
-if __name__ == "__main__":
-    gerar_m3u()
-                
-                # Adiciona a tag tvg-logo se tivermos uma imagem
-                tag_logo = f' tvg-logo="{url_poster}"' if url_poster else ""
-
-                # Criando a entrada VOD formatada com a logo
-                f_out.write(f'#EXTINF:-1{tag_logo} group-title="{categoria}",{nome}\n')
-                f_out.write(f'{url}\n')
-
-    print(f"Lista '{arquivo_output}' gerada com sucesso com metadados!")
+    print(f"Lista '{output_file}' gerada com sucesso!")
 
 if __name__ == "__main__":
     gerar_m3u()
