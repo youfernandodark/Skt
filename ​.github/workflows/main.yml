@@ -2,7 +2,7 @@ name: Gerar VOD Automatico
 on:
   push:
     paths:
-      - 'automacao_vod/links_brutos'
+      - 'automacao_vod/links_brutos.txt' # Gatilho: roda sempre que mudar os links
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,7 +16,7 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python automacao_vod/processador.py
-      - name: Commit e Push
+      - name: Salvar Alterações
         run: |
           git config --global user.name "Bot VOD"
           git config --global user.email "bot@vod.com"
