@@ -3,11 +3,12 @@ name: 🎬 Gerar VOD Automático
 on:
   push:
     paths:
-      - 'automacao_vod/links_brutos.txt'  # CORRIGIDO: adicionar .txt
+      - 'automacao_vod/links_brutos.txt'
+      - 'automacao_vod/links_series.txt' # Adicionado para monitorar séries
     branches:
       - main
       - master
-  workflow_dispatch:  # Permite execução manual
+  workflow_dispatch: # Permite execução manual
 
 jobs:
   build:
