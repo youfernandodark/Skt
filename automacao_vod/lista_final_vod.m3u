@@ -1,42 +1,42 @@
 #EXTM3U
-#GENERATED: 29/03/2026 01:39
+#GENERATED: 29/03/2026 01:44
 
 #EXTINF:-1 tvg-id="Batman" tvg-name="Batman" tvg-logo="https://image.tmdb.org/t/p/w500/sn2j2DKkE0LnSpmJLHytH8SQUQL.jpg" group-title="[span_1](start_span)Heróis" tvg-type="movie",Batman
 http://link-do-servidor.com/batman.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 01
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 01
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/01.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 02
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 02
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/02.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 03
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 03
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/03.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 04
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 04
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/04.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 05
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 05
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/05.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 06
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 06
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/06.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 07
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 07
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/07.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 08
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 08
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/08.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 09
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 09
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/09.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 10
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 10
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/10.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 11
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 11
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/11.mp4
 
-#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES" tvg-type="series",Chainsaw Man - Temporada 01 - Ep 12
+#EXTINF:-1 tvg-id="Chainsaw Man" tvg-name="Chainsaw Man" tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="ANIMES (Séries)" tvg-type="series",Chainsaw Man - Ep 12
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/12.mp4
 
