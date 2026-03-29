@@ -13,35 +13,43 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-      - name: 📥 Checkout
+      - name: 📥 Checkout do Repositório
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      
-      - name: 🐍 Python Setup
+
+      - name: 🐍 Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
-      
+          cache: 'pip'
+
       - name: 📦 Instalar Dependências
         run: pip install requests
-      
-      - name: 🎬 Rodar Processador
+
+      - name: 🎬 Executar Processador
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          EPG_URL: ${{ secrets.EPG_URL }} # Opcional: URL do XMLTV
         run: python automacao_vod/processador.py
-      
-      - name: 💾 Commit e Push
+
+      - name: 💾 Commit e Push Automático
         run: |
           git config --global user.name "VOD Bot"
           git config --global user.email "vod-bot@users.noreply.github.com"
+          
           git add automacao_vod/lista_final_vod.m3u
-          git diff --cached --quiet || (
-            git commit -m "🔄 [AUTO] Lista Final Atualizada com Sinopses e EPG"
+          
+          # Apenas commita se houver mudanças
+          if ! git diff --cached --quiet; then
+            git commit -m "🔄 [AUTO] Atualização da Lista VOD/TV - $(date +'%Y-%m-%d %H:%M')"
             git push
-          )
+          else
+            echo "✅ Nenhuma alteração detectada na lista final."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
