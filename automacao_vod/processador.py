@@ -17,18 +17,25 @@ FONTES = [
 OUTPUT_FILE = "automacao_vod/lista_final_vod.m3u"
 
 def buscar_dados_tmdb(nome, tipo):
-    if not TMDB_API_KEY: return "0", "", "Sinopse indisponível."
+    if not TMDB_API_KEY:
+        return "0", "", "Sinopse indisponível."
+    
     params = {"api_key": TMDB_API_KEY, "query": nome, "language": "pt-BR"}
+    
     try:
         r = requests.get(f"{TMDB_BASE_URL}/search/{tipo}", params=params, timeout=10)
         dados = r.json()
+        
         if dados.get('results'):
             res = dados['results'][0]
             tmdb_id = str(res.get('id'))
             capa = f"{TMDB_IMG_BASE}{res.get('poster_path')}" if res.get('poster_path') else ""
             sinopse = res.get('overview', 'Sinopse não encontrada.').replace('\n', ' ')
             return tmdb_id, capa, sinopse
-    except: pass
+    except Exception as e:
+        print(f"Erro na busca TMDB: {e}")
+        pass
+    
     return "0", "", "Informação não encontrada."
 
 def main():
@@ -39,12 +46,15 @@ def main():
         f_out.write(f"#GENERATED: {datetime.now().strftime('%d/%m/%Y %H:%M')}\n\n")
         
         for fonte in FONTES:
-            if not os.path.exists(fonte["in"]): continue
+            if not os.path.exists(fonte["in"]):
+                print(f"Arquivo não encontrado: {fonte['in']}")
+                continue
             
             with open(fonte["in"], "r", encoding="utf-8") as f_in:
                 for linha in f_in:
                     linha = linha.strip()
-                    if not linha or '|' not in linha: continue
+                    if not linha or '|' not in linha:
+                        continue
                     
                     # Formato esperado no TXT: Nome | Info Extra | Link
                     partes = [p.strip() for p in linha.split('|')]
@@ -66,6 +76,9 @@ def main():
                             f'description="{sinopse}",{exibicao}\n'
                         )
                         f_out.write(f'{url}\n\n')
+    
+    print(f"Arquivo gerado com sucesso: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
-    main()
+    main()                        
+
