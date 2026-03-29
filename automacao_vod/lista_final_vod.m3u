@@ -1,9 +1,6 @@
 #EXTM3U
-#GENERATED: 29/03/2026 00:19
+#GENERATED: 29/03/2026 00:21
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/haB41Bp0BSUeSwqgAQK12pzEWU0.jpg" group-title="Categoria",Nome
-URL
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/txjpUL8pg3b6LTuwdwDKH9Ycnwf.jpg" group-title="TV",Globo
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18124.ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sn2j2DKkE0LnSpmJLHytH8SQUQL.jpg" group-title="[span_1](start_span)Heróis",Batman
+http://link-do-servidor.com/batman.mp4
 
