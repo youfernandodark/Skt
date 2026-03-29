@@ -1,6 +1,9 @@
 #EXTM3U
 #GENERATED: 29/03/2026 16:46
 
+#EXTINF:-1 tvg-id="0" tvg-name="Nome do Canal Categoria (ex: Esportes)" tvg-logo="" group-title="CANAIS AO VIVO",Nome do Canal Categoria (ex: Esportes)
+Link
+
 #EXTINF:-1 tvg-id="0" tvg-name="Nome do Filme Ano" tvg-logo="" group-title="FILMES",Nome do Filme Ano
 Link
 
