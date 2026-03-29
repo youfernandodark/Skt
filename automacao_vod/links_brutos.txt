@@ -1,4 +1,1 @@
-# NOVO FORMATO: Nome | URL | Categoria | Tipo | EPG-ID
-Nome | URL | Categoria | Tipo | EPG-ID
-                # Exemplo:
-Globo | http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18124.ts | TV | channel | Globo.br
+Batman | http://link-do-servidor.com/batman.mp4 | [span_1](start_span)Heróis 
