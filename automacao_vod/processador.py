@@ -12,23 +12,36 @@ INPUT_SERIES = "automacao_vod/links_series.txt"
 OUTPUT_FILE = "automacao_vod/lista_final_vod.m3u"
 
 def buscar_dados_tmdb(nome):
-    if not TMDB_API_KEY: return "0", ""
-    params = {"api_key": TMDB_API_KEY, "query": nome, "language": "pt-BR"}
+    if not TMDB_API_KEY:
+        return "0", " "
+    
+    params = {
+        "api_key": TMDB_API_KEY,
+        "query": nome,
+        "language": "pt-BR"
+    }
     try:
         r = requests.get(f"{TMDB_BASE_URL}/search/tv", params=params, timeout=10)
         dados = r.json()
         if dados.get('results'):
             res = dados['results'][0]
-            return str(res.get('id')), f"{TMDB_IMG_BASE}{res.get('poster_path')}"
-    except: pass
-    return "0", ""
+            poster_path = res.get('poster_path')
+            capa = f"{TMDB_IMG_BASE}{poster_path}" if poster_path else ""
+            return str(res.get('id')), capa
+    except Exception as e:
+        print(f"Erro ao buscar TMDB: {e}")
+    return "0", " "
 
 def processar_series(f_out):
-    if not os.path.exists(INPUT_SERIES): return
+    if not os.path.exists(INPUT_SERIES):
+        print(f"Arquivo {INPUT_SERIES} não encontrado.")
+        return
+    
     with open(INPUT_SERIES, "r", encoding="utf-8") as f_in:
         for linha in f_in:
             linha = linha.strip()
-            if not linha or '|' not in linha: continue
+            if not linha or '|' not in linha:
+                continue
             
             # Formato esperado: Nome | Temporada EP | Link
             partes = [p.strip() for p in linha.split('|')]
@@ -48,6 +61,7 @@ def main():
         f_out.write("#EXTM3U\n")
         f_out.write(f"#GENERATED: {datetime.now().strftime('%d/%m/%Y %H:%M')}\n\n")
         processar_series(f_out)
+    print(f"Lista gerada com sucesso em {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
