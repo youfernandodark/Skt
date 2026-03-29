@@ -1,8 +1,8 @@
 #EXTM3U
-#GENERATED: 29/03/2026 22:57
+#GENERATED: 29/03/2026 23:13
 
-#EXTINF:-1 tvg-id="0" tvg-name="Nome do Canal" tvg-logo="" group-title="CANAIS AO VIVO" description="Informação não encontrada.",Nome do Canal Categoria (ex: Esportes)
-Link
+#EXTINF:-1 tvg-id="0" tvg-name="ESPORTV" tvg-logo="" group-title="CANAIS AO VIVO" description="Informação não encontrada.",ESPORTV ESPORTES
+https://2.cdn2embed.site/sportv/index.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="Chainsaw Man – O Filme: Arco da Reze Dublado" tvg-logo="" group-title="FILMES" description="Informação não encontrada.",Chainsaw Man – O Filme: Arco da Reze Dublado 2025
 https://aniplay.online/Midias/Animes/Letra-C/Chainsaw-Man-Movie/Dub/01.mp4
