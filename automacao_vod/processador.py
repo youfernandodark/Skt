@@ -1,5 +1,4 @@
 import os
-import sys
 import requests
 from datetime import datetime
 
@@ -12,54 +11,43 @@ TMDB_IMG_BASE = "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
 INPUT_SERIES = "automacao_vod/links_series.txt"
 OUTPUT_FILE = "automacao_vod/lista_final_vod.m3u"
 
-def buscar_dados_tmdb(nome, tipo="tv"):
-    if not TMDB_API_KEY: return "", ""
-    endpoint = "search/tv" if tipo == "tv" else "search/movie"
+def buscar_dados_tmdb(nome):
+    if not TMDB_API_KEY: return "0", ""
     params = {"api_key": TMDB_API_KEY, "query": nome, "language": "pt-BR"}
     try:
-        r = requests.get(f"{TMDB_BASE_URL}/{endpoint}", params=params, timeout=10)
+        r = requests.get(f"{TMDB_BASE_URL}/search/tv", params=params, timeout=10)
         dados = r.json()
         if dados.get('results'):
-            result = dados['results'][0]
-            id_tmdb = str(result.get('id'))
-            path = result.get('poster_path')
-            capa = f"{TMDB_IMG_BASE}{path}" if path else ""
-            return id_tmdb, capa
+            res = dados['results'][0]
+            return str(res.get('id')), f"{TMDB_IMG_BASE}{res.get('poster_path')}"
     except: pass
-    return "", ""
+    return "0", ""
 
-def processar_arquivo(caminho, f_out, tipo="tv"):
-    if not os.path.exists(caminho): return 0
-    contador = 0
-    with open(caminho, "r", encoding="utf-8") as f_in:
+def processar_series(f_out):
+    if not os.path.exists(INPUT_SERIES): return
+    with open(INPUT_SERIES, "r", encoding="utf-8") as f_in:
         for linha in f_in:
             linha = linha.strip()
             if not linha or '|' not in linha: continue
             
+            # Formato esperado: Nome | Temporada EP | Link
             partes = [p.strip() for p in linha.split('|')]
             if len(partes) >= 3:
-                nome_serie, temporada_ep, url = partes[0], partes[1], partes[2]
+                nome_serie, ep_info, url = partes[0], partes[1], partes[2]
+                tmdb_id, capa = buscar_dados_tmdb(nome_serie)
                 
-                # Busca ID e Capa reais no TMDB
-                id_tmdb, capa = buscar_dados_tmdb(nome_serie, "tv")
+                exibicao = f"{nome_serie} {ep_info}"
                 
-                # Monta a exibição: Nome S01 E01
-                exibicao = f"{nome_serie} {temporada_ep}"
-                
-                # FORMATO EXATO: #EXTINF:-1 tvg-id="ID" tvg-name="NOME EP" tvg-logo="CAPA" group-title="NOME SERIE",NOME EP
-                f_out.write(f'#EXTINF:-1 tvg-id="{id_tmdb}" tvg-name="{exibicao}" tvg-logo="{capa}" group-title="{nome_serie}",{exibicao}\n')
+                # Formato idêntico ao solicitado
+                f_out.write(f'#EXTINF:-1 tvg-id="{tmdb_id}" tvg-name="{exibicao}" tvg-logo="{capa}" group-title="{nome_serie}",{exibicao}\n')
                 f_out.write(f'{url}\n\n')
-                contador += 1
-    return contador
 
 def main():
     os.makedirs("automacao_vod", exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f_out:
         f_out.write("#EXTM3U\n")
         f_out.write(f"#GENERATED: {datetime.now().strftime('%d/%m/%Y %H:%M')}\n\n")
-        total = processar_arquivo(INPUT_SERIES, f_out, "tv")
-    print(f"✅ Sucesso! {total} episódios gerados no novo formato.")
+        processar_series(f_out)
 
 if __name__ == "__main__":
     main()
-        
