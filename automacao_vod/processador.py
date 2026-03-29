@@ -1,4 +1,4 @@
- import os
+import os
 import sys
 import logging
 import requests
@@ -15,36 +15,29 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class Config:
-    """Gerenciamento de Configurações e Caminhos"""
     BASE_DIR = Path(__file__).parent
     OUTPUT_FILE = BASE_DIR / "lista_final_vod.m3u"
     TMDB_BASE_URL = "https://api.themoviedb.org/3"
     TMDB_IMG_BASE = "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
     
-    # URL Externa de EPG (XMLTV) - Configure no Player ou deixe vazio
-    EPG_URL = os.environ.get('https://epgshare01.online e https://iptv-epg.org/ ', '') 
+    # URLs de EPG corrigidas (separadas por vírgula no padrão M3U)
+    EPG_URL = "https://epgshare01.online,https://iptv-epg.org/"
 
+    # Mapeamento rigoroso para o TMDB e Categorias
     FONTES: List[Dict[str, str]] = [
-        { "input": "links_tv.txt", "tipo": "tv", "categoria": "CANAIS AO VIVO" },
-        { "input": "links_filmes.txt", "tipo": "movie", "categoria": "FILMES" },
-        { "input": "links_series.txt", "tipo": "tv", "categoria": "SÉRIES" }
+        { "input": "links_tv.txt", "tipo": "tv", "categoria": "CANAIS AO VIVO", "m3u_type": "live" },
+        { "input": "links_filmes.txt", "tipo": "movie", "categoria": "FILMES", "m3u_type": "movie" },
+        { "input": "links_series.txt", "tipo": "tv", "categoria": "SÉRIES", "m3u_type": "series" }
     ]
 
 class TMDBHandler:
-    """Classe responsável por interagir com a API do TMDB"""
-    
     def __init__(self, api_key: str):
         self.api_key = api_key
         self.session = requests.Session()
         self.session.headers.update({"Accept": "application/json"})
 
     def buscar_dados(self, nome: str, tipo: str) -> Tuple[str, str, str]:
-        """
-        Busca metadados no TMDB.
-        Retorna: (tmdb_id, logo_url, sinopse)
-        """
-        if not self.api_key:
-            logger.warning("TMDB_API_KEY não configurada. Metadados ignorados.")
+        if not self.api_key or self.api_key == "SUA_CHAVE_AQUI":
             return "0", "", "Sinopse indisponível."
 
         params = {
@@ -55,6 +48,7 @@ class TMDBHandler:
         }
 
         try:
+            # O TMDB usa 'movie' ou 'tv' para busca
             url = f"{Config.TMDB_BASE_URL}/search/{tipo}"
             response = self.session.get(url, params=params, timeout=10)
             response.raise_for_status()
@@ -66,95 +60,67 @@ class TMDBHandler:
                 poster_path = res.get('poster_path')
                 
                 logo = f"{Config.TMDB_IMG_BASE}{poster_path}" if poster_path else ""
-                sinopse = res.get('overview', 'Sinopse não encontrada.').replace('\n', ' ').strip()
+                # Limpa quebras de linha na sinopse para não quebrar o M3U
+                sinopse = res.get('overview' if tipo == 'movie' else 'overview', 'Sinopse não encontrada.').replace('\n', ' ').replace('\r', '').strip()
                 
-                logger.info(f"✓ TMDB ID {tmdb_id} encontrado para '{nome}'")
                 return tmdb_id, logo, sinopse
             
-            logger.debug(f"⚠ Nenhum resultado TMDB para '{nome}'")
             return "0", "", "Informação não encontrada."
-
-        except requests.exceptions.RequestException as e:
-            logger.error(f"✗ Erro na requisição TMDB: {e}")
         except Exception as e:
-            logger.error(f"✗ Erro inesperado: {e}")
-            
-        return "0", "", "Erro na busca."
+            logger.error(f"Erro TMDB: {e}")
+            return "0", "", ""
 
 def processar_linha(linha: str, fonte: Dict[str, str], tmdb_handler: TMDBHandler) -> Optional[str]:
-    """Processa uma linha do arquivo de entrada e retorna a string formatada para M3U"""
     partes = [p.strip() for p in linha.split('|')]
-    
-    if len(partes) < 3:
-        return None
+    if len(partes) < 2: return None
 
-    nome_obra = partes[0].strip()
-    info_extra = partes[1].strip()
-    url = partes[2].strip()
+    nome_obra = partes[0]
+    # Se não houver info_extra (partes[1]), a URL será a partes[1]
+    info_extra = partes[1] if len(partes) > 2 else ""
+    url = partes[2] if len(partes) > 2 else partes[1]
 
-    # Busca metadados
     tmdb_id, capa, sinopse = tmdb_handler.buscar_dados(nome_obra, fonte["tipo"])
-
-    # Padronização do ID para EPG (minúsculas, sem espaços especiais)
+    
     tvg_id = tmdb_id if tmdb_id != "0" else nome_obra.lower().replace(" ", "_")
     nome_exibicao = f"{nome_obra} {info_extra}".strip()
 
-    # Construção da entrada M3U
+    # Inclusão da tag m3u_type e correção de metadados para players VOD
     extinf = (
         f'#EXTINF:-1 tvg-id="{tvg_id}" '
         f'tvg-name="{nome_obra}" '
         f'tvg-logo="{capa}" '
         f'group-title="{fonte["categoria"]}" '
+        f'tvg-type="{fonte["m3u_type"]}" '
         f'description="{sinopse}",{nome_exibicao}'
     )
     
-    return f"{extinf}\n{url}\n"
+    return f"{extinf}\n{url}"
 
 def main():
-    logger.info("🚀 Iniciando processador de listas VOD/TV")
-    
     api_key = os.environ.get('TMDB_API_KEY')
     tmdb_handler = TMDBHandler(api_key)
-    
-    # Garantir que o diretório existe
     Config.OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
     try:
         with open(Config.OUTPUT_FILE, "w", encoding="utf-8") as f_out:
-            # Cabeçalho M3U com suporte a EPG externo
-            f_out.write("#EXTM3U\n")
-            if Config.EPG_URL:
-                f_out.write(f'#EXTM3U url-tvg="{Config.EPG_URL}"\n')
-            f_out.write(f"#GENERATED: {datetime.now().strftime('%d/%m/%Y %H:%M')}\n\n")
+            f_out.write(f'#EXTM3U x-tvg-url="{Config.EPG_URL}"\n\n')
 
-            total_linhas = 0
-            
             for fonte in Config.FONTES:
                 caminho_arquivo = Config.BASE_DIR / fonte["input"]
+                if not caminho_arquivo.exists(): continue
                 
-                if not caminho_arquivo.exists():
-                    logger.warning(f"Arquivo não encontrado: {caminho_arquivo}")
-                    continue
-                
-                logger.info(f"📁 Processando: {fonte['input']}")
-                
+                logger.info(f"Processando: {fonte['input']}")
                 with open(caminho_arquivo, "r", encoding="utf-8") as f_in:
                     for linha in f_in:
-                        linha = linha.strip()
-                        if not linha or '|' not in linha:
-                            continue
-                        
-                        resultado = processar_linha(linha, fonte, tmdb_handler)
-                        if resultado:
-                            f_out.write(resultado)
-                            f_out.write("\n") # Espaçamento entre entradas
-                            total_linhas += 1
+                        res = processar_linha(linha.strip(), fonte, tmdb_handler)
+                        if res:
+                            f_out.write(res + "\n")
 
-        logger.info(f"✅ Sucesso! {total_linhas} entradas geradas em {Config.OUTPUT_FILE}")
-
+        logger.info("✅ Lista atualizada com sucesso!")
     except Exception as e:
-        logger.error(f"❌ Falha crítica na geração do arquivo: {e}")
-        sys.exit(1)
+        logger.error(f"Erro: {e}")
 
 if __name__ == "__main__":
-    main()                       
+    main()
+                 
+                
