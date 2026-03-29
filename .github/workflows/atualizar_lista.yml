@@ -1,1 +1,56 @@
+name: 🎬 Automação VOD e TV ao Vivo
+
+on:
+  push:
+    paths:
+      - 'automacao_vod/links_tv.txt'
+      - 'automacao_vod/links_filmes.txt'
+      - 'automacao_vod/links_series.txt'
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 📥 Checkout do Repositório
+        uses: actions/checkout@v4
+        with:
+          [span_2](start_span)fetch-depth: 0[span_2](end_span)
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: 📦 Instalar Dependências
+        run: pip install requests
+
+      - name: 🎬 Executar Processador
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          EPG_URL: ${{ secrets.EPG_URL }}
+        [span_3](start_span)run: python automacao_vod/processador.py[span_3](end_span)
+
+      - name: 💾 Commit e Push Automático
+        run: |
+          [span_4](start_span)git config --global user.name "VOD Bot"[span_4](end_span)
+          [span_5](start_span)git config --global user.email "vod-bot@users.noreply.github.com"[span_5](end_span)
+          
+          git add automacao_vod/lista_final_vod.m3u
+          
+          # Verifica se há algo novo para commitar
+          [span_6](start_span)if git diff --cached --quiet; then[span_6](end_span)
+            [span_7](start_span)echo "✅ Nenhuma alteração detectada na lista final."[span_7](end_span)
+          else
+            git commit -m "🔄 [AUTO] Atualização da Lista VOD/TV - $(date +'%Y-%m-%d %H:%M')"
+            git push
+          [span_8](start_span)fi[span_8](end_span)
+        env:
+          [span_9](start_span)GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}[span_9](end_span)
 
