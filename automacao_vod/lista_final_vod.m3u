@@ -1,11 +1,14 @@
 #EXTM3U
-#GENERATED: 29/03/2026 18:06
+#GENERATED: 29/03/2026 18:53
 
 #EXTINF:-1 tvg-id="0" tvg-name="Nome do Canal" tvg-logo="" group-title="CANAIS AO VIVO" description="Informação não encontrada.",Nome do Canal Categoria (ex: Esportes)
 Link
 
 #EXTINF:-1 tvg-id="0" tvg-name="Chainsaw Man – O Filme: Arco da Reze Dublado" tvg-logo="" group-title="FILMES" description="Informação não encontrada.",Chainsaw Man – O Filme: Arco da Reze Dublado 2025
 https://aniplay.online/Midias/Animes/Letra-C/Chainsaw-Man-Movie/Dub/01.mp4
+
+#EXTINF:-1 tvg-id="290271" tvg-name="One Piece 3D2Y" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nYx5d5svGibvuPQfV4GVy8IhmS.jpg" group-title="FILMES" description="Depois de sua grande perda durante a Guerra dos Maiorais de Marineford, Luffy tem feridas que, muito além do físico, doem em seu coração. Mas ele terá que deixar esse sofrimento de lado quando um novo inimigo aparecer e colocar suas aliadas de Amazon Lily em risco!",One Piece 3D2Y 2014
+https://aniplay.online/Midias/Animes/Letra-O/One-Piece-Filme/One-Piece-3D2Y-Dub.mp4
 
 #EXTINF:-1 tvg-id="0" tvg-name="Chainsaw Man Dublado" tvg-logo="" group-title="SÉRIES" description="Informação não encontrada.",Chainsaw Man Dublado T01 E01
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/01.mp4
