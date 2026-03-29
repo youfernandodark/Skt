@@ -1,5 +1,8 @@
 #EXTM3U
-#GENERATED: 29/03/2026 16:45
+#GENERATED: 29/03/2026 16:46
+
+#EXTINF:-1 tvg-id="0" tvg-name="Nome do Filme Ano" tvg-logo="" group-title="FILMES",Nome do Filme Ano
+Link
 
 #EXTINF:-1 tvg-id="111110" tvg-name="da Série T01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aesLt9fsKSA6KCgGxA60VVxjtLk.jpg" group-title="SÉRIES",da Série T01 E01
 Link
