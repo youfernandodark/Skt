@@ -1,21 +1,9 @@
 #EXTM3U
-#GENERATED: 2026-03-28T22:36:09.784933
+#GENERATED: 29/03/2026 00:19
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uwvDlRJEpcBsgLo665hZqsMgH0V.jpg" group-title="TERROR",Terror na Estrada
-https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/haB41Bp0BSUeSwqgAQK12pzEWU0.jpg" group-title="Categoria",Nome
+URL
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sn2j2DKkE0LnSpmJLHytH8SQUQL.jpg" group-title="Ação",Batman
-https://video.wixstatic.com/video/db47f8_1a07d839178b43f88a9e1c892a3288cb/720p/mp4/file.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qOXYA00nvxL7QGggB0zJtrKpBB3.jpg" group-title="suspense",De Quem É a Culpa?
-https://video.wixstatic.com/video/db47f8_d9fa3721bc69458eb3e0b55c761f7464/720p/mp4/file.mp4286d/720p/mp4/file.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qOXYA00nvxL7QGggB0zJtrKpBB3.jpg" group-title="suspense",De Quem É a Culpa?
-https://video.wixstatic.com/video/db47f8_f55303190c72470c8b83fbe34711e99f/720p/mp4/file.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mytDZ2Uulslrts6O8uskJyB7Oel.jpg" group-title="suspense",Fuga do Hospício: A Histó
-https://video.wixstatic.com/video/db47f8_d9fa3721bc69458eb3e0b55c761f7464/720p/mp4/file.mp4286d/720p/mp4/file.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qOXYA00nvxL7QGggB0zJtrKpBB3.jpg" group-title="suspense",De Quem É a Culpa?
-https://video.wixstatic.com/video/db47f8_d9fa3721bc69458eb3e0b55c761f7464/720p/mp4/file.mp4286d/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/txjpUL8pg3b6LTuwdwDKH9Ycnwf.jpg" group-title="TV",Globo
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18124.ts
 
