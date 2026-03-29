@@ -22,7 +22,7 @@ class Config:
     TMDB_IMG_BASE = "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
     
     # URL Externa de EPG (XMLTV) - Configure no Player ou deixe vazio
-    EPG_URL = os.environ.get('EPG_URL', '') 
+    EPG_URL = os.environ.get('https://epgshare01.online e https://iptv-epg.org/ ', '') 
 
     FONTES: List[Dict[str, str]] = [
         { "input": "links_tv.txt", "tipo": "tv", "categoria": "CANAIS AO VIVO" },
