@@ -1,10 +1,10 @@
 #EXTM3U
-#GENERATED: 29/03/2026 01:20
+#GENERATED: 29/03/2026 01:23
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sn2j2DKkE0LnSpmJLHytH8SQUQL.jpg" group-title="[span_1](start_span)Heróis",Batman
 http://link-do-servidor.com/batman.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="Chainsaw Man Dublado [span_4](start_span) ANIMES" tvg-type="series",Chainsaw Man
+#EXTINF:-1 tvg-logo="" group-title="Chainsaw Man Dublado" tvg-type="series",Chainsaw Man S01E01
 https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/01.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg" group-title="Chainsaw Man Dublado [span_4](start_span) ANIMES" tvg-type="series",Chainsaw Man
