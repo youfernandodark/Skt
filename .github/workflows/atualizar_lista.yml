@@ -13,25 +13,26 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
     steps:
       - name: 📥 Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
+      
       - name: 🐍 Python Setup
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
-
+      
       - name: 📦 Instalar Dependências
         run: pip install requests
-
+      
       - name: 🎬 Rodar Processador
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python automacao_vod/processador.py
-
+      
       - name: 💾 Commit e Push
         run: |
           git config --global user.name "VOD Bot"
@@ -43,3 +44,4 @@ jobs:
           )
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
