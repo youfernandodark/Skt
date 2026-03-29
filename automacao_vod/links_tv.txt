@@ -1,1 +1,1 @@
-Nome do Canal | Categoria (ex: Esportes) | Link
+ESPORTV | ESPORTES |https://2.cdn2embed.site/sportv/index.m3u8 
