@@ -1,9 +1,45 @@
 #EXTM3U
-#GENERATED: 29/03/2026 00:22
+#GENERATED: 29/03/2026 00:42
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sn2j2DKkE0LnSpmJLHytH8SQUQL.jpg" group-title="[span_1](start_span)Heróis",Batman
 http://link-do-servidor.com/batman.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="[span_4](start_span)Séries de Drama" tvg-type="series",The Last of Us S01E01
 http://link.com/tlou_01.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",Episódio 01: Chainsaw Man Dublado S01E01
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/01.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 02: Chainsaw Man Dublado S01E02
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/02.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 03: Chainsaw Man Dublado S01E03
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/03.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 04: Chainsaw Man Dublado S01E04
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/04.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 05: Chainsaw Man Dublado S01E05
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/05.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 06: Chainsaw Man Dublado S01E06
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/06.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 07: Chainsaw Man Dublado S01E07
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/07.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 08: Chainsaw Man Dublado S01E08
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/08.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 09: Chainsaw Man Dublado S01E09
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/09.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 10: Chainsaw Man Dublado S01E10
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/10.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 11: Chainsaw Man Dublado S01E11
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/11.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="[span_4](start_span) ANIMES" tvg-type="series",​Episódio 12: Chainsaw Man Dublado S01E12
+https://cld.pt/dl/download/ccd4ab6b-79e7-4317-93bb-c8289d1a7356/12.mp4
 
