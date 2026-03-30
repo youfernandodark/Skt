@@ -3,7 +3,7 @@ import requests
 import re
 
 # COLOQUE SUA CHAVE AQUI OU USE VARIÁVEIS DE AMBIENTE
-TMDB_API_KEY = "SUA_CHAVE_AQUI"
+TMDB_API_KEY = "TMDB_API_KEY"
 BASE_URL = "https://api.themoviedb.org/3/search/multi"
 
 def buscar_metadados(nome_limpo):
