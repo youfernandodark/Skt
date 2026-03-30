@@ -6,7 +6,6 @@ from datetime import datetime
 from pathlib import Path
 from typing import Optional, Tuple, List, Dict
 
-# Configuração de Logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -15,7 +14,6 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class Config:
-    """Configurações de caminhos e URLs"""
     BASE_DIR = Path(__file__).parent
     OUTPUT_FILE = BASE_DIR / "lista_final_vod.m3u"
     TMDB_BASE_URL = "https://api.themoviedb.org/3"
@@ -25,18 +23,17 @@ class Config:
     FONTES: List[Dict[str, str]] = [
         {"input": "links_tv.txt", "tipo": "tv", "categoria": "CANAIS AO VIVO"},
         {"input": "links_filmes.txt", "tipo": "movie", "categoria": "FILMES"},
-        {"input": "links_series.txt", "tipo": "tv", "categoria": "SÉRIES"}
+        {"input": "links_series.txt", "tipo": "tv", "categoria": "SERIES"}
     ]
 
 class TMDBHandler:
-    """Busca capas e sinopses no TMDB"""
     def __init__(self, api_key: str):
         self.api_key = api_key
         self.session = requests.Session()
 
     def buscar_dados(self, nome: str, tipo: str) -> Tuple[str, str, str]:
         if not self.api_key:
-            return "0", "", "Sinopse indisponível."
+            return "0", "", "Sinopse indisponivel."
 
         params = {"api_key": self.api_key, "query": nome, "language": "pt-BR"}
 
@@ -53,13 +50,12 @@ class TMDBHandler:
                 sinopse = res.get('overview', '').replace('\n', ' ').strip()
                 return tmdb_id, poster, sinopse
 
-            return "0", "", "Informação não encontrada."
+            return "0", "", "Informacao nao encontrada."
         except Exception as e:
             logger.error(f"Erro ao buscar {nome}: {e}")
             return "0", "", "Erro na busca."
 
 def processar_linha(linha: str, fonte: Dict[str, str], tmdb_handler: TMDBHandler) -> Optional[str]:
-    """Formata a linha para o padrão M3U Plus"""
     partes = [p.strip() for p in linha.split('|')]
     if len(partes) < 3:
         return None
@@ -100,9 +96,9 @@ def main():
                         if resultado:
                             f_out.write(resultado + "\n\n")
 
-        logger.info(f"✅ Arquivo gerado: {Config.OUTPUT_FILE}")
+        logger.info(f"Arquivo gerado: {Config.OUTPUT_FILE}")
     except Exception as e:
-        logger.error(f"❌ Erro crítico: {e}")
+        logger.error(f"Erro critico: {e}")
         sys.exit(1)
 
 if __name__ == "__main__":
