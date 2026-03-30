@@ -2,7 +2,7 @@ name: Gerar Playlist Unificada
 
 on:
   push:
-    branches: [ main, develop ]
+    branches: [main, develop]
   schedule:
     # Executa diariamente às 3:00 AM
     - cron: '0 3 * * *'
@@ -12,30 +12,29 @@ on:
 jobs:
   gerar-playlist:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      
+
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
-      
+
       - name: Instalar dependências
         run: |
           python -m pip install --upgrade pip
           pip install requests python-dotenv
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      
+
       - name: Executar gerador de playlist
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python gerador.py --output lista_final.m3u
-      
+        run: python processador.py --output lista_final.m3u
+
       - name: Validar arquivo gerado
         run: |
           if [ ! -f lista_final.m3u ]; then
@@ -44,7 +43,7 @@ jobs:
           fi
           echo "Arquivo gerado com sucesso:"
           wc -l lista_final.m3u
-      
+
       - name: Commit e push das alterações
         run: |
           git config --global user.name "GitHub Action Bot"
@@ -54,7 +53,7 @@ jobs:
             git commit -m "🤖 Atualização automática da playlist - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
           )
-      
+
       - name: Criar release (opcional)
         if: github.ref == 'refs/heads/main'
         uses: softprops/action-gh-release@v1
@@ -62,8 +61,7 @@ jobs:
           tag_name: playlist-${{ github.run_number }}
           name: Playlist ${{ github.run_number }}
           body: |
-            Playlist gerada automaticamente em $(date '+%d/%m/%Y %H:%M:%S')
-            
+            Playlist gerada automaticamente em $(date '+%d/%m/%Y %H:%S')
             **Estatísticas:**
             - Total de itens: $(grep -c "^#EXTINF" lista_final.m3u || echo 0)
           files: lista_final.m3u
