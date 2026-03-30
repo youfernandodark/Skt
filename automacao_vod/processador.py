@@ -6,7 +6,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Optional, Tuple, List, Dict
 
-# Configuração de Logging para monitorar o progresso no GitHub Actions
+# Configuração de Logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -20,18 +20,16 @@ class Config:
     OUTPUT_FILE = BASE_DIR / "lista_final_vod.m3u"
     TMDB_BASE_URL = "https://api.themoviedb.org/3"
     TMDB_IMG_BASE = "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
-    # URL de EPG para os canais ao vivo
-    EPG_URL = os.environ.get('EPG_URL', 'https://iptv-epg.org/') 
+    EPG_URL = os.environ.get('EPG_URL', 'https://iptv-epg.org/')
 
-    # Mapeamento dos seus arquivos de entrada
     FONTES: List[Dict[str, str]] = [
-        { "input": "links_tv.txt", "tipo": "tv", "categoria": "CANAIS AO VIVO" },
-        { "input": "links_filmes.txt", "tipo": "movie", "categoria": "FILMES" },
-        { "input": "links_series.txt", "tipo": "tv", "categoria": "SÉRIES" }
+        {"input": "links_tv.txt", "tipo": "tv", "categoria": "CANAIS AO VIVO"},
+        {"input": "links_filmes.txt", "tipo": "movie", "categoria": "FILMES"},
+        {"input": "links_series.txt", "tipo": "tv", "categoria": "SÉRIES"}
     ]
 
 class TMDBHandler:
-    """Busca capas e sinopses reais no TMDB"""
+    """Busca capas e sinopses no TMDB"""
     def __init__(self, api_key: str):
         self.api_key = api_key
         self.session = requests.Session()
@@ -40,7 +38,7 @@ class TMDBHandler:
         if not self.api_key:
             return "0", "", "Sinopse indisponível."
 
-        params = { "api_key": self.api_key, "query": nome, "language": "pt-BR" }
+        params = {"api_key": self.api_key, "query": nome, "language": "pt-BR"}
 
         try:
             url = f"{Config.TMDB_BASE_URL}/search/{tipo}"
@@ -54,7 +52,7 @@ class TMDBHandler:
                 poster = f"{Config.TMDB_IMG_BASE}{res.get('poster_path')}" if res.get('poster_path') else ""
                 sinopse = res.get('overview', '').replace('\n', ' ').strip()
                 return tmdb_id, poster, sinopse
-            
+
             return "0", "", "Informação não encontrada."
         except Exception as e:
             logger.error(f"Erro ao buscar {nome}: {e}")
@@ -65,13 +63,12 @@ def processar_linha(linha: str, fonte: Dict[str, str], tmdb_handler: TMDBHandler
     partes = [p.strip() for p in linha.split('|')]
     if len(partes) < 3:
         return None
-    
+
     nome_obra, info_extra, url = partes[0], partes[1], partes[2]
     tmdb_id, capa, sinopse = tmdb_handler.buscar_dados(nome_obra, fonte["tipo"])
 
     tvg_id = tmdb_id if tmdb_id != "0" else nome_obra.lower().replace(" ", "_")
 
-    # Construção da entrada M3U com tags avançadas
     extinf = (
         f'#EXTINF:-1 tvg-id="{tvg_id}" '
         f'tvg-name="{nome_obra}" '
@@ -93,9 +90,9 @@ def main():
 
             for fonte in Config.FONTES:
                 caminho = Config.BASE_DIR / fonte["input"]
-                if not caminho.exists(): 
+                if not caminho.exists():
                     continue
-                
+
                 logger.info(f"Processando: {fonte['input']}")
                 with open(caminho, "r", encoding="utf-8") as f_in:
                     for linha in f_in:
