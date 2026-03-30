@@ -1,11 +1,9 @@
-name: Automação VOD e TV ao Vivo
+name: 🎬 Automação VOD e TV ao Vivo
 
 on:
   push:
     paths:
-      - 'automacao_vod/links_tv.txt'
-      - 'automacao_vod/links_filmes.txt'
-      - 'automacao_vod/links_series.txt'
+      - 'automacao_vod/links_*.txt'
     branches:
       - main
   workflow_dispatch:
@@ -13,40 +11,32 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout do Repositorio
+      - name: 📥 Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Configurar Python
+      - name: 🐍 Python Setup
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.10'
           cache: 'pip'
 
-      - name: Instalar Dependencias
+      - name: 📦 Instalar Dependências
         run: pip install requests
 
-      - name: Executar Processador
+      - name: 🎬 Rodar Processador
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          EPG_URL: "https://epgshare01.online,https://iptv-epg.org/"
         run: python automacao_vod/processador.py
 
-      - name: Commit e Push Automatico
+      - name: 💾 Commit e Push
         run: |
           git config --global user.name "VOD Bot"
           git config --global user.email "vod-bot@users.noreply.github.com"
           git add automacao_vod/lista_final_vod.m3u
           if ! git diff --cached --quiet; then
-            git commit -m "[AUTO] Atualizacao da Lista VOD/TV"
+            git commit -m "🔄 [AUTO] Lista Final Atualizada"
             git push
-          else
-            echo "Nenhuma alteracao detectada."
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
