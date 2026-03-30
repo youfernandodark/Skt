@@ -13,43 +13,41 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
-      [span_0](start_span)contents: write # Permissão necessária para o bot salvar a lista[span_0](end_span)
-    
+      contents: write
+
     steps:
-      - name: 📥 Checkout do Repositório
+      - name: 📥 Checkout
         uses: actions/checkout@v4
         with:
-          [span_1](start_span)fetch-depth: 0 # Baixa o histórico para evitar conflitos de git[span_1](end_span)
+          fetch-depth: 0
 
-      - name: 🐍 Configurar Python
+      - name: 🐍 Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
           cache: 'pip'
 
-      - name: 📦 Instalar Dependências
+      - name: 📦 Dependências
         run: pip install requests
 
-      - name: 🎬 Executar Processador
+      - name: 🎬 Rodar Script
         env:
-          [span_2](start_span)TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }} # Puxa a chave das configurações do GitHub[span_2](end_span)
-          EPG_URL: "https://epgshare01.online,https://iptv-epg.org/"
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          EPG_URL: "https://iptv-epg.org/"
         run: python automacao_vod/processador.py
 
-      - name: 💾 Commit e Push Automático
+      - name: 💾 Commit automático
         run: |
           git config --global user.name "VOD Bot"
           git config --global user.email "vod-bot@users.noreply.github.com"
-          
+
           git add automacao_vod/lista_final_vod.m3u
-          
-          # [span_3](start_span)Verifica se o arquivo realmente mudou antes de subir[span_3](end_span)
+
           if ! git diff --cached --quiet; then
-            git commit -m "🔄 [AUTO] Atualização da Lista VOD/TV - $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "🔄 Atualização automática $(date +'%Y-%m-%d %H:%M')"
             git push
           else
-            [span_4](start_span)echo "✅ Nenhuma alteração detectada na lista final."[span_4](end_span)
+            echo "Nenhuma mudança detectada"
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
