@@ -1,42 +1,38 @@
-name: 🎬 Automação VOD e TV ao Vivo
+name: Atualizar Lista VOD com TMDb
 
 on:
   push:
-    paths:
-      - 'automacao_vod/links_*.txt'
-    branches:
-      - main
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: 📥 Checkout
-        uses: actions/checkout@v4
+    - name: Checkout do código
+      uses: actions/checkout@v3
 
-      - name: 🐍 Python Setup
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-          cache: 'pip'
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
 
-      - name: 📦 Instalar Dependências
-        run: pip install requests
+    - name: Instalar Dependências
+      run: pip install requests
 
-      - name: 🎬 Rodar Processador
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python automacao_vod/processador.py
+    - name: Executar Processador
+      run: python processador.py
+      env:
+        # Recomendo salvar sua chave nos 'Secrets' do GitHub como TMDB_KEY
+        TMDB_API_KEY: ${{ secrets.TMDB_KEY }} 
 
-      - name: 💾 Commit e Push
-        run: |
-          git config --global user.name "VOD Bot"
-          git config --global user.email "vod-bot@users.noreply.github.com"
-          git add automacao_vod/lista_final_vod.m3u
-          if ! git diff --cached --quiet; then
-            git commit -m "🔄 [AUTO] Lista Final Atualizada"
-            git push
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Salvar alterações
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add lista_final_vod.m3u
+        git commit -m "Auto-update: Lista com Posters TMDb" || exit 0
+        git push
