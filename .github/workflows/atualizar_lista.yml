@@ -1,71 +1,55 @@
-name: Gerar Playlist Unificada
+name: 🎬 Automação VOD e TV ao Vivo
 
 on:
   push:
-    branches: [main, develop]
-  schedule:
-    # Executa diariamente às 3:00 AM
-    - cron: '0 3 * * *'
+    paths:
+      - 'automacao_vod/links_tv.txt'
+      - 'automacao_vod/links_filmes.txt'
+      - 'automacao_vod/links_series.txt'
+    branches:
+      - main
   workflow_dispatch:
-    # Permite execução manual
 
 jobs:
-  gerar-playlist:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      [span_0](start_span)contents: write # Permissão necessária para o bot salvar a lista[span_0](end_span)
+    
     steps:
-      - name: Checkout do código
+      - name: 📥 Checkout do Repositório
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          [span_1](start_span)fetch-depth: 0 # Baixa o histórico para evitar conflitos de git[span_1](end_span)
 
-      - name: Configurar Python
+      - name: 🐍 Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.9'
           cache: 'pip'
 
-      - name: Instalar dependências
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests python-dotenv
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: 📦 Instalar Dependências
+        run: pip install requests
 
-      - name: Executar gerador de playlist
+      - name: 🎬 Executar Processador
         env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python processador.py --output lista_final.m3u
+          [span_2](start_span)TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }} # Puxa a chave das configurações do GitHub[span_2](end_span)
+          EPG_URL: "https://epgshare01.online,https://iptv-epg.org/"
+        run: python automacao_vod/processador.py
 
-      - name: Validar arquivo gerado
+      - name: 💾 Commit e Push Automático
         run: |
-          if [ ! -f lista_final.m3u ]; then
-            echo "Erro: Arquivo lista_final.m3u não foi gerado!"
-            exit 1
-          fi
-          echo "Arquivo gerado com sucesso:"
-          wc -l lista_final.m3u
-
-      - name: Commit e push das alterações
-        run: |
-          git config --global user.name "GitHub Action Bot"
-          git config --global user.email "bot@github.com"
-          git add lista_final.m3u
-          git diff --quiet && git diff --staged --quiet || (
-            git commit -m "🤖 Atualização automática da playlist - $(date '+%Y-%m-%d %H:%M:%S')"
+          git config --global user.name "VOD Bot"
+          git config --global user.email "vod-bot@users.noreply.github.com"
+          
+          git add automacao_vod/lista_final_vod.m3u
+          
+          # [span_3](start_span)Verifica se o arquivo realmente mudou antes de subir[span_3](end_span)
+          if ! git diff --cached --quiet; then
+            git commit -m "🔄 [AUTO] Atualização da Lista VOD/TV - $(date +'%Y-%m-%d %H:%M')"
             git push
-          )
-
-      - name: Criar release (opcional)
-        if: github.ref == 'refs/heads/main'
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: playlist-${{ github.run_number }}
-          name: Playlist ${{ github.run_number }}
-          body: |
-            Playlist gerada automaticamente em $(date '+%d/%m/%Y %H:%S')
-            **Estatísticas:**
-            - Total de itens: $(grep -c "^#EXTINF" lista_final.m3u || echo 0)
-          files: lista_final.m3u
-          draft: false
-          prerelease: false
+          else
+            [span_4](start_span)echo "✅ Nenhuma alteração detectada na lista final."[span_4](end_span)
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
