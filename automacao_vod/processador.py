@@ -5,6 +5,9 @@ from typing import List, Dict, Any, Optional
 from dataclasses import dataclass, asdict
 from datetime import datetime
 import logging
+import importlib.util
+import sys
+import argparse
 
 # Configuração de logging
 logging.basicConfig(
@@ -12,6 +15,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
+
 
 @dataclass
 class ConteudoM3U:
@@ -28,22 +32,22 @@ class ConteudoM3U:
     episodio: str = ""
     avaliacao: float = 0.0
     generos: List[str] = None
-    
+
     def __post_init__(self):
         if self.generos is None:
             self.generos = []
 
+
 class TMDbClient:
     """Cliente para integração com a API do TMDb"""
-    
     BASE_URL = "https://api.themoviedb.org/3"
     IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
-    
+
     def __init__(self, api_key: Optional[str] = None):
         self.api_key = api_key or os.getenv("TMDB_API_KEY", "")
         if not self.api_key:
             logger.warning("TMDB API Key não configurada. Funcionalidades limitadas.")
-    
+
     def buscar_por_titulo(self, titulo: str, ano: Optional[str] = None) -> Optional[Dict]:
         """Busca conteúdo no TMDb pelo título"""
         if not self.api_key:
@@ -73,7 +77,7 @@ class TMDbClient:
             logger.error(f"Erro ao buscar '{titulo}' no TMDb: {e}")
         
         return None
-    
+
     def obter_detalhes(self, tmdb_id: int, media_type: str) -> Optional[Dict]:
         """Obtém detalhes completos de um item do TMDb"""
         if not self.api_key:
@@ -96,7 +100,7 @@ class TMDbClient:
             logger.error(f"Erro ao obter detalhes do ID {tmdb_id}: {e}")
         
         return None
-    
+
     def enriquecer_item(self, item: Dict[str, Any]) -> Dict[str, Any]:
         """Enriquece um item com dados do TMDb"""
         titulo = item.get("titulo", "")
@@ -125,12 +129,13 @@ class TMDbClient:
         
         return item
 
+
 class GeradorM3U:
     """Classe principal para geração de playlists M3U"""
     
     def __init__(self, tmdb_api_key: Optional[str] = None):
         self.tmdb_client = TMDbClient(tmdb_api_key)
-    
+
     def detectar_tipo(self, item: Dict[str, Any]) -> str:
         """Detecta se é filme ou série baseado em várias heurísticas"""
         titulo = item.get("titulo", "")
@@ -148,7 +153,7 @@ class GeradorM3U:
         ]
         
         return "series" if any(padroes_serie) else "movie"
-    
+
     def formatar_descricao(self, item: Dict[str, Any]) -> str:
         """Formata a descrição com informações adicionais"""
         partes = []
@@ -170,7 +175,7 @@ class GeradorM3U:
         
         # Escapa caracteres especiais
         return descricao.replace('"', '\\"').replace('\n', ' ').strip()
-    
+
     def gerar_linha(self, item: Dict[str, Any]) -> str:
         """Gera uma linha EXTINF para o arquivo M3U"""
         
@@ -208,8 +213,8 @@ class GeradorM3U:
             f'description="{descricao}",{titulo}\n'
         )
         
-        return f"{extinf}{url}\n\n"
-    
+        return f"{extinf}{url}\n"
+
     def gerar_playlist(self, lista_conteudo: List[Dict[str, Any]]) -> str:
         """Gera o conteúdo completo do arquivo M3U"""
         
@@ -250,7 +255,7 @@ class GeradorM3U:
         logger.info(f"Playlist gerada com sucesso! Filmes: {stats['movie']}, Séries: {stats['series']}")
         
         return conteudo
-    
+
     def salvar_playlist(self, lista_conteudo: List[Dict[str, Any]], nome_arquivo: str = "playlist.m3u"):
         """Gera e salva a playlist em arquivo"""
         conteudo = self.gerar_playlist(lista_conteudo)
@@ -261,13 +266,11 @@ class GeradorM3U:
         logger.info(f"Arquivo {nome_arquivo} salvo com sucesso!")
         return nome_arquivo
 
+
 def carregar_dados(arquivo: str = "organizador.py") -> List[Dict[str, Any]]:
     """Carrega os dados do arquivo organizador"""
     try:
         # Se for arquivo Python, importa dinamicamente
-        import importlib.util
-        import sys
-        
         spec = importlib.util.spec_from_file_location("organizador", arquivo)
         if spec and spec.loader:
             module = importlib.util.module_from_spec(spec)
@@ -287,28 +290,30 @@ def carregar_dados(arquivo: str = "organizador.py") -> List[Dict[str, Any]]:
         logger.error(f"Erro ao carregar dados: {e}")
         return []
 
+
 def main():
     """Função principal"""
-    import argparse
-    
     parser = argparse.ArgumentParser(description="Gerador de playlist M3U")
     parser.add_argument("--arquivo", default="organizador.py", help="Arquivo com os dados")
     parser.add_argument("--output", default="playlist.m3u", help="Nome do arquivo de saída")
     parser.add_argument("--tmdb-key", help="Chave da API do TMDb (opcional)")
     args = parser.parse_args()
-    
+
     # Carrega dados
     dados = carregar_dados(args.arquivo)
-    
+
     if not dados:
         logger.error("Nenhum dado encontrado para processar")
         return
-    
+
     logger.info(f"Carregados {len(dados)} itens de {args.arquivo}")
-    
+
     # Gera playlist
     gerador = GeradorM3U(tmdb_api_key=args.tmdb_key)
     gerador.salvar_playlist(dados, args.output)
 
+
 if __name__ == "__main__":
-    main()                
+    main()            
+                    
+        
