@@ -16,10 +16,10 @@ if not TMDB_API_KEY:
     logger.error("Erro: Variável de ambiente TMDB_API_KEY não encontrada.")
     exit(1)
 
-def buscar_metadados(nome_limpo: str) -> Tuple[str, str, str]:
-    """Busca poster, ano e sinopse no TMDB."""
+def buscar_metadados(nome_limpo: str) -> Tuple[str, str, str, str]:
+    """Busca poster, ano, sinopse e ID no TMDB."""
     if not nome_limpo or nome_limpo == "Desconhecido":
-        return "", "", ""
+        return "", "", "", ""
         
     try:
         params = {
@@ -34,15 +34,18 @@ def buscar_metadados(nome_limpo: str) -> Tuple[str, str, str]:
         
         if data.get('results'):
             res = data['results'][0]
+            tmdb_id = str(res.get('id', ''))
             poster = f"https://image.tmdb.org/t/p/w500{res.get('poster_path')}" if res.get('poster_path') else ""
-            sinopse = res.get('overview', 'Sinopse não disponível.').replace('\n', ' ').replace('"', "'")
+            sinopse = res.get('overview', '').replace('\n', ' ').replace('"', "'")
+            
             data_lanc = res.get('release_date') or res.get('first_air_date') or ""
             ano = data_lanc.split('-')[0] if '-' in data_lanc else ""
-            return poster, ano, sinopse
+            
+            return poster, ano, sinopse, tmdb_id
     except Exception as e:
         logger.error(f"Erro ao buscar metadados de '{nome_limpo}': {e}")
     
-    return "", "", ""
+    return "", "", "", ""
 
 def limpar_nome(header: str) -> str:
     """Extrai o nome removendo pipes e prefixos."""
@@ -53,11 +56,10 @@ def limpar_nome(header: str) -> str:
 
 def gerar_m3u():
     pasta = "automacao_vod"
-    # DEFINIÇÃO DAS TAGS DE CATEGORIA
     arquivos = {
         "links_tv.txt": {"type": "live", "group": "Canais Ao Vivo"},
         "links_filmes.txt": {"type": "movie", "group": "Filmes"},
-        "links_series.txt": {"type": "series", "group": "Séries"} # Aqui define como série
+        "links_series.txt": {"type": "series", "group": "Séries"}
     }
     
     output_file = "lista_final_vod.m3u"
@@ -83,16 +85,17 @@ def gerar_m3u():
                     if not header.startswith("#EXTINF"): continue
 
                     nome_original = limpar_nome(header)
-                    logo, ano, sinopse = "", "", ""
+                    logo, ano, sinopse, tmdb_id = "", "", "", ""
                     
-                    # Busca metadados apenas para filmes e séries
                     if info["type"] in ["movie", "series"]:
-                        logo, ano, sinopse = buscar_metadados(nome_original)
+                        logo, ano, sinopse, tmdb_id = buscar_metadados(nome_original)
                     
                     nome_exibicao = f"{nome_original} ({ano})" if ano else nome_original
                     
-                    # IMPORTANTE: tvg-type define se vai para aba TV ou Filmes/Séries
+                    # Adição do tmdb-id e tvg-id para reconhecimento automático
                     tags = f'tvg-type="{info["type"]}" group-title="{info["group"]}"'
+                    if tmdb_id:
+                        tags += f' tmdb-id="{tmdb_id}" tvg-id="{tmdb_id}"'
                     if logo:
                         tags += f' tvg-logo="{logo}"'
                     if sinopse:
@@ -100,9 +103,9 @@ def gerar_m3u():
                     
                     f_out.write(f'#EXTINF:-1 {tags},{nome_exibicao}\n{url}\n')
             
-    logger.info(f"✅ Lista corrigida gerada: {output_file}")
+    logger.info(f"✅ Lista atualizada com IDs em {output_file}")
 
 if __name__ == "__main__":
     gerar_m3u()
-        
+                    
         
