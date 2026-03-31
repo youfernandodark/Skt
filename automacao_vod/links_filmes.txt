@@ -1,2 +1,3 @@
-#EXTINF:-1,| Nome do Filme 
-| http://link.com/filme.mp4
+#EXTINF:-1,Nome do Filme
+http://link.com/filme.mp4
+
