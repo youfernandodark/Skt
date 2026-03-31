@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",Nome do Filme
+http://link.com/filme.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Filmes",Nome do Filme
+http://link.com/filme.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries",Nome do Filme
+http://link.com/filme.mp4
