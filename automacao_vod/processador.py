@@ -2,24 +2,24 @@ import os
 import requests
 import re
 import logging
-from typing import Optional
+from typing import Optional, Tuple
 
 # Configuração de Logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# Configurações - Busca exatamente o que o YAML envia
+# Configurações - Pega a chave enviada pelo GitHub Actions
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 BASE_URL = "https://api.themoviedb.org/3/search/multi"
 
 if not TMDB_API_KEY:
-    logger.error("Erro: Variável de ambiente TMDB_API_KEY não encontrada no GitHub Secrets.")
+    logger.error("Erro: Variável de ambiente TMDB_API_KEY não encontrada.")
     exit(1)
 
-def buscar_metadados(nome_limpo: str) -> Optional[str]:
-    """Busca o poster no TMDB baseado no nome limpo."""
+def buscar_metadados(nome_limpo: str) -> Tuple[str, str]:
+    """Busca o poster e o ano no TMDB."""
     if not nome_limpo or nome_limpo == "Desconhecido":
-        return ""
+        return "", ""
         
     try:
         params = {
@@ -33,24 +33,28 @@ def buscar_metadados(nome_limpo: str) -> Optional[str]:
         data = response.json()
         
         if data.get('results'):
-            primeiro_resultado = data['results'][0]
-            poster_path = primeiro_resultado.get('poster_path')
-            if poster_path:
-                return f"https://image.tmdb.org/t/p/w500{poster_path}"
+            res = data['results'][0]
+            poster = f"https://image.tmdb.org/t/p/w500{res.get('poster_path')}" if res.get('poster_path') else ""
+            
+            # Tenta pegar a data de lançamento (filme ou série)
+            data_lancamento = res.get('release_date') or res.get('first_air_date') or ""
+            ano = data_lancamento.split('-')[0] if '-' in data_lancamento else ""
+            
+            return poster, ano
     except Exception as e:
         logger.error(f"Erro ao buscar '{nome_limpo}': {e}")
     
-    return ""
+    return "", ""
 
 def limpar_nome(header: str) -> str:
-    """Remove caracteres especiais e extrai o nome real do filme."""
-    # Remove o prefixo #EXTINF e tags extras
+    """Extrai o nome do filme removendo pipes e espaços extras."""
     nome = header.split(',')[-1]
-    # Remove pipes '|' ou outros caracteres que atrapalham a busca
     nome_limpo = nome.replace('|', '').strip()
     return nome_limpo if nome_limpo else "Desconhecido"
 
 def gerar_m3u():
+    # Caminho ajustado para a pasta onde os arquivos estão no seu repositório
+    pasta = "automacao_vod"
     arquivos = {
         "links_tv.txt": {"type": "live", "group": "Canais Ao Vivo"},
         "links_filmes.txt": {"type": "movie", "group": "Filmes"},
@@ -63,12 +67,15 @@ def gerar_m3u():
         f_out.write("#EXTM3U\n")
         
         for nome_arq, info in arquivos.items():
-            if not os.path.exists(nome_arq):
+            # Tenta ler da pasta ou da raiz para evitar erros de localização
+            caminho_completo = os.path.join(pasta, nome_arq) if os.path.exists(pasta) else nome_arq
+            
+            if not os.path.exists(caminho_completo):
                 continue
                 
             logger.info(f"Processando: {nome_arq}")
             
-            with open(nome_arq, "r", encoding="utf-8") as f_in:
+            with open(caminho_completo, "r", encoding="utf-8") as f_in:
                 linhas = [l.strip() for l in f_in.readlines() if l.strip()]
                 
                 for i in range(0, len(linhas), 2):
@@ -79,19 +86,25 @@ def gerar_m3u():
                     
                     if not header.startswith("#EXTINF"): continue
 
-                    nome_busca = limpar_nome(header)
-                    logo = buscar_metadados(nome_busca) if info["type"] != "live" else ""
+                    nome_original = limpar_nome(header)
+                    logo, ano = "", ""
+                    
+                    if info["type"] != "live":
+                        logo, ano = buscar_metadados(nome_original)
+                    
+                    # Se achou o ano, atualiza o nome que aparece na lista
+                    nome_exibicao = f"{nome_original} ({ano})" if ano else nome_original
                     
                     tags = f'tvg-type="{info["type"]}" group-title="{info["group"]}"'
                     if logo:
                         tags += f' tvg-logo="{logo}"'
                     
-                    # Injeta as tags logo após o #EXTINF:-1
-                    novo_header = re.sub(r'^#EXTINF:-1', f'#EXTINF:-1 {tags}', header)
+                    # Monta o novo header com as tags e o nome atualizado com ano
+                    novo_header = f'#EXTINF:-1 {tags},{nome_exibicao}'
                     f_out.write(f"{novo_header}\n{url}\n")
             
-    logger.info(f"🎉 Sucesso! Lista gerada: {output_file}")
+    logger.info(f"🎉 Lista final atualizada com anos em {output_file}")
 
 if __name__ == "__main__":
     gerar_m3u()
-                
+        
