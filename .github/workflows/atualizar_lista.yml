@@ -28,8 +28,7 @@ jobs:
       - name: Executar Processador
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python processador.py
-
+        run: python automacao_vod/processador.py
       - name: Commit e Push
         run: |
           git config --global user.name "GitHub Action"
