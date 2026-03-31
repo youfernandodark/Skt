@@ -8,16 +8,19 @@ from typing import Optional
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# Configurações
+# Configurações - Busca exatamente o que o YAML envia
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 BASE_URL = "https://api.themoviedb.org/3/search/multi"
 
 if not TMDB_API_KEY:
-    logger.error("Erro: Variável de ambiente TMDB_API_KEY não encontrada.")
+    logger.error("Erro: Variável de ambiente TMDB_API_KEY não encontrada no GitHub Secrets.")
     exit(1)
 
 def buscar_metadados(nome_limpo: str) -> Optional[str]:
     """Busca o poster no TMDB baseado no nome limpo."""
+    if not nome_limpo or nome_limpo == "Desconhecido":
+        return ""
+        
     try:
         params = {
             "api_key": TMDB_API_KEY,
@@ -25,7 +28,6 @@ def buscar_metadados(nome_limpo: str) -> Optional[str]:
             "language": "pt-BR",
             "page": 1
         }
-        # Adicionado timeout para evitar travamentos
         response = requests.get(BASE_URL, params=params, timeout=10)
         response.raise_for_status()
         data = response.json()
@@ -33,27 +35,22 @@ def buscar_metadados(nome_limpo: str) -> Optional[str]:
         if data.get('results'):
             primeiro_resultado = data['results'][0]
             poster_path = primeiro_resultado.get('poster_path')
-            
             if poster_path:
                 return f"https://image.tmdb.org/t/p/w500{poster_path}"
-            else:
-                logger.warning(f"Sem poster para: {nome_limpo}")
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Erro na requisição TMDB para '{nome_limpo}': {e}")
     except Exception as e:
-        logger.error(f"Erro inesperado ao buscar metadados: {e}")
+        logger.error(f"Erro ao buscar '{nome_limpo}': {e}")
     
     return ""
 
 def limpar_nome(header: str) -> str:
-    """Extrai o nome do conteúdo após a última vírgula do #EXTINF."""
-    # Padrão M3U: #EXTINF:-1 info...,NOME DO CANAL/FILME
-    if "," in header:
-        return header.rsplit(',', 1)[-1].strip()
-    return "Desconhecido"
+    """Remove caracteres especiais e extrai o nome real do filme."""
+    # Remove o prefixo #EXTINF e tags extras
+    nome = header.split(',')[-1]
+    # Remove pipes '|' ou outros caracteres que atrapalham a busca
+    nome_limpo = nome.replace('|', '').strip()
+    return nome_limpo if nome_limpo else "Desconhecido"
 
 def gerar_m3u():
-    # Correção: Removidos espaços extras nas chaves e valores
     arquivos = {
         "links_tv.txt": {"type": "live", "group": "Canais Ao Vivo"},
         "links_filmes.txt": {"type": "movie", "group": "Filmes"},
@@ -67,52 +64,34 @@ def gerar_m3u():
         
         for nome_arq, info in arquivos.items():
             if not os.path.exists(nome_arq):
-                logger.warning(f"Arquivo {nome_arq} não encontrado. Pulando...")
                 continue
                 
-            logger.info(f"Processando {nome_arq}...")
+            logger.info(f"Processando: {nome_arq}")
             
             with open(nome_arq, "r", encoding="utf-8") as f_in:
-                linhas = f_in.readlines()
+                linhas = [l.strip() for l in f_in.readlines() if l.strip()]
                 
-                # Itera de 2 em 2 (Header + URL)
                 for i in range(0, len(linhas), 2):
-                    if i + 1 >= len(linhas):
-                        break
+                    if i + 1 >= len(linhas): break
                         
-                    header = linhas[i].strip()
-                    url = linhas[i+1].strip()
+                    header = linhas[i]
+                    url = linhas[i+1]
                     
-                    if not header.startswith("#EXTINF"):
-                        continue
+                    if not header.startswith("#EXTINF"): continue
 
                     nome_busca = limpar_nome(header)
+                    logo = buscar_metadados(nome_busca) if info["type"] != "live" else ""
                     
-                    # Só busca poster se não for TV Ao Vivo
-                    logo = ""
-                    if info["type"] != "live":
-                        logo = buscar_metadados(nome_busca)
-                    
-                    # Construção das tags M3U corretamente formatadas
-                    # Ex: tvg-type="movie" group-title="Filmes" tvg-logo="url"
                     tags = f'tvg-type="{info["type"]}" group-title="{info["group"]}"'
                     if logo:
                         tags += f' tvg-logo="{logo}"'
                     
-                    # Injeta as tags logo após #EXTINF:-1
-                    # Substitui #EXTINF:-1 por #EXTINF:-1 [TAGS]
-                    # Usa regex para garantir que pega o início da linha
-                    novo_header = re.sub(
-                        r'^#EXTINF:-1', 
-                        f'#EXTINF:-1 {tags}', 
-                        header
-                    )
-                    
+                    # Injeta as tags logo após o #EXTINF:-1
+                    novo_header = re.sub(r'^#EXTINF:-1', f'#EXTINF:-1 {tags}', header)
                     f_out.write(f"{novo_header}\n{url}\n")
             
-            logger.info(f"✅ Concluído: {nome_arq}")
-
-    logger.info(f"🎉 Lista final gerada em {output_file}")
+    logger.info(f"🎉 Sucesso! Lista gerada: {output_file}")
 
 if __name__ == "__main__":
     gerar_m3u()
+                
