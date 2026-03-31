@@ -1,2 +1,24 @@
-#EXTINF:-1, Nome do Filme
-http://link.com/filme.mp4
+#EXTINF:-1,Chainsaw Man Dublado E01
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/01.mp4
+#EXTINF:-1,Chainsaw Man Dublado E02
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/02.mp4
+#EXTINF:-1,Chainsaw Man Dublado E03
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/03.mp4
+#EXTINF:-1,Chainsaw Man Dublado E04
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/04.mp4
+#EXTINF:-1,Chainsaw Man Dublado E05
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/05.mp4
+#EXTINF:-1,Chainsaw Man Dublado E06
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/06.mp4
+#EXTINF:-1,Chainsaw Man Dublado E07
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/07.mp4
+#EXTINF:-1,Chainsaw Man Dublado E08
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/08.mp4
+#EXTINF:-1,Chainsaw Man Dublado E09
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/09.mp4
+#EXTINF:-1,Chainsaw Man Dublado E10
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/10.mp4
+#EXTINF:-1,Chainsaw Man Dublado E11
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/11.mp4
+#EXTINF:-1,Chainsaw Man Dublado E12
+https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/12.mp4
