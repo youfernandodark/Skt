@@ -1,26 +1,26 @@
 #EXTINF:-1,Chainsaw Man Dublado S01 E01
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/01.mp4
-#EXTINF:-1,Chainsaw Man Dublado E02
+#EXTINF:-1,Chainsaw Man Dublado S01 E02
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/02.mp4
-#EXTINF:-1,Chainsaw Man Dublado E03
+#EXTINF:-1,Chainsaw Man Dublado S01 E03
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/03.mp4
-#EXTINF:-1,Chainsaw Man Dublado E04
+#EXTINF:-1,Chainsaw Man Dublado S01 E04
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/04.mp4
-#EXTINF:-1,Chainsaw Man Dublado E05
+#EXTINF:-1,Chainsaw Man Dublado S01 E05
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/05.mp4
-#EXTINF:-1,Chainsaw Man Dublado E06
+#EXTINF:-1,Chainsaw Man Dublado S01 E06
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/06.mp4
-#EXTINF:-1,Chainsaw Man Dublado E07
+#EXTINF:-1,Chainsaw Man Dublado S01 E07
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/07.mp4
-#EXTINF:-1,Chainsaw Man Dublado E08
+#EXTINF:-1,Chainsaw Man Dublado S01 E08
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/08.mp4
-#EXTINF:-1,Chainsaw Man Dublado E09
+#EXTINF:-1,Chainsaw Man Dublado S01 E09
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/09.mp4
-#EXTINF:-1,Chainsaw Man Dublado E10
+#EXTINF:-1,Chainsaw Man Dublado S01 E10
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/10.mp4
-#EXTINF:-1,Chainsaw Man Dublado E11
+#EXTINF:-1,Chainsaw Man Dublado S01 E11
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/11.mp4
-#EXTINF:-1,Chainsaw Man Dublado E12
+#EXTINF:-1,Chainsaw Man Dublado S01 E12
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/12.mp4
-#EXTINF:-1,Dr. Stone: Science Future 3 Dublado https://animeflix.blog/Animes/Letra-D/Dr.%20Stone-%20Science%20Future%20%202/Dub/01.mp4
-
+#EXTINF:-1,Dr. Stone: Science Future Dublado E01
+https://animeflix.blog/Animes/Letra-D/Dr.%20Stone-%20Science%20Future%20%202/Dub/01.mp4
