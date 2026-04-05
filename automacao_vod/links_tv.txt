@@ -1,1 +1,2 @@
-#EXTINF:-1,AMC http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
+#EXTINF:-1,AMC
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
