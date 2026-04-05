@@ -1,2 +1,1 @@
-#EXTINF:-1, Nome do Filme
-http://link.com/filme.mp4
+#EXTINF:-1, AMC http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
