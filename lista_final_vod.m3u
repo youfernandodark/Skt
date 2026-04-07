@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://seu-link-de-epg.xml"
+#EXTM3U url-tvg="https://github.com/limaalef/BrazilTVEPG/blob/main/epg.xml"
 #EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo" tvg-id="amc.br",AMC HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
 #EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo" tvg-id="HBO.us",HBO Family
