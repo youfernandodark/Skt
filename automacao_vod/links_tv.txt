@@ -2,3 +2,10 @@
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
 #EXTINF:-1 tvg-id="SPACE HD" group-title="Canais | Filmes e Séries",Space HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13027.ts
+#EXTINF:-1 tvg-id="sportv" group-title="Canais | Esportes",Sportv
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
+#EXTINF:-1 tvg-id="sportv-2" group-title="Canais | Esportes",Sportv 2
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21003.ts
+#EXTINF:-1 tvg-id="sportv-3" group-title="Canais | Esportes",Sportv 3
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21006.ts
+
