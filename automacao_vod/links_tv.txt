@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="amc.br",AMC HD
+#EXTINF:-1 tvg-id="amc.br"group-title="Canais | Filmes e Séries",AMC HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
-#EXTINF:-1 tvg-id="SPACE HD",Space HD
+#EXTINF:-1 tvg-id="SPACE HD"group-title="Canais | Filmes e Séries",Space HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13027.ts
