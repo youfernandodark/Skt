@@ -13,7 +13,6 @@ logger = logging.getLogger(__name__)
 # Configurações
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 BASE_URL = "https://api.themoviedb.org/3/search/multi"
-# ADICIONE O LINK DO SEU EPG AQUI
 URL_EPG = "https://github.com/limaalef/BrazilTVEPG/blob/main/epg.xml" 
 
 if not TMDB_API_KEY:
@@ -29,22 +28,13 @@ retry_strategy = Retry(
 session.mount("https://", HTTPAdapter(max_retries=retry_strategy))
 
 def buscar_metadados(nome_limpo: str) -> Tuple[str, str, str, str]:
-    """Busca poster, ano, sinopse e ID no TMDB."""
     if not nome_limpo or nome_limpo == "Desconhecido":
         return "", "", "", ""
-        
     try:
-        params = {
-            "api_key": TMDB_API_KEY,
-            "query": nome_limpo,
-            "language": "pt-BR",
-            "page": 1,
-            "include_adult": "false"
-        }
+        params = {"api_key": TMDB_API_KEY, "query": nome_limpo, "language": "pt-BR", "page": 1, "include_adult": "false"}
         response = session.get(BASE_URL, params=params, timeout=10)
         response.raise_for_status()
         data = response.json()
-        
         if data.get('results'):
             res = data['results'][0]
             tmdb_id = str(res.get('id', ''))
@@ -53,21 +43,17 @@ def buscar_metadados(nome_limpo: str) -> Tuple[str, str, str, str]:
             sinopse = res.get('overview', '').replace('\n', ' ').replace('"', "'").strip()
             data_lanc = res.get('release_date') or res.get('first_air_date') or ""
             ano = data_lanc.split('-')[0] if '-' in data_lanc else ""
-            
             return poster, ano, sinopse, tmdb_id
-            
     except Exception as e:
         logger.warning(f"Erro ao buscar metadados para '{nome_limpo}': {e}")
-    
     return "", "", "", ""
 
-def extrair_tvg_id(header: str) -> str:
-    """Extrai o valor da tag tvg-id do cabeçalho original, se existir."""
-    match = re.search(r'tvg-id="([^"]+)"', header)
+def extrair_tag(header: str, tag: str) -> str:
+    """Extrai o valor de qualquer tag (tvg-id, group-title, etc) do cabeçalho."""
+    match = re.search(f'{tag}="([^"]+)"', header)
     return match.group(1) if match else ""
 
 def limpar_nome(header: str) -> str:
-    """Extrai o nome do canal/filme removendo as tags EXTM3U."""
     if "," in header:
         nome = header.rsplit(',', 1)[-1]
         nome = nome.replace('|', '').strip()
@@ -76,17 +62,17 @@ def limpar_nome(header: str) -> str:
 
 def gerar_m3u():
     pasta = "automacao_vod"
+    # Removido o grupo fixo dos links_tv.txt
     arquivos_config = {
-        "links_tv.txt": {"type": "live", "group": "Canais Ao Vivo"},
-        "links_filmes.txt": {"type": "movie", "group": "Filmes"},
-        "links_series.txt": {"type": "series", "group": "Séries"}
+        "links_tv.txt": {"type": "live", "default_group": "Canais Ao Vivo"},
+        "links_filmes.txt": {"type": "movie", "default_group": "Filmes"},
+        "links_series.txt": {"type": "series", "default_group": "Séries"}
     }
     
     output_file = "lista_final_vod.m3u"
     
     try:
         with open(output_file, "w", encoding="utf-8") as f_out:
-            # Cabeçalho com suporte a EPG
             f_out.write(f'#EXTM3U url-tvg="{URL_EPG}"\n')
             
             for nome_arq, info in arquivos_config.items():
@@ -95,7 +81,7 @@ def gerar_m3u():
                 if not os.path.exists(caminho):
                     continue
                     
-                logger.info(f"Processando: {info['group']}")
+                logger.info(f"Lendo arquivo: {nome_arq}")
                 
                 with open(caminho, "r", encoding="utf-8") as f_in:
                     linhas = [l.strip() for l in f_in if l.strip()]
@@ -107,9 +93,12 @@ def gerar_m3u():
                         if not header.startswith("#EXTINF"): continue
 
                         nome_original = limpar_nome(header)
-                        # Tenta pegar o tvg-id que você colocou no TXT
-                        tvg_id_existente = extrair_tvg_id(header)
                         
+                        # CAPTURA O GRUPO DO ARQUIVO ORIGINAL OU USA O PADRÃO
+                        grupo_original = extrair_tag(header, "group-title")
+                        grupo_final = grupo_original if grupo_original else info["default_group"]
+                        
+                        tvg_id_existente = extrair_tag(header, "tvg-id")
                         logo, ano, sinopse, tmdb_id = "", "", "", ""
                         
                         if info["type"] in ["movie", "series"]:
@@ -118,9 +107,8 @@ def gerar_m3u():
                         nome_exibicao = f"{nome_original} ({ano})" if ano else nome_original
                         
                         # Montagem das tags
-                        tags = [f'tvg-type="{info["type"]}"', f'group-title="{info["group"]}"']
+                        tags = [f'tvg-type="{info["type"]}"', f'group-title="{grupo_final}"']
                         
-                        # Prioridade: tvg-id do TMDb para VOD, ou tvg-id manual para Live
                         final_tvg_id = tmdb_id if tmdb_id else tvg_id_existente
                         if final_tvg_id: 
                             tags.append(f'tvg-id="{final_tvg_id}"')
@@ -138,4 +126,4 @@ def gerar_m3u():
 
 if __name__ == "__main__":
     gerar_m3u()
-    
+  
