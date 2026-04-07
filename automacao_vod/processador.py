@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 BASE_URL = "https://api.themoviedb.org/3/search/multi"
 # ADICIONE O LINK DO SEU EPG AQUI
-URL_EPG = "http://seu-link-de-epg.xml" 
+URL_EPG = "https://github.com/limaalef/BrazilTVEPG/blob/main/epg.xml" 
 
 if not TMDB_API_KEY:
     logger.error("Variável de ambiente TMDB_API_KEY não encontrada.")
