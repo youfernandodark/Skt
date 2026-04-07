@@ -1,2 +1,4 @@
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-id="amc.br",AMC HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
+#EXTINF:-1 tvg-id="HBO.us",HBO Family
+https://link-do-stream.com/hbo.m3u8
