@@ -4,3 +4,5 @@ https://aniplay.online/Midias/Animes/Letra-O/One-Piece-Filme/One-Piece-3D2Y-Dub.
 https://aniplay.online/Midias/Animes/Letra-J/JUJUTSU-KAISEN-Hidden-Inventory-The-Movie/01.mp4
 #EXTINF:-1,Milada
 https://video.wixstatic.com/video/a07189_a2f25fab79774625b5ccaba4b6e07ef1/720p/mp4/file.mp4
+#EXTINF:-1,Um amor de mentiras
+https://streamx.me/8277813/m3tr0g0ldw1n.mp4?um-amor-de-mentiras
