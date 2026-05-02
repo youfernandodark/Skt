@@ -9,6 +9,12 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21003.ts
 #EXTINF:-1 tvg-type="live" group-title="Canais | Esportes" tvg-id="sportv-3",Sportv 3
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21006.ts
+#EXTINF:-1 tvg-type="movie" group-title="Drama" tvg-id="1256290" tmdb-id="1256290" tvg-logo="https://image.tmdb.org/t/p/w500/1TK4KTXt3mQAgq09GxmohNz9PTM.jpg" plot="Irene é uma ornitóloga solitária na casa dos 50 anos que, durante um projeto de pesquisa no meio da floresta, redescobre sua tropicalidade após conhecer Manuel, um jovem guia que fala a língua das aves e traz à tona seus dilemas como mulher, mãe e profissional.",Pasárgada (2024)
+http://aguasdecoco.cdnxjp.space:80/movie/awz8gmbn/z0j3bp58/472600.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Thriller" tvg-id="1186398" tmdb-id="1186398" tvg-logo="https://image.tmdb.org/t/p/w500/gG7OCpt6hwp8DA2cfYs2kFhtpcZ.jpg" plot="Dora, uma bióloga de 45 anos, mora sozinha em uma casa isolada, onde conduz uma investigação eticamente questionável pesquisar. Em busca de um companheiro em quem possa confiar, ela contrata um novo zelador, Mateus, sem perceber que ele também esconde seus próprios segredos. Aos poucos, os dois se aproximam e Mateus finalmente descobre mais sobre a pesquisa de Dora: a compostagem humana.",A Casa da Árvore (2023)
+http://aguasdecoco.cdnxjp.space:80/movie/awz8gmbn/z0j3bp58/472601.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Drama" tvg-id="552515" tmdb-id="552515" tvg-logo="https://image.tmdb.org/t/p/w500/vlr3SWHswM19qxsBauoRy2jrENJ.jpg" plot="Em São Paulo, meados da década de 1980, Agostinho, um decadente professor de física de um supletivo noturno, acaba se apaixonando por uma de suas alunas, Márcia, uma mulher bem mais jovem que ele, emocionalmente perturbada e soropositiva. Eles começam um relacionamento e logo Agostinho comece a arriscar seu casamento com Januária.",Uma Noite Não é Nada (2018)
+http://aguasdecoco.cdnxjp.space:80/movie/awz8gmbn/z0j3bp58/472602.mp4
 #EXTINF:-1 tvg-type="series" group-title="Séries",Chainsaw Man Dublado S01 E01
 https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/01.mp4
 #EXTINF:-1 tvg-type="series" group-title="Séries",Chainsaw Man Dublado S01 E02
