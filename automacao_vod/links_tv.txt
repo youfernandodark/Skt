@@ -1,11 +1,122 @@
-#EXTINF:-1 tvg-id="amc.br" group-title="Canais | Filmes e Séries",AMC HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
-#EXTINF:-1 tvg-id="SPACE HD" group-title="Canais | Filmes e Séries",Space HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13027.ts
-#EXTINF:-1 tvg-id="sportv" group-title="Canais | Esportes",Sportv
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
-#EXTINF:-1 tvg-id="sportv-2" group-title="Canais | Esportes",Sportv 2
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21003.ts
-#EXTINF:-1 tvg-id="sportv-3" group-title="Canais | Esportes",Sportv 3
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21006.ts
-
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/37127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Acre HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Acre HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963146.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Amazonas HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Amazonas HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963147.ts
+#EXTINF:-1 tvg-id="tv.arapuan.br" tvg-name="Band Arapuan HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Arapuan HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/80913.ts
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="Band Bahia" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Bahia
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/65266.ts
+#EXTINF:-1 tvg-id="band.brasilia.br" tvg-name="Band Brasília HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Brasília HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/63000.ts
+#EXTINF:-1 tvg-id="tv.ceara.br" tvg-name="Band Ceará HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Ceará HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/93655.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band ES HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band ES HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963148.ts
+#EXTINF:-1 tvg-id="band.goiania.br" tvg-name="Band Goiânia HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Goiânia HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/63697.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/36990.ts
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="Band Interior RJ HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Interior RJ HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/64658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Maranhao HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Maranhao HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963149.ts
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="Band Minas HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Minas HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/100739.ts
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="Band PR" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band PR
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/100620.ts
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="Band PR HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band PR HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/100621.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Piaui HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Piaui HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963152.ts
+#EXTINF:-1 tvg-id="band.natal.br" tvg-name="Band RN HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band RN HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/91558.ts
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="Band RS HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band RS HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/63681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Ribeirão Preto HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Ribeirão Preto HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/972090.ts
+#EXTINF:-1 tvg-id="band.rio.br" tvg-name="Band Rio HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Rio HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/62088.ts
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band SP
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/68522.ts
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band SP HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/41530.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Sergipe HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Sergipe HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/62992.ts
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band Tatuapé" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Tatuapé
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/93654.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Tocantins HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Tocantins HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963151.ts
+#EXTINF:-1 tvg-id="Band Tribuna Pernambuco HD" tvg-name="Band Tribuna Pernambuco HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Tribuna Pernambuco HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/190875.ts
+#EXTINF:-1 tvg-id="RBA TV - Band Pará" tvg-name="RBA TV - Band Pará" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",RBA TV - Band Pará
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/225872.ts
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="TV Taroba Band Curitiba HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",TV Taroba Band Curitiba HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/100617.ts
+#EXTINF:-1 tvg-id="Brasileirão Feminino 01 (C)" tvg-name="Brasileirão Feminino 01 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 01 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/187118.ts
+#EXTINF:-1 tvg-id="Brasileirão Feminino 02 (C)" tvg-name="Brasileirão Feminino 02 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 02 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/187119.ts
+#EXTINF:-1 tvg-id="Brasileirão Feminino 03 (B)" tvg-name="Brasileirão Feminino 03 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 03 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/952180.ts
+#EXTINF:-1 tvg-id="Brasileirão Feminino 04 (B)" tvg-name="Brasileirão Feminino 04 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 04 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/952181.ts
+#EXTINF:-1 tvg-id="Brasileirão Serie D 3 (J)" tvg-name="Brasileirão Serie D 03 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 03 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/122904.ts
+#EXTINF:-1 tvg-id="Brasileirão Serie D 4 (J)" tvg-name="Brasileirão Serie D 04 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 04 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/122905.ts
+#EXTINF:-1 tvg-id="Brasileirão Serie D 5 (J)" tvg-name="Brasileirão Serie D 05 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 05 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/122906.ts
+#EXTINF:-1 tvg-id="Brasileirão Serie D 6 (J)" tvg-name="Brasileirão Serie D 06 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 06 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/122907.ts
+#EXTINF:-1 tvg-id="Brasileirão Serie D 1 (S)" tvg-name="Brasileirão Serie D 1 (A)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 1 (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/122902.ts
+#EXTINF:-1 tvg-id="Brasileirão Sub-20 1 (J)" tvg-name="Brasileirão Sub-20 1 (B)" tvg-logo="https://i.imgur.com/sCOmEC1.png" group-title="Canais | Brasileirão",Brasileirão Sub-20 1 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/112048.ts
+#EXTINF:-1 tvg-id="Brasileirão Sub-20 2 (J)" tvg-name="Brasileirão Sub-20 2 (B)" tvg-logo="https://i.imgur.com/sCOmEC1.png" group-title="Canais | Brasileirão",Brasileirão Sub-20 2 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/112049.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 1 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 1 (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/87227.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 1 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 1 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/87226.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 2 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 2 (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89542.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 2 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 2 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89546.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 3 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 3 (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89543.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 3 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 3 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89547.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 4 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 4 (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89544.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 4 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 4 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89973.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 5 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 5 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89974.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 6 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 6 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89975.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 7 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 7 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89976.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 8 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 8 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89977.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 9 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 9 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89978.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série D (A)" tvg-logo="https://i.imgur.com/fhOavDU.png" group-title="Canais | Brasileirão",Brasileirão Série D (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89545.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série D 01 (B)" tvg-logo="https://i.imgur.com/fhOavDU.png" group-title="Canais | Brasileirão",Brasileirão Série D 01 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89583.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série D 02 (B)" tvg-logo="https://i.imgur.com/fhOavDU.png" group-title="Canais | Brasileirão",Brasileirão Série D 02 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89584.ts
+#EXTINF:-1 tvg-id="SportyNet 01 - Serie C (B)" tvg-name="SportyNet 01 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 01 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956178.ts
+#EXTINF:-1 tvg-id="SportyNet 02 - Serie C (B)" tvg-name="SportyNet 02 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 02 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956179.ts
+#EXTINF:-1 tvg-id="SportyNet 03 - Serie C (B)" tvg-name="SportyNet 03 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 03 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956180.ts
+#EXTINF:-1 tvg-id="SportyNet 04 - Serie C (B)" tvg-name="SportyNet 04 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 04 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956181.ts
+#EXTINF:-1 tvg-id="SportyNet 05 - Serie C (B)" tvg-name="SportyNet 05 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 05 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956182.ts
+#EXTINF:-1 tvg-id="SportyNet 06 - Serie C (B)" tvg-name="SportyNet 06 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 06 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956183.ts
