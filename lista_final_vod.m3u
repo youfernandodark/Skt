@@ -1,14 +1,126 @@
 #EXTM3U url-tvg="https://github.com/limaalef/BrazilTVEPG/blob/main/epg.xml"
-#EXTINF:-1 tvg-type="live" group-title="Canais | Filmes e Séries" tvg-id="amc.br",AMC HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
-#EXTINF:-1 tvg-type="live" group-title="Canais | Filmes e Séries" tvg-id="SPACE HD",Space HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13027.ts
-#EXTINF:-1 tvg-type="live" group-title="Canais | Esportes" tvg-id="sportv",Sportv
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
-#EXTINF:-1 tvg-type="live" group-title="Canais | Esportes" tvg-id="sportv-2",Sportv 2
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21003.ts
-#EXTINF:-1 tvg-type="live" group-title="Canais | Esportes" tvg-id="sportv-3",Sportv 3
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21006.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.br",Band
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/37127.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band",Band Acre HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963146.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band",Band Amazonas HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963147.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="tv.arapuan.br",Band Arapuan HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/80913.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.bahia.br",Band Bahia
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/65266.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.brasilia.br",Band Brasília HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/63000.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="tv.ceara.br",Band Ceará HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/93655.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band",Band ES HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963148.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.goiania.br",Band Goiânia HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/63697.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.br",Band HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/36990.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.rj.br",Band Interior RJ HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/64658.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band",Band Maranhao HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963149.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.minas.br",Band Minas HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/100739.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.curitiba.br",Band PR
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/100620.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.curitiba.br",Band PR HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/100621.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band",Band Piaui HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963152.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.natal.br",Band RN HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/91558.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.rio.grande.do.sul.br",Band RS HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/63681.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band",Band Ribeirão Preto HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/972090.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.rio.br",Band Rio HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/62088.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.sao.paulo.br",Band SP
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/68522.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.sao.paulo.br",Band SP HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/41530.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.br",Band Sergipe HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/62992.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.sao.paulo.br",Band Tatuapé
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/93654.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band",Band Tocantins HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/963151.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="Band Tribuna Pernambuco HD",Band Tribuna Pernambuco HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/190875.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="RBA TV - Band Pará",RBA TV - Band Pará
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/225872.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Band" tvg-id="band.curitiba.br",TV Taroba Band Curitiba HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/100617.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Feminino 01 (C)",Brasileirão Feminino 01 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/187118.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Feminino 02 (C)",Brasileirão Feminino 02 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/187119.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Feminino 03 (B)",Brasileirão Feminino 03 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/952180.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Feminino 04 (B)",Brasileirão Feminino 04 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/952181.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Serie D 3 (J)",Brasileirão Serie D 03 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/122904.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Serie D 4 (J)",Brasileirão Serie D 04 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/122905.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Serie D 5 (J)",Brasileirão Serie D 05 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/122906.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Serie D 6 (J)",Brasileirão Serie D 06 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/122907.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Serie D 1 (S)",Brasileirão Serie D 1 (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/122902.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Sub-20 1 (J)",Brasileirão Sub-20 1 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/112048.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="Brasileirão Sub-20 2 (J)",Brasileirão Sub-20 2 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/112049.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 1 (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/87227.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 1 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/87226.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 2 (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89542.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 2 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89546.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 3 (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89543.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 3 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89547.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 4 (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89544.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 4 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89973.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 5 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89974.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 6 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89975.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 7 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89976.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 8 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89977.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série C 9 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89978.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série D (A)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89545.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série D 01 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89583.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="a.e.br",Brasileirão Série D 02 (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/89584.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="SportyNet 01 - Serie C (B)",SportyNet 01 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956178.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="SportyNet 02 - Serie C (B)",SportyNet 02 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956179.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="SportyNet 03 - Serie C (B)",SportyNet 03 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956180.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="SportyNet 04 - Serie C (B)",SportyNet 04 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956181.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="SportyNet 05 - Serie C (B)",SportyNet 05 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956182.ts
+#EXTINF:-1 tvg-type="live" group-title="Canais | Brasileirão" tvg-id="SportyNet 06 - Serie C (B)",SportyNet 06 - Serie C (B)
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/956183.ts
 #EXTINF:-1 tvg-type="movie" group-title="Drama" tvg-id="1256290" tmdb-id="1256290" tvg-logo="https://image.tmdb.org/t/p/w500/1TK4KTXt3mQAgq09GxmohNz9PTM.jpg" plot="Irene é uma ornitóloga solitária na casa dos 50 anos que, durante um projeto de pesquisa no meio da floresta, redescobre sua tropicalidade após conhecer Manuel, um jovem guia que fala a língua das aves e traz à tona seus dilemas como mulher, mãe e profissional.",Pasárgada (2024)
 http://aguasdecoco.cdnxjp.space:80/movie/awz8gmbn/z0j3bp58/472600.mp4
 #EXTINF:-1 tvg-type="movie" group-title="Thriller" tvg-id="1186398" tmdb-id="1186398" tvg-logo="https://image.tmdb.org/t/p/w500/gG7OCpt6hwp8DA2cfYs2kFhtpcZ.jpg" plot="Dora, uma bióloga de 45 anos, mora sozinha em uma casa isolada, onde conduz uma investigação eticamente questionável pesquisar. Em busca de um companheiro em quem possa confiar, ela contrata um novo zelador, Mateus, sem perceber que ele também esconde seus próprios segredos. Aos poucos, os dois se aproximam e Mateus finalmente descobre mais sobre a pesquisa de Dora: a compostagem humana.",A Casa da Árvore (2023)
