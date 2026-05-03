@@ -1,4 +1,1374 @@
 #EXTM3U url-tvg="https://github.com/limaalef/BrazilTVEPG/blob/main/epg.xml"
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO SP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/715
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO SP FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/714
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO SP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/741
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO SP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/492
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RJ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/362
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RJ H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76673
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RJ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/335
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RJ SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/491
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",A&E FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/851
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",A&E FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/210
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",A&E HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/1
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",A&E SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/444
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ALL SPORTS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31745
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",AMC FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/840
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",AMC FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/211
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",AMC HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/2
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",AMC SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/445
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ANIMAL PLANET FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/804
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ANIMAL PLANET H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/212
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ANIMAL PLANET HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/3
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ANIMAL PLANET SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/446
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ANTENA 1 FM ( RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/177
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ARTE 1 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/876
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ARTE 1 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/130
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ARTE 1 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/2956
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",AXN FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/835
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",AXN FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/213
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",AXN HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/4
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",AXN SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/447
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND BAHIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/449
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND CAMPINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/388
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND CAMPINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/320
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND CURITIBA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/408
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND CURITIBA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/358
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND MINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/311
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND MINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/310
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND NEWS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/866
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND NEWS FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/214
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND NEWS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/103
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND NEWS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/451
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND RJ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/307
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND RJ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/321
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND RS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/322
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND SERGIPE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/323
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND SP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/868
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND SP FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76679
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND SP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/324
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND SP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/450
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND SPORTS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/768
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND SPORTS H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/215
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND SPORTS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/5
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND SPORTS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/452
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND TV GOIANIA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/299
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND TV GOIÂNIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/87
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BIS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/881
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BIS H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/216
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BIS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/6
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BIS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/453
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BORA FILMES
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63052
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANAL BRASIL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/883
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANAL BRASIL H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/218
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANAL BRASIL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/135
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANAL BRASIL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/455
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANAL DO BOI
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/456
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANAL RURAL
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/198
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANAL SONY FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/219
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANAL SONY FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/844
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANAL SONY HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/7
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANAL SONY SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/457
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANÇÃO NOVA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/199
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CANÇÃO NOVA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/458
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CARTOON NETWORK FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/823
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CARTOON NETWORK H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/220
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CARTOON NETWORK HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/8
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CARTOON NETWORK SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/459
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CARTOONITO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/822
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CARTOONITO H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/217
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CARTOONITO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/122
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CARTOONITO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/454
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CINE SKY 1
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/686
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CINE SKY 2
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/687
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CINE SKY 3
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/688
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CINE SKY 4
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/689
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CINE SKY 5
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/690
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CINEMAX FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/841
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CINEMAX FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/221
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CINEMAX HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/9
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CINEMAX SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/460
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CLUBINHO FUN
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63863
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CNN BRASIL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/306
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CNN BRASIL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/102
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CNN BRASIL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/588
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",COMBATE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/784
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",COMBATE H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/222
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",COMBATE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/10
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",COMBATE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/461
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DAZN 01 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/325
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DAZN 02 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/326
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DAZN 03 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/327
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DAZN 04 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/111
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NOSSO FUTEBOL 01
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96522
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NOSSO FUTEBOL 02
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96523
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NOSSO FUTEBOL 03
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96524
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NOSSO FUTEBOL 04
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96525
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CAZE TV 1
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/90526
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CAZE TV 2
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/90527
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",Curta !
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/463
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY CHANNEL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/808
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY CHANNEL H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/224
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY CHANNEL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/12
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY CHANNEL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/464
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY H&H FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/807
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY H&H H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/226
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY H&H HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/14
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY H&H SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/465
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY KIDS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/824
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY KIDS H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/227
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY KIDS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/15
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY KIDS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/466
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY SCIENCE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/820
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY SCIENCE H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/228
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY SCIENCE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/16
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY SCIENCE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76670
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY THEATER FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/821
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY THEATER H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/229
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY THEATER HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/17
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY THEATER SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76671
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY TURBO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/818
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY TURBO H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/230
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY TURBO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/18
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY TURBO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/467
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY WORLD FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/802
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY WORLD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/231
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY WORLD HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/19
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY WORLD SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76672
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DOG TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/780
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DOG TV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/138
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",E! FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/864
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",E! H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/234
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",E! HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/22
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PRIME VIDEO 1 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83809
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PRIME VIDEO 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83810
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PRIME VIDEO 3 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83811
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PRIME VIDEO 4 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83812
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBOPLAY+ 01
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/85879
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBOPLAY+ 02
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/85880
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PARAMOUNT+ 1 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96812
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PARAMOUNT+ 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96813
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PARAMOUNT+ 3 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96814
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PARAMOUNT+ 4 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96815
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",E! SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/471
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ENTRETENDO FILMES
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63864
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO EPTV CAMPINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/364
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO EPTV CAMPINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/363
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO EPTV CAMPINAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/473
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO EPTV RIBEIRAO PRETO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/368
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO EPTV RIBEIRAO PRETO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/729
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO EPTV RIBEIRAO PRETO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/474
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO EPTV SAO CARLOS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/472
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/523673
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/494901
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/454345
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO EPTV SUL DE MINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/728
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/523672
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO EPTV SUL DE MINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/369
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 2 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/236
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 2 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/450103
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/505857
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 2 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/432374
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 3 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/772
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 3 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/237
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 3 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/23
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 3 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/476
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 4 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/497306
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 4 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/494039
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 4 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/503687
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 5 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/773
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 5 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/245
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 5 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/32
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 5 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/484
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 6 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/770
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 6 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/235
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 6 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/26
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BR SPORT 6 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76661
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FILM & ART FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/855
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FILM & ART HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/125
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FILM & ART SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/478
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FISH TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/239
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FISH TV SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/479
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FOOD  NETWORK FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/863
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FOOD NETWORK H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/240
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FOOD NETWORK HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/27
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FOOD NETWORK SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/480
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FURACAO TV (01)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/200
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MAX 01
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78527
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",FUTURA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/485
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GAUCHA ZH (Radios)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/180
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GAZETA FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/188
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV GAZETA HD SP
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/333
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GERAÇÃO FUNK FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/191
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV BAHIA  FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/379
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV BAHIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/380
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV BRASILIA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/719
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV BRASILIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/334
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD BRASILIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/487
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO INTEGRAÇÃO UBERLÂNDIA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/396
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO INTEGRAÇÃO UBERLÂNDIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/395
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO INTER DO VALE MG FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/392
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO INTER TV RJ FHD ( REGIAO SERRANA)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/390
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO INTER TV RJ HD (REGIAO SERRANA)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/389
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO INTER VALE MG HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/391
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO JOAÇABA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/752
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO JOAÇABA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/753
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO JUIZ DE FORA MG FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/750
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO JUIZ DE FORA MG HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/751
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO MINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/720
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO MINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/724
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO MINAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/488
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO MOGI DAS CRUZES FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/754
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO MOGI DAS CRUZES HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/755
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO MONTES CLAROS MG FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/744
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NEWS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/853
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NEWS FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/247
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NEWS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/35
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NEWS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/489
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NORDESTE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/393
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NORDESTE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/394
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NORDESTE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/490
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NSC BLUMENAU FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/430
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NSC BLUMENAU HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/431
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NSC TV CHAPECO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/418
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NSC TV CHAPECO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/417
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NSC TV FLORIANOPOLIS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76677
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NSC TV FLORIANOPOLIS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/725
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NSC TV BLUMENAU SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76678
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NSC TV JOINVILLE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/731
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO NSC TV JOINVILLE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/732
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO PARAIBA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/718
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO PRESIDENTE PRUDENTE SP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/748
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO PRESIDENTE PRUDENTE SP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/749
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RBS CAXIAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/373
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RBS CAXIAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/372
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RBS PASSO FUNDO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/416
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RBS PASSO FUNDO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/415
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RBS PELOTAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/374
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RBS PELOTAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/375
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RBS PORTO ALEGRE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/743
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RBS PORTO ALEGRE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/337
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RBS PORTO ALEGRE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/532
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RBS TV STA MARIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/800
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RECIFE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76688
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RPC CASCAVEL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/402
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RPC CASCAVEL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/401
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RPC CURITIBA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/406
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RPC CURITIBA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/405
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RPC CURITIBA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/539
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RPC FOZ DO IGUAÇU FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/376
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RPC FOZ DO IGUAÇU HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/730
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RPC LONDRINA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/357
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RPC PARANAVAÍ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/735
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO RPC PARANAVAI HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/736
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV ASA BRANCA PE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/139
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV ASA BRANCA PE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/717
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV BAHIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/565
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV CABO BRANCO JOAO PESSOA  FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/420
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV CABO BRANCO JOAO PESSOA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/419
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV CABUGI FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/440
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV CABUGI HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/441
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV CENTRO AMERICA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/567
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV CLUBE PI HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/716
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV GAZETA ALAGOAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/425
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV GAZETA ALAGOAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/424
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV GAZETA ALAGOAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/746
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV GAZETA VITORIA ES FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/414
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV GAZETA VITORIA ES HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/413
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV GAZETA SUL ES FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78530
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV GAZETA SUL ES HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78531
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/410
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV INTEGRAÇÃO ARAXÁ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/409
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV INTEGRAÇÃO UBERABA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/313
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV INTEGRAÇÃO ITUIUTABA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/411
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV INTER CABUGI SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/502
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV LIBERAL BELEM SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/570
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV LIBERAL HD (BELEM)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/365
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV MIRANTE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/721
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV MORENA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/733
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV MORENA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/734
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV REDE AMAZONICA MANAUS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/757
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV REDE AMAZONICA MANAUS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/756
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV REDE AMAZONICA PORTO VELHO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/427
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV REDE AMAZONICA PORTO VELHO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/426
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV REDE AMAZONICA PORTO VELHO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/422
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV SANTA CRUZ
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/352
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV SERGIPE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/336
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV SUBAE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/353
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV TEM BAURU FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/737
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV TEM BAURU HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/738
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV TEM ITAPETININGA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/573
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV TEM S. J
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/314
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV TEM SOROCABA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/412
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV TEM SOROCABA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/575
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV TRIBUNA SANTOS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/384
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV TRIBUNA SANTOS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/383
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV TRIBUNA SANTOS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/576
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV VANGUARDA S J CAMPOS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/577
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV VANGUARDA S J CAMPOS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/377
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV VANGUARDA S J CAMPOS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/378
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV VERDES MARES FORTALEZA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76701
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV VERDES MARES FORTALEZA FHD (H265)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76702
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV VERDES MARES FORTALEZA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/366
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV VERDES MARES FORTALEZA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/578
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOOB FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/827
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOOB H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/248
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOOB HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/37
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOOB SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/493
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GNT FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/862
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GNT H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/249
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GNT HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/38
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GNT SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/494
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO 2 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/793
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO 2 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/254
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/39
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO 2 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/499
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO FAMILY FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/795
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO FAMILY HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/40
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO FAMILY SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/496
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/792
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/251
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/41
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/495
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MAX 02
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/204
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MAX 03
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/205
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MAX 04
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/206
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MAX 05
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76696
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MUNDI FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/797
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MAX 06
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/529221
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MAX 07
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/529222
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MAX 08
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/529223
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MUNDI HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/260
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO MUNDI SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/48
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO PLUS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/794
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO PLUS H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/252
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO PLUS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/42
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO PLUS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/497
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO POP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/799
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO POP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/262
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO POP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/50
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO SIGNATURE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/796
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO SIGNATURE H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/253
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO SIGNATURE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/43
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO SIGNATURE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/498
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO XTREME FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/798
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO XTREME FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/261
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO XTREME HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/49
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO XTREME SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76662
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HELLO TV
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63867
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HGTV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/861
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HGTV H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/225
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HGTV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/13
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HISTORY FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/781
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HISTORY H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/255
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HISTORY HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/45
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HISTORY SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/584
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HISTORY 2 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/806
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HISTORY 2 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/256
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HISTORY 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/44
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HISTORY 2 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/500
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",INSPIRE TV
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63866
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",INVESTIGAÇAO DISCOVERY FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/819
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",INVESTIGAÇAO DISCOVERY H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/257
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",INVESTIGAÇAO DISCOVERY HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/46
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",INVESTIGAÇAO DISCOVERY SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/501
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ISTV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31746
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",JOVEM PAM SP (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/176
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",JOVEM PAN FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/886
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",JOVEM PAN FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76659
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",JOVEM PAN HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/209
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",JOVEM PAN SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76660
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",LBV - BOA VONTADE
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/53957
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",LIFETIME FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/801
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",LIFETIME H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/258
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",LIFETIME HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/47
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",LIFETIME SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/503
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MEGAPIX FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/843
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MEGAPIX FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/263
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MEGAPIX HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/51
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MEGAPIX SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/507
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MIX FM SP (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/183
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MTV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/854
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MTV H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/264
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MTV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/52
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MTV LIVE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/197
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MTV SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/508
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MULTISHOW FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/860
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MULTISHOW H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/265
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MULTISHOW HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/53
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MULTISHOW SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/509
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MUSIC BOX BRASIL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/511
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MUSIC BOX BRASIL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/510
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NICK JR FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/831
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NICK JR H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/270
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NICK JR HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/58
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NICK JR SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/516
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NICKELODEON FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/830
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NICKELODEON H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/269
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NICKELODEON HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/57
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NICKELODEON SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/517
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NOVO TEMPO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/106
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NOVO TEMPO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/586
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",OFF FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/859
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",OFF H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/271
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",OFF HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/59
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",OFF SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/518
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PARAMOUNT FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/272
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GOSPEL MOVIES TELEVISION
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/522
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE CLUBES  H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/273
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE CLUBES H265*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88561
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE CLUBES FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/775
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE CLUBES FHD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88559
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE CLUBES HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/67
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE CLUBES HD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88560
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE CLUBES SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/531
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE CLUBES SD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88562
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 2 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/815
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 2 FHD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88563
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 2 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/274
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 2 H265*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88564
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/61
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 2 HD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88565
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 2 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/523
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 2 SD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88566
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 3 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/814
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 3 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/275
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 3 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/62
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 3 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/524
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 4 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/813
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 4 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/276
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 4 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 4 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/525
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 5 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/812
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 5 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/277
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 5 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/64
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 5 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/526
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 6 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/811
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 6 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/278
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 6 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/65
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 6 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/527
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 7 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/810
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 7 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/279
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 7 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/66
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE 7 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/528
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RADIO EVANGELIZAR FM
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31743
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RADIO SERTANEJA FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/186
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD NEWS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/867
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD NEWS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/104
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD NEWS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/533
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV SP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/727
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV SP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/726
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV SP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/534
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV RJ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/87102
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV RJ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/345
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV RJ SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76666
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV BAHIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/151
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV BAHIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/598
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV BELEM HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/342
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV BELEM SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76669
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV BRASILIA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/338
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV BRASILIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76663
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV CAMPINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/387
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV CAMPINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/354
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV GOIANIA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/280
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV GOIANIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/68
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV GOIANIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76664
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV MANAUS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/371
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV MINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/112
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV MINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/344
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV MINAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/312
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV PARANÁ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/398
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV PARANÁ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/360
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV RS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/442
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV RS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/339
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV RS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76668
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV SANTA CATARINA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/356
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV SANTOS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/343
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV SERGIPE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/341
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD TV SJRP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/340
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RED BULL TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31744
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV REDE GOSPEL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/157
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",REDE BRASIL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/536
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV REDE GOSPEL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/152
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",REDE SUPER
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/596
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",REDE TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/869
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",REDE TV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/69
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",REDE VIDA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/538
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RIT TV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/162
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SAMBA E PAGODE FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/193
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT BRASILIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/346
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT CAMPINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/386
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT CAMPINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/385
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT CIDADE VERDE PI
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/59921
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT INTERIOR FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/59920
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT PARANÁ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/397
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT PARANÁ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/359
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT RECIFE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/68341
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT RJ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/370
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT RJ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/367
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT RJ SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76680
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT RS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/347
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT SERGIPE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/348
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT SERRA DOURADA FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76682
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT SERRA DOURADA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76683
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT SP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/870
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT SP FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76681
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT SP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/429
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT SP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/540
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT TV ALTEROSA MG FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/897
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT TV ALTEROSA MG HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/896
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT TV ARATU BAHIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/349
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT TV JANGADEIRO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76684
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT TV JANGADEIRO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76685
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT TV JORNAL PERNAMBUCO
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76686
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",POLISHOP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/885
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",POLISHOP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/150
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPACE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/846
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPACE FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/282
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPACE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/70
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPACE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/543
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/776
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV FHD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88556
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/285
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV H265*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88558
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/73
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV HD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/87150
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/544
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV SD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88557
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV 2 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/777
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV 2 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/283
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/71
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV 2 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/545
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV 3 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/778
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV 3 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/284
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV 3 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/72
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV 3 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/546
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",STUDIO UNIVERSAL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/847
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",STUDIO UNIVERSAL FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/286
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",STUDIO UNIVERSAL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/74
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",STUDIO UNIVERSAL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/547
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SUPER GOSPEL
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/35627
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SYFY FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/857
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SYFY FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/287
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SYFY HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/75
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SYFY SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/548
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT NOVELAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/856
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT NOVELAS FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/288
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT NOVELAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT NOVELAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/549
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TCM FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/877
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TCM HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/131
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TCM SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/550
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE ACTION FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/787
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE ACTION H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/289
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE ACTION HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/77
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE ACTION SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/551
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE CULT FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/791
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE CULT H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/290
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE CULT HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE CULT SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/552
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE FUN FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/790
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE FUN H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/291
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE FUN HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/79
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE FUN SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/553
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE PIPOCA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/789
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE PIPOCA H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/292
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE PIPOCA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE PIPOCA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/554
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE PREMIUM FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/786
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE PREMIUM H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/293
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE PREMIUM HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/81
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE PREMIUM SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/555
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE TOUCH FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/788
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE TOUCH H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/294
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE TOUCH HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE TOUCH SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/556
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TLC FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/809
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TLC HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TLC SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/558
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/785
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/296
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/84
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/559
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT SERIES FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/849
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT SERIES FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/297
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT SERIES HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/85
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT SERIES SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/560
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TOONCAST FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/834
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TOONCAST HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/124
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TOONCAST SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/561
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TOP 40 FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/194
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TRAVEL BOX BRASIL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/884
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TRAVEL BOX BRASIL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/136
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TRUT TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/878
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TRUT TV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/132
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TRUT TV SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/562
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV BRASILIA H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/434
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV ANHANGUERA GO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/432
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV BRASILIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/563
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV APARECIDA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/564
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV BRASIL
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/121
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV CULTURA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/568
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV CÂMARA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/566
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV ESCOLA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/589
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV EVANGELIZAR HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31750
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",WEB TV EXTREME
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/60182
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV GLOOBINHO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/828
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV GLOOBINHO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/123
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV GLOOBINHO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/3905
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV JUSTIÇA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/569
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV NSPORTS HD (JOGO 1)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/163
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV NSPORTS HD (JOGO 2)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/164
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV NSPORTS HD (JOGO 3)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/165
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV RA-TIM-BUM HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV RA-TIM-BUM SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/571
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV SENADO
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/572
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV SERIES SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/60180
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV UNIVERSAL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31748
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TVR VARIEDADES
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/71138
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",UNIVERSAL CHANNEL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/848
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",UNIVERSAL CHANNEL FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/301
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",UNIVERSAL CHANNEL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/90
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",UNIVERSAL CHANNEL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/585
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",VH1 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/91
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",VH1 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/2958
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBOPLAY NOVELAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/865
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBOPLAY NOVELAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/92
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBOPLAY NOVELAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/580
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",WARNER CHANNEL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/850
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",WARNER CHANNEL FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/303
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",WARNER CHANNEL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/93
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",WARNER CHANNEL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/581
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",WOOHOO TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/875
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",WOOHOO TV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/129
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",WOOHOO TV SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/582
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ZOOMOO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/832
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ZOOMOO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/833
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ZOOMOO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/583
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO TV ANHANGUERA GO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/86
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RADIO DUMONT FM
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80123
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RADIO SANTO ANDRE FM
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80144
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",Rádio Cultura 103
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80145
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",Rádio FM O Dia FM 100
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80146
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",Rádio Litoral 94
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80148
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",Rádio Antena 1 103
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80154
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV GIDEOES
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80159
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT TV ARATU BAHIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80160
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BONS TEMPOS TV
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80161
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",BAND 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80551
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",RECORD 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80552
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",PREMIERE CLUBES 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80553
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE PREMIUM 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80554
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80555
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TNT SERIES 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80556
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",ANIMAL PLANET 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80557
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",CARTOON NETWORK 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80558
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",COMBATE 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80559
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",DISCOVERY CHANNEL 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80560
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLOBO 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80563
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80564
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MEGAPIX 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80565
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",MULTISHOW 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80566
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SBT 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80567
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPACE 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80568
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",SPORTV 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80569
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",HBO XTREME 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80570
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TELECINE PIPOCA 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80575
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",JOVEM PAN NEWS 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/81009
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",REDE SECULO 21 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82126
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV PAI ETERNO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82127
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV PAI ETERNO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82128
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",GLN TV
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82855
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",TV DIARIO NORDESTE
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82856
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NBA LEAGUE PASS 01
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83025
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NBA LEAGUE PASS 02
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83026
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NBA LEAGUE PASS 03
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83027
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NBA LEAGUE PASS 04
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83028
+#EXTINF:-1 tvg-type="live" group-title="Canais Ao Vivo",NBA LEAGUE PASS 05
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83029
 #EXTINF:-1 tvg-type="movie" group-title="Drama" tvg-id="1256290" tmdb-id="1256290" tvg-logo="https://image.tmdb.org/t/p/w500/1TK4KTXt3mQAgq09GxmohNz9PTM.jpg" plot="Irene é uma ornitóloga solitária na casa dos 50 anos que, durante um projeto de pesquisa no meio da floresta, redescobre sua tropicalidade após conhecer Manuel, um jovem guia que fala a língua das aves e traz à tona seus dilemas como mulher, mãe e profissional.",Pasárgada (2024)
 http://aguasdecoco.cdnxjp.space:80/movie/awz8gmbn/z0j3bp58/472600.mp4
 #EXTINF:-1 tvg-type="movie" group-title="Thriller" tvg-id="1186398" tmdb-id="1186398" tvg-logo="https://image.tmdb.org/t/p/w500/gG7OCpt6hwp8DA2cfYs2kFhtpcZ.jpg" plot="Dora, uma bióloga de 45 anos, mora sozinha em uma casa isolada, onde conduz uma investigação eticamente questionável pesquisar. Em busca de um companheiro em quem possa confiar, ela contrata um novo zelador, Mateus, sem perceber que ele também esconde seus próprios segredos. Aos poucos, os dois se aproximam e Mateus finalmente descobre mais sobre a pesquisa de Dora: a compostagem humana.",A Casa da Árvore (2023)
