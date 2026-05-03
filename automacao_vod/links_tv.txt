@@ -1,1370 +1,2220 @@
 #EXTINF:-1,GLOBO SP FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/715
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/715
 #EXTINF:-1,GLOBO SP FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/714
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/714
 #EXTINF:-1,GLOBO SP HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/741
-#EXTINF:-1,GLOBO SP SD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/492
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/741
+#EXTINF:-1,GLOBO SP SD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/492
 #EXTINF:-1,GLOBO RJ FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/362
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/362
 #EXTINF:-1,GLOBO RJ H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76673
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76673
 #EXTINF:-1,GLOBO RJ HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/335
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/335
 #EXTINF:-1,GLOBO RJ SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/491
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/491
 #EXTINF:-1,A&E FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/851
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/851
 #EXTINF:-1,A&E FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/210
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/210
 #EXTINF:-1,A&E HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/1
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/1
 #EXTINF:-1,A&E SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/444
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/444
 #EXTINF:-1,ALL SPORTS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31745
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/31745
 #EXTINF:-1,AMC FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/840
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/840
 #EXTINF:-1,AMC FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/211
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/211
 #EXTINF:-1,AMC HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/2
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/2
 #EXTINF:-1,AMC SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/445
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/445
 #EXTINF:-1,ANIMAL PLANET FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/804
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/804
 #EXTINF:-1,ANIMAL PLANET H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/212
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/212
 #EXTINF:-1,ANIMAL PLANET HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/3
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/3
 #EXTINF:-1,ANIMAL PLANET SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/446
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/446
 #EXTINF:-1,ANTENA 1 FM ( RADIOS)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/177
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/177
 #EXTINF:-1,ARTE 1 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/876
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/876
 #EXTINF:-1,ARTE 1 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/130
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/130
 #EXTINF:-1,ARTE 1 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/2956
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/2956
 #EXTINF:-1,AXN FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/835
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/835
 #EXTINF:-1,AXN FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/213
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/213
 #EXTINF:-1,AXN HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/4
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/4
 #EXTINF:-1,AXN SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/447
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/447
 #EXTINF:-1,BAND BAHIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/449
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/449
 #EXTINF:-1,BAND CAMPINAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/388
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/388
 #EXTINF:-1,BAND CAMPINAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/320
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/320
 #EXTINF:-1,BAND CURITIBA FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/408
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/408
 #EXTINF:-1,BAND CURITIBA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/358
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/358
 #EXTINF:-1,BAND MINAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/311
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/311
 #EXTINF:-1,BAND MINAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/310
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/310
 #EXTINF:-1,BAND NEWS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/866
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/866
 #EXTINF:-1,BAND NEWS FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/214
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/214
 #EXTINF:-1,BAND NEWS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/103
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/103
 #EXTINF:-1,BAND NEWS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/451
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/451
 #EXTINF:-1,BAND RJ FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/307
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/307
 #EXTINF:-1,BAND RJ HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/321
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/321
 #EXTINF:-1,BAND RS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/322
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/322
 #EXTINF:-1,BAND SERGIPE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/323
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/323
 #EXTINF:-1,BAND SP FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/868
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/868
 #EXTINF:-1,BAND SP FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76679
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76679
 #EXTINF:-1,BAND SP HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/324
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/324
 #EXTINF:-1,BAND SP SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/450
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/450
 #EXTINF:-1,BAND SPORTS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/768
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/768
 #EXTINF:-1,BAND SPORTS H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/215
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/215
 #EXTINF:-1,BAND SPORTS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/5
-#EXTINF:-1,BAND SPORTS SD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/452
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/5
+#EXTINF:-1,BAND SPORTS SD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/452
 #EXTINF:-1,BAND TV GOIANIA FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/299
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/299
 #EXTINF:-1,BAND TV GOIÂNIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/87
-#EXTINF:-1,BIS FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/881
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/87
+#EXTINF:-1,BIS FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/881
 #EXTINF:-1,BIS H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/216
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/216
 #EXTINF:-1,BIS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/6
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/6
 #EXTINF:-1,BIS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/453
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/453
 #EXTINF:-1,BORA FILMES
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63052
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/63052
 #EXTINF:-1,CANAL BRASIL FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/883
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/883
 #EXTINF:-1,CANAL BRASIL H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/218
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/218
 #EXTINF:-1,CANAL BRASIL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/135
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/135
 #EXTINF:-1,CANAL BRASIL SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/455
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/455
 #EXTINF:-1,CANAL DO BOI
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/456
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/456
 #EXTINF:-1,CANAL RURAL
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/198
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/198
 #EXTINF:-1,CANAL SONY FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/219
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/219
 #EXTINF:-1,CANAL SONY FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/844
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/844
 #EXTINF:-1,CANAL SONY HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/7
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/7
 #EXTINF:-1,CANAL SONY SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/457
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/457
 #EXTINF:-1,CANÇÃO NOVA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/199
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/199
 #EXTINF:-1,CANÇÃO NOVA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/458
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/458
 #EXTINF:-1,CARTOON NETWORK FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/823
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/823
 #EXTINF:-1,CARTOON NETWORK H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/220
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/220
 #EXTINF:-1,CARTOON NETWORK HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/8
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/8
 #EXTINF:-1,CARTOON NETWORK SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/459
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/459
 #EXTINF:-1,CARTOONITO FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/822
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/822
 #EXTINF:-1,CARTOONITO H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/217
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/217
 #EXTINF:-1,CARTOONITO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/122
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/122
 #EXTINF:-1,CARTOONITO SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/454
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/454
 #EXTINF:-1,CINE SKY 1
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/686
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/686
 #EXTINF:-1,CINE SKY 2
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/687
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/687
 #EXTINF:-1,CINE SKY 3
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/688
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/688
 #EXTINF:-1,CINE SKY 4
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/689
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/689
 #EXTINF:-1,CINE SKY 5
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/690
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/690
 #EXTINF:-1,CINEMAX FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/841
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/841
 #EXTINF:-1,CINEMAX FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/221
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/221
 #EXTINF:-1,CINEMAX HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/9
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/9
 #EXTINF:-1,CINEMAX SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/460
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/460
 #EXTINF:-1,CLUBINHO FUN
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63863
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/63863
 #EXTINF:-1,CNN BRASIL FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/306
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/306
 #EXTINF:-1,CNN BRASIL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/102
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/102
 #EXTINF:-1,CNN BRASIL SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/588
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/588
 #EXTINF:-1,COMBATE FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/784
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/784
 #EXTINF:-1,COMBATE H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/222
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/222
 #EXTINF:-1,COMBATE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/10
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/10
 #EXTINF:-1,COMBATE SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/461
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/461
 #EXTINF:-1,DAZN 01 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/325
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/325
 #EXTINF:-1,DAZN 02 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/326
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/326
 #EXTINF:-1,DAZN 03 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/327
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/327
 #EXTINF:-1,DAZN 04 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/111
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/111
 #EXTINF:-1,NOSSO FUTEBOL 01
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96522
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96522
 #EXTINF:-1,NOSSO FUTEBOL 02
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96523
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96523
 #EXTINF:-1,NOSSO FUTEBOL 03
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96524
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96524
 #EXTINF:-1,NOSSO FUTEBOL 04
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96525
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96525
 #EXTINF:-1,CAZE TV 1
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/90526
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/90526
 #EXTINF:-1,CAZE TV 2
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/90527
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/90527
 #EXTINF:-1,Curta !
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/463
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/463
 #EXTINF:-1,DISCOVERY CHANNEL FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/808
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/808
 #EXTINF:-1,DISCOVERY CHANNEL H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/224
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/224
 #EXTINF:-1,DISCOVERY CHANNEL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/12
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/12
 #EXTINF:-1,DISCOVERY CHANNEL SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/464
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/464
 #EXTINF:-1,DISCOVERY H&H FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/807
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/807
 #EXTINF:-1,DISCOVERY H&H H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/226
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/226
 #EXTINF:-1,DISCOVERY H&H HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/14
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/14
 #EXTINF:-1,DISCOVERY H&H SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/465
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/465
 #EXTINF:-1,DISCOVERY KIDS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/824
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/824
 #EXTINF:-1,DISCOVERY KIDS H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/227
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/227
 #EXTINF:-1,DISCOVERY KIDS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/15
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/15
 #EXTINF:-1,DISCOVERY KIDS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/466
-#EXTINF:-1,DISCOVERY SCIENCE FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/820
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/466
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/820
 #EXTINF:-1,DISCOVERY SCIENCE H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/228
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/228
 #EXTINF:-1,DISCOVERY SCIENCE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/16
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/16
 #EXTINF:-1,DISCOVERY SCIENCE SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76670
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76670
 #EXTINF:-1,DISCOVERY THEATER FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/821
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/821
 #EXTINF:-1,DISCOVERY THEATER H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/229
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/229
 #EXTINF:-1,DISCOVERY THEATER HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/17
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/17
 #EXTINF:-1,DISCOVERY THEATER SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76671
-#EXTINF:-1,DISCOVERY TURBO FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/818
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76671
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/818
 #EXTINF:-1,DISCOVERY TURBO H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/230
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/230
 #EXTINF:-1,DISCOVERY TURBO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/18
 #EXTINF:-1,DISCOVERY TURBO SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/467
-#EXTINF:-1,DISCOVERY WORLD FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/802
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/467
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/802
 #EXTINF:-1,DISCOVERY WORLD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/231
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/231
 #EXTINF:-1,DISCOVERY WORLD HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/19
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/19
 #EXTINF:-1,DISCOVERY WORLD SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76672
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76672
 #EXTINF:-1,DOG TV FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/780
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/780
 #EXTINF:-1,DOG TV HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/138
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/138
 #EXTINF:-1,E! FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/864
-#EXTINF:-1,E! H265 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/234
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/864
+#EXTINF:-1,E! H265
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/234
 #EXTINF:-1,E! HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/22
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/22
 #EXTINF:-1,PRIME VIDEO 1 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83809
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83809
 #EXTINF:-1,PRIME VIDEO 2 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83810
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83810
 #EXTINF:-1,PRIME VIDEO 3 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83811
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83811
 #EXTINF:-1,PRIME VIDEO 4 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83812
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83812
 #EXTINF:-1,GLOBOPLAY+ 01
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/85879
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/85879
 #EXTINF:-1,GLOBOPLAY+ 02
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/85880
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/85880
 #EXTINF:-1,PARAMOUNT+ 1 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96812
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96812
 #EXTINF:-1,PARAMOUNT+ 2 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96813
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96813
 #EXTINF:-1,PARAMOUNT+ 3 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96814
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96814
 #EXTINF:-1,PARAMOUNT+ 4 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96815
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96815
 #EXTINF:-1,E! SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/471
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/471
 #EXTINF:-1,ENTRETENDO FILMES
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63864
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/63864
 #EXTINF:-1,GLOBO EPTV CAMPINAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/364
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/364
 #EXTINF:-1,GLOBO EPTV CAMPINAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/363
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/363
 #EXTINF:-1,GLOBO EPTV CAMPINAS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/473
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/473
 #EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/368
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/368
 #EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/729
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/729
 #EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/474
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/474
 #EXTINF:-1,GLOBO EPTV SAO CARLOS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/472
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/472
 #EXTINF:-1,BR SPORT H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/523673
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/523673
 #EXTINF:-1,BR SPORT FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/494901
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/494901
 #EXTINF:-1,BR SPORT HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/454345
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/454345
 #EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/728
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/728
 #EXTINF:-1,BR SPORT SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/523672
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/523672
 #EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/369
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/369
 #EXTINF:-1,BR SPORT 2 H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/236
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/236
 #EXTINF:-1,BR SPORT 2 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/450103
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/450103
 #EXTINF:-1,BR SPORT 2 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/505857
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/505857
 #EXTINF:-1,BR SPORT 2 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/432374
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/432374
 #EXTINF:-1,BR SPORT 3 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/772
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/772
 #EXTINF:-1,BR SPORT 3 H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/237
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/237
 #EXTINF:-1,BR SPORT 3 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/23
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/23
 #EXTINF:-1,BR SPORT 3 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/476
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/476
 #EXTINF:-1,BR SPORT 4 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/497306
-#EXTINF:-1,BR SPORT 4 HD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/494039
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/497306
+#EXTINF:-1,BR SPORT 4 HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/494039
 #EXTINF:-1,BR SPORT 4 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/503687
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/503687
 #EXTINF:-1,BR SPORT 5 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/773
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/773
 #EXTINF:-1,BR SPORT 5 H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/245
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/245
 #EXTINF:-1,BR SPORT 5 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/32
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/32
 #EXTINF:-1,BR SPORT 5 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/484
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/484
 #EXTINF:-1,BR SPORT 6 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/770
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/770
 #EXTINF:-1,BR SPORT 6 H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/235
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/235
 #EXTINF:-1,BR SPORT 6 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/26
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/26
 #EXTINF:-1,BR SPORT 6 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76661
-#EXTINF:-1,FILM & ART FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/855
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76661
+#EXTINF:-1,FILM & ART FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/855
 #EXTINF:-1,FILM & ART HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/125
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/125
 #EXTINF:-1,FILM & ART SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/478
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/478
 #EXTINF:-1,FISH TV FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/239
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/239
 #EXTINF:-1,FISH TV SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/479
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/479
 #EXTINF:-1,FOOD  NETWORK FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/863
-#EXTINF:-1,FOOD NETWORK H265 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/240
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/863
+#EXTINF:-1,FOOD NETWORK H265
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/240
 #EXTINF:-1,FOOD NETWORK HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/27
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/27
 #EXTINF:-1,FOOD NETWORK SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/480
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/480
 #EXTINF:-1,FURACAO TV (01)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/200
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/200
 #EXTINF:-1,HBO MAX 01
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78527
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/78527
 #EXTINF:-1,FUTURA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/485
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/485
 #EXTINF:-1,GAUCHA ZH (Radios)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/180
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/180
 #EXTINF:-1,GAZETA FM (RADIOS)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/188
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/188
 #EXTINF:-1,TV GAZETA HD SP
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/333
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/333
 #EXTINF:-1,GERAÇÃO FUNK FM (RADIOS)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/191
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/191
 #EXTINF:-1,GLOBO TV BAHIA  FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/379
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/379
 #EXTINF:-1,GLOBO TV BAHIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/380
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/380
 #EXTINF:-1,GLOBO TV BRASILIA FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/719
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/719
 #EXTINF:-1,GLOBO TV BRASILIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/334
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/334
 #EXTINF:-1,RECORD BRASILIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/487
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/487
 #EXTINF:-1,GLOBO INTEGRAÇÃO UBERLÂNDIA FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/396
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/396
 #EXTINF:-1,GLOBO INTEGRAÇÃO UBERLÂNDIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/395
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/395
 #EXTINF:-1,GLOBO INTER DO VALE MG FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/392
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/392
 #EXTINF:-1,GLOBO INTER TV RJ FHD ( REGIAO SERRANA)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/390
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/390
 #EXTINF:-1,GLOBO INTER TV RJ HD (REGIAO SERRANA)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/389
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/389
 #EXTINF:-1,GLOBO INTER VALE MG HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/391
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/391
 #EXTINF:-1,GLOBO JOAÇABA FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/752
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/752
 #EXTINF:-1,GLOBO JOAÇABA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/753
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/753
 #EXTINF:-1,GLOBO JUIZ DE FORA MG FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/750
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/750
 #EXTINF:-1,GLOBO JUIZ DE FORA MG HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/751
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/751
 #EXTINF:-1,GLOBO MINAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/720
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/720
 #EXTINF:-1,GLOBO MINAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/724
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/724
 #EXTINF:-1,GLOBO MINAS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/488
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/488
 #EXTINF:-1,GLOBO MOGI DAS CRUZES FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/754
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/754
 #EXTINF:-1,GLOBO MOGI DAS CRUZES HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/755
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/755
 #EXTINF:-1,GLOBO MONTES CLAROS MG FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/744
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/744
 #EXTINF:-1,GLOBO NEWS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/853
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/853
 #EXTINF:-1,GLOBO NEWS FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/247
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/247
 #EXTINF:-1,GLOBO NEWS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/35
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/35
 #EXTINF:-1,GLOBO NEWS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/489
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/489
 #EXTINF:-1,GLOBO NORDESTE FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/393
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/393
 #EXTINF:-1,GLOBO NORDESTE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/394
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/394
 #EXTINF:-1,GLOBO NORDESTE SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/490
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/490
 #EXTINF:-1,GLOBO NSC BLUMENAU FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/430
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430
 #EXTINF:-1,GLOBO NSC BLUMENAU HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/431
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/431
 #EXTINF:-1,GLOBO NSC TV CHAPECO FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/418
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/418
 #EXTINF:-1,GLOBO NSC TV CHAPECO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/417
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/417
 #EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76677
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76677
 #EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/725
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/725
 #EXTINF:-1,GLOBO NSC TV BLUMENAU SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76678
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76678
 #EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/731
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/731
 #EXTINF:-1,GLOBO NSC TV JOINVILLE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/732
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/732
 #EXTINF:-1,GLOBO PARAIBA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/718
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/718
 #EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/748
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/748
 #EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/749
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/749
 #EXTINF:-1,GLOBO RBS CAXIAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/373
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/373
 #EXTINF:-1,GLOBO RBS CAXIAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/372
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/372
 #EXTINF:-1,GLOBO RBS PASSO FUNDO FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/416
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/416
 #EXTINF:-1,GLOBO RBS PASSO FUNDO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/415
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/415
 #EXTINF:-1,GLOBO RBS PELOTAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/374
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/374
 #EXTINF:-1,GLOBO RBS PELOTAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/375
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/375
 #EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/743
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/743
 #EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/337
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/337
 #EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/532
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/532
 #EXTINF:-1,GLOBO RBS TV STA MARIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/800
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/800
 #EXTINF:-1,GLOBO RECIFE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76688
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76688
 #EXTINF:-1,GLOBO RPC CASCAVEL FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/402
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/402
 #EXTINF:-1,GLOBO RPC CASCAVEL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/401
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/401
 #EXTINF:-1,GLOBO RPC CURITIBA FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/406
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/406
 #EXTINF:-1,GLOBO RPC CURITIBA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/405
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/405
 #EXTINF:-1,GLOBO RPC CURITIBA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/539
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/539
 #EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/376
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/376
 #EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/730
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/730
 #EXTINF:-1,GLOBO RPC LONDRINA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/357
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/357
 #EXTINF:-1,GLOBO RPC PARANAVAÍ FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/735
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/735
 #EXTINF:-1,GLOBO RPC PARANAVAI HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/736
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/736
 #EXTINF:-1,GLOBO TV ASA BRANCA PE FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/139
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/139
 #EXTINF:-1,GLOBO TV ASA BRANCA PE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/717
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/717
 #EXTINF:-1,GLOBO TV BAHIA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/565
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/565
 #EXTINF:-1,GLOBO TV CABO BRANCO JOAO PESSOA  FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/420
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/420
 #EXTINF:-1,GLOBO TV CABO BRANCO JOAO PESSOA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/419
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/419
 #EXTINF:-1,GLOBO TV CABUGI FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/440
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/440
 #EXTINF:-1,GLOBO TV CABUGI HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/441
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/441
 #EXTINF:-1,GLOBO TV CENTRO AMERICA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/567
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/567
 #EXTINF:-1,GLOBO TV CLUBE PI HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/716
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/716
 #EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/425
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/425
 #EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/424
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/424
 #EXTINF:-1,GLOBO TV GAZETA ALAGOAS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/746
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/746
 #EXTINF:-1,GLOBO TV GAZETA VITORIA ES FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/414
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/414
 #EXTINF:-1,GLOBO TV GAZETA VITORIA ES HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/413
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/413
 #EXTINF:-1,GLOBO TV GAZETA SUL ES FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78530
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/78530
 #EXTINF:-1,GLOBO TV GAZETA SUL ES HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78531
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/78531
 #EXTINF:-1,GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/410
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/410
 #EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXÁ HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/409
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/409
 #EXTINF:-1,GLOBO TV INTEGRAÇÃO UBERABA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/313
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/313
 #EXTINF:-1,GLOBO TV INTEGRAÇÃO ITUIUTABA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/411
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/411
 #EXTINF:-1,GLOBO TV INTER CABUGI SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/502
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/502
 #EXTINF:-1,GLOBO TV LIBERAL BELEM SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/570
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/570
 #EXTINF:-1,GLOBO TV LIBERAL HD (BELEM)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/365
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/365
 #EXTINF:-1,GLOBO TV MIRANTE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/721
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/721
 #EXTINF:-1,GLOBO TV MORENA FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/733
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/733
 #EXTINF:-1,GLOBO TV MORENA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/734
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/734
 #EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/757
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/757
 #EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/756
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/756
 #EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/427
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/427
 #EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/426
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/426
 #EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/422
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/422
 #EXTINF:-1,GLOBO TV SANTA CRUZ
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/352
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/352
 #EXTINF:-1,GLOBO TV SERGIPE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/336
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/336
 #EXTINF:-1,GLOBO TV SUBAE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/353
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/353
 #EXTINF:-1,GLOBO TV TEM BAURU FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/737
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/737
 #EXTINF:-1,GLOBO TV TEM BAURU HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/738
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/738
 #EXTINF:-1,GLOBO TV TEM ITAPETININGA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/573
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/573
 #EXTINF:-1,GLOBO TV TEM S. J. RIO PRETO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/314
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/314
 #EXTINF:-1,GLOBO TV TEM SOROCABA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/412
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/412
 #EXTINF:-1,GLOBO TV TEM SOROCABA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/575
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/575
 #EXTINF:-1,GLOBO TV TRIBUNA SANTOS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/384
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/384
 #EXTINF:-1,GLOBO TV TRIBUNA SANTOS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/383
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/383
 #EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/576
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/576
 #EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/577
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/577
 #EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/377
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/377
 #EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/378
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/378
 #EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76701
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76701
 #EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD (H265)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76702
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76702
 #EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/366
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/366
 #EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/578
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/578
 #EXTINF:-1,GLOOB FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/827
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/827
 #EXTINF:-1,GLOOB H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/248
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/248
 #EXTINF:-1,GLOOB HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/37
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/37
 #EXTINF:-1,GLOOB SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/493
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/493
 #EXTINF:-1,GNT FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/862
-#EXTINF:-1,GNT H265 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/249
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/862
+#EXTINF:-1,GNT H265
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/249
 #EXTINF:-1,GNT HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/38
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/38
 #EXTINF:-1,GNT SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/494
-#EXTINF:-1,HBO 2 FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/793
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/494
+#EXTINF:-1,HBO 2 FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/793
 #EXTINF:-1,HBO 2 H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/254
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/254
 #EXTINF:-1,HBO 2 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/39
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/39
 #EXTINF:-1,HBO 2 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/499
-#EXTINF:-1,HBO FAMILY FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/795
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/499
+#EXTINF:-1,HBO FAMILY FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/795
 #EXTINF:-1,HBO FAMILY HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/40
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/40
 #EXTINF:-1,HBO FAMILY SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/496
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/496
 #EXTINF:-1,HBO FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/792
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/792
 #EXTINF:-1,HBO H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/251
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/251
 #EXTINF:-1,HBO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/41
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/41
 #EXTINF:-1,HBO SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/495
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/495
 #EXTINF:-1,HBO MAX 02
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/204
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/204
 #EXTINF:-1,HBO MAX 03
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/205
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/205
 #EXTINF:-1,HBO MAX 04
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/206
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/206
 #EXTINF:-1,HBO MAX 05
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76696
-#EXTINF:-1,HBO MUNDI FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/797
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76696
+#EXTINF:-1,HBO MUNDI FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/797
 #EXTINF:-1,HBO MAX 06
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/529221
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/529221
 #EXTINF:-1,HBO MAX 07
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/529222
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/529222
 #EXTINF:-1,HBO MAX 08
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/529223
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/529223
 #EXTINF:-1,HBO MUNDI HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/260
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/260
 #EXTINF:-1,HBO MUNDI SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/48
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/48
 #EXTINF:-1,HBO PLUS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/794
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/794
 #EXTINF:-1,HBO PLUS H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/252
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/252
 #EXTINF:-1,HBO PLUS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/42
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/42
 #EXTINF:-1,HBO PLUS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/497
-#EXTINF:-1,HBO POP FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/799
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/497
+#EXTINF:-1,HBO POP FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/799
 #EXTINF:-1,HBO POP HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/262
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/262
 #EXTINF:-1,HBO POP SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/50
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/50
 #EXTINF:-1,HBO SIGNATURE FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/796
-#EXTINF:-1,HBO SIGNATURE H265 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/253
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/796
+#EXTINF:-1,HBO SIGNATURE H265
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/253
 #EXTINF:-1,HBO SIGNATURE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/43
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/43
 #EXTINF:-1,HBO SIGNATURE SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/498
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/498
 #EXTINF:-1,HBO XTREME FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/798
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/798
 #EXTINF:-1,HBO XTREME FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/261
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/261
 #EXTINF:-1,HBO XTREME HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/49
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/49
 #EXTINF:-1,HBO XTREME SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76662
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76662
 #EXTINF:-1,HELLO TV
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63867
-#EXTINF:-1,HGTV FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/861
-#EXTINF:-1,HGTV H265 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/225
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/63867
+#EXTINF:-1,HGTV FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/861
+#EXTINF:-1,HGTV H265
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/225
 #EXTINF:-1,HGTV HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/13
-#EXTINF:-1,HISTORY FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/781
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/13
+#EXTINF:-1,HISTORY FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/781
 #EXTINF:-1,HISTORY H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/255
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/255
 #EXTINF:-1,HISTORY HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/45
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/45
 #EXTINF:-1,HISTORY SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/584
-#EXTINF:-1,HISTORY 2 FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/806
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/584
+#EXTINF:-1,HISTORY 2 FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/806
 #EXTINF:-1,HISTORY 2 H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/256
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/256
 #EXTINF:-1,HISTORY 2 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/44
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/44
 #EXTINF:-1,HISTORY 2 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/500
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/500
 #EXTINF:-1,INSPIRE TV
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63866
-#EXTINF:-1,INVESTIGAÇAO DISCOVERY FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/819
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/63866
+#EXTINF:-1,INVESTIGAÇAO DISCOVERY FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/819
 #EXTINF:-1,INVESTIGAÇAO DISCOVERY H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/257
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/257
 #EXTINF:-1,INVESTIGAÇAO DISCOVERY HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/46
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/46
 #EXTINF:-1,INVESTIGAÇAO DISCOVERY SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/501
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/501
 #EXTINF:-1,ISTV HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31746
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/31746
 #EXTINF:-1,JOVEM PAM SP (RADIOS)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/176
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/176
 #EXTINF:-1,JOVEM PAN FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/886
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/886
 #EXTINF:-1,JOVEM PAN FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76659
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76659
 #EXTINF:-1,JOVEM PAN HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/209
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/209
 #EXTINF:-1,JOVEM PAN SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76660
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76660
 #EXTINF:-1,LBV - BOA VONTADE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/53957
-#EXTINF:-1,LIFETIME FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/801
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/53957
+#EXTINF:-1,LIFETIME FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/801
 #EXTINF:-1,LIFETIME H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/258
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/258
 #EXTINF:-1,LIFETIME HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/47
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/47
 #EXTINF:-1,LIFETIME SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/503
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/503
 #EXTINF:-1,MEGAPIX FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/843
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/843
 #EXTINF:-1,MEGAPIX FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/263
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/263
 #EXTINF:-1,MEGAPIX HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/51
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/51
 #EXTINF:-1,MEGAPIX SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/507
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/507
 #EXTINF:-1,MIX FM SP (RADIOS)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/183
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/183
 #EXTINF:-1,MTV FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/854
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/854
 #EXTINF:-1,MTV H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/264
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/264
 #EXTINF:-1,MTV HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/52
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/52
 #EXTINF:-1,MTV LIVE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/197
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/197
 #EXTINF:-1,MTV SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/508
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/508
 #EXTINF:-1,MULTISHOW FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/860
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/860
 #EXTINF:-1,MULTISHOW H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/265
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/265
 #EXTINF:-1,MULTISHOW HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/53
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/53
 #EXTINF:-1,MULTISHOW SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/509
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/509
 #EXTINF:-1,MUSIC BOX BRASIL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/511
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/511
 #EXTINF:-1,MUSIC BOX BRASIL SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/510
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/510
 #EXTINF:-1,NICK JR FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/831
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/831
 #EXTINF:-1,NICK JR H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/270
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/270
 #EXTINF:-1,NICK JR HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/58
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/58
 #EXTINF:-1,NICK JR SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/516
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/516
 #EXTINF:-1,NICKELODEON FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/830
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/830
 #EXTINF:-1,NICKELODEON H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/269
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/269
 #EXTINF:-1,NICKELODEON HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/57
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/57
 #EXTINF:-1,NICKELODEON SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/517
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/517
 #EXTINF:-1,NOVO TEMPO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/106
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/106
 #EXTINF:-1,NOVO TEMPO SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/586
-#EXTINF:-1,OFF FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/859
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/586
+#EXTINF:-1,OFF FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/859
 #EXTINF:-1,OFF H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/271
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/271
 #EXTINF:-1,OFF HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/59
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/59
 #EXTINF:-1,OFF SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/518
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/518
 #EXTINF:-1,PARAMOUNT FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/272
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/272
 #EXTINF:-1,GOSPEL MOVIES TELEVISION
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/522
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/522
 #EXTINF:-1,PREMIERE CLUBES  H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/273
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/273
 #EXTINF:-1,PREMIERE CLUBES H265*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88561
-#EXTINF:-1,PREMIERE CLUBES FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/775
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88561
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/775
 #EXTINF:-1,PREMIERE CLUBES FHD*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88559
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88559
 #EXTINF:-1,PREMIERE CLUBES HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/67
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/67
 #EXTINF:-1,PREMIERE CLUBES HD*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88560
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88560
 #EXTINF:-1,PREMIERE CLUBES SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/531
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/531
 #EXTINF:-1,PREMIERE CLUBES SD*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88562
-#EXTINF:-1,PREMIERE 2 FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/815
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88562
+#EXTINF:-1,PREMIERE 2 FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/815
 #EXTINF:-1,PREMIERE 2 FHD*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88563
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88563
 #EXTINF:-1,PREMIERE 2 FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/274
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/274
 #EXTINF:-1,PREMIERE 2 H265*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88564
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88564
 #EXTINF:-1,PREMIERE 2 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/61
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/61
 #EXTINF:-1,PREMIERE 2 HD*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88565
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88565
 #EXTINF:-1,PREMIERE 2 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/523
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/523
 #EXTINF:-1,PREMIERE 2 SD*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88566
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88566
 #EXTINF:-1,PREMIERE 3 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/814
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/814
 #EXTINF:-1,PREMIERE 3 FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/275
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/275
 #EXTINF:-1,PREMIERE 3 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/62
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/62
 #EXTINF:-1,PREMIERE 3 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/524
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/524
 #EXTINF:-1,PREMIERE 4 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/813
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/813
 #EXTINF:-1,PREMIERE 4 FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/276
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/276
 #EXTINF:-1,PREMIERE 4 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/63
 #EXTINF:-1,PREMIERE 4 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/525
-#EXTINF:-1,PREMIERE 5 FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/812
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/525
+#EXTINF:-1,PREMIERE 5 FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/812
 #EXTINF:-1,PREMIERE 5 FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/277
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/277
 #EXTINF:-1,PREMIERE 5 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/64
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/64
 #EXTINF:-1,PREMIERE 5 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/526
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/526
 #EXTINF:-1,PREMIERE 6 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/811
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/811
 #EXTINF:-1,PREMIERE 6 FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/278
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/278
 #EXTINF:-1,PREMIERE 6 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/65
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/65
 #EXTINF:-1,PREMIERE 6 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/527
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/527
 #EXTINF:-1,PREMIERE 7 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/810
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/810
 #EXTINF:-1,PREMIERE 7 FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/279
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/279
 #EXTINF:-1,PREMIERE 7 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/66
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/66
 #EXTINF:-1,PREMIERE 7 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/528
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/528
 #EXTINF:-1,RADIO EVANGELIZAR FM
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31743
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/31743
 #EXTINF:-1,RADIO SERTANEJA FM (RADIOS)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/186
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/186
 #EXTINF:-1,RECORD NEWS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/867
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/867
 #EXTINF:-1,RECORD NEWS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/104
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/104
 #EXTINF:-1,RECORD NEWS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/533
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/533
 #EXTINF:-1,RECORD TV SP FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/727
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/727
 #EXTINF:-1,RECORD TV SP HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/726
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/726
 #EXTINF:-1,RECORD TV SP SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/534
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/534
 #EXTINF:-1,RECORD TV RJ FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/87102
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/87102
 #EXTINF:-1,RECORD TV RJ HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/345
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/345
 #EXTINF:-1,RECORD TV RJ SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76666
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76666
 #EXTINF:-1,RECORD TV BAHIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/151
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/151
 #EXTINF:-1,RECORD TV BAHIA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/598
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/598
 #EXTINF:-1,RECORD TV BELEM HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/342
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/342
 #EXTINF:-1,RECORD TV BELEM SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76669
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76669
 #EXTINF:-1,RECORD TV BRASILIA FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/338
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/338
 #EXTINF:-1,RECORD TV BRASILIA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76663
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76663
 #EXTINF:-1,RECORD TV CAMPINAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/387
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/387
 #EXTINF:-1,RECORD TV CAMPINAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/354
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/354
 #EXTINF:-1,RECORD TV GOIANIA FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/280
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/280
 #EXTINF:-1,RECORD TV GOIANIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/68
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/68
 #EXTINF:-1,RECORD TV GOIANIA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76664
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76664
 #EXTINF:-1,RECORD TV MANAUS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/371
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/371
 #EXTINF:-1,RECORD TV MINAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/112
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/112
 #EXTINF:-1,RECORD TV MINAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/344
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/344
 #EXTINF:-1,RECORD TV MINAS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/312
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/312
 #EXTINF:-1,RECORD TV PARANÁ FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/398
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/398
 #EXTINF:-1,RECORD TV PARANÁ HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/360
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/360
 #EXTINF:-1,RECORD TV RS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/442
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/442
 #EXTINF:-1,RECORD TV RS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/339
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/339
 #EXTINF:-1,RECORD TV RS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76668
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76668
 #EXTINF:-1,RECORD TV SANTA CATARINA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/356
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/356
 #EXTINF:-1,RECORD TV SANTOS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/343
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/343
 #EXTINF:-1,RECORD TV SERGIPE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/341
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/341
 #EXTINF:-1,RECORD TV SJRP HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/340
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/340
 #EXTINF:-1,RED BULL TV FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31744
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/31744
 #EXTINF:-1,TV REDE GOSPEL FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/157
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/157
 #EXTINF:-1,REDE BRASIL SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/536
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/536
 #EXTINF:-1,TV REDE GOSPEL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/152
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/152
 #EXTINF:-1,REDE SUPER
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/596
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/596
 #EXTINF:-1,REDE TV FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/869
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/869
 #EXTINF:-1,REDE TV HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/69
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/69
 #EXTINF:-1,REDE VIDA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/538
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538
 #EXTINF:-1,RIT TV HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/162
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/162
 #EXTINF:-1,SAMBA E PAGODE FM (RADIOS)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/193
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/193
 #EXTINF:-1,SBT BRASILIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/346
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/346
 #EXTINF:-1,SBT CAMPINAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/386
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/386
 #EXTINF:-1,SBT CAMPINAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/385
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/385
 #EXTINF:-1,SBT CIDADE VERDE PI
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/59921
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/59921
 #EXTINF:-1,SBT INTERIOR FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/59920
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/59920
 #EXTINF:-1,SBT PARANÁ FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/397
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/397
 #EXTINF:-1,SBT PARANÁ HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/359
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/359
 #EXTINF:-1,SBT RECIFE FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/68341
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/68341
 #EXTINF:-1,SBT RJ FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/370
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/370
 #EXTINF:-1,SBT RJ HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/367
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/367
 #EXTINF:-1,SBT RJ SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76680
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76680
 #EXTINF:-1,SBT RS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/347
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/347
 #EXTINF:-1,SBT SERGIPE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/348
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/348
 #EXTINF:-1,SBT SERRA DOURADA FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76682
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76682
 #EXTINF:-1,SBT SERRA DOURADA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76683
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76683
 #EXTINF:-1,SBT SP FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/870
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/870
 #EXTINF:-1,SBT SP FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76681
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76681
 #EXTINF:-1,SBT SP HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/429
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/429
 #EXTINF:-1,SBT SP SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/540
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/540
 #EXTINF:-1,SBT TV ALTEROSA MG FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/897
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/897
 #EXTINF:-1,SBT TV ALTEROSA MG HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/896
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/896
 #EXTINF:-1,SBT TV ARATU BAHIA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/349
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/349
 #EXTINF:-1,SBT TV JANGADEIRO FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76684
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76684
 #EXTINF:-1,SBT TV JANGADEIRO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76685
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76685
 #EXTINF:-1,SBT TV JORNAL PERNAMBUCO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76686
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76686
 #EXTINF:-1,POLISHOP HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/885
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/885
 #EXTINF:-1,POLISHOP SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/150
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/150
 #EXTINF:-1,SPACE FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/846
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/846
 #EXTINF:-1,SPACE FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/282
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/282
 #EXTINF:-1,SPACE HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/70
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/70
 #EXTINF:-1,SPACE SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/543
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/543
 #EXTINF:-1,SPORTV FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/776
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/776
 #EXTINF:-1,SPORTV FHD*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88556
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88556
 #EXTINF:-1,SPORTV H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/285
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/285
 #EXTINF:-1,SPORTV H265*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88558
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88558
 #EXTINF:-1,SPORTV HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/73
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/73
 #EXTINF:-1,SPORTV HD*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/87150
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/87150
 #EXTINF:-1,SPORTV SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/544
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/544
 #EXTINF:-1,SPORTV SD*
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88557
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88557
 #EXTINF:-1,SPORTV 2 FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/777
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/777
 #EXTINF:-1,SPORTV 2 H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/283
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/283
 #EXTINF:-1,SPORTV 2 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/71
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/71
 #EXTINF:-1,SPORTV 2 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/545
-#EXTINF:-1,SPORTV 3 FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/778
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/545
+#EXTINF:-1,SPORTV 3 FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/778
 #EXTINF:-1,SPORTV 3 H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/284
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/284
 #EXTINF:-1,SPORTV 3 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/72
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/72
 #EXTINF:-1,SPORTV 3 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/546
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/546
 #EXTINF:-1,STUDIO UNIVERSAL FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/847
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/847
 #EXTINF:-1,STUDIO UNIVERSAL FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/286
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/286
 #EXTINF:-1,STUDIO UNIVERSAL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/74
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/74
 #EXTINF:-1,STUDIO UNIVERSAL SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/547
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/547
 #EXTINF:-1,SUPER GOSPEL
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/35627
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/35627
 #EXTINF:-1,SYFY FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/857
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/857
 #EXTINF:-1,SYFY FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/287
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/287
 #EXTINF:-1,SYFY HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/75
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/75
 #EXTINF:-1,SYFY SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/548
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/548
 #EXTINF:-1,TNT NOVELAS FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/856
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/856
 #EXTINF:-1,TNT NOVELAS FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/288
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/288
 #EXTINF:-1,TNT NOVELAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76
 #EXTINF:-1,TNT NOVELAS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/549
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/549
 #EXTINF:-1,TCM FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/877
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/877
 #EXTINF:-1,TCM HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/131
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/131
 #EXTINF:-1,TCM SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/550
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/550
 #EXTINF:-1,TELECINE ACTION FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/787
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/787
 #EXTINF:-1,TELECINE ACTION H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/289
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/289
 #EXTINF:-1,TELECINE ACTION HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/77
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/77
 #EXTINF:-1,TELECINE ACTION SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/551
-#EXTINF:-1,TELECINE CULT FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/791
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/551
+#EXTINF:-1,TELECINE CULT FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/791
 #EXTINF:-1,TELECINE CULT H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/290
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/290
 #EXTINF:-1,TELECINE CULT HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/78
 #EXTINF:-1,TELECINE CULT SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/552
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/552
 #EXTINF:-1,TELECINE FUN FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/790
-#EXTINF:-1,TELECINE FUN H265 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/291
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/790
+#EXTINF:-1,TELECINE FUN H265
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/291
 #EXTINF:-1,TELECINE FUN HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/79
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/79
 #EXTINF:-1,TELECINE FUN SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/553
-#EXTINF:-1,TELECINE PIPOCA FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/789
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/553
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/789
 #EXTINF:-1,TELECINE PIPOCA H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/292
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/292
 #EXTINF:-1,TELECINE PIPOCA HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80
 #EXTINF:-1,TELECINE PIPOCA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/554
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/554
 #EXTINF:-1,TELECINE PREMIUM FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/786
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/786
 #EXTINF:-1,TELECINE PREMIUM H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/293
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/293
 #EXTINF:-1,TELECINE PREMIUM HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/81
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/81
 #EXTINF:-1,TELECINE PREMIUM SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/555
-#EXTINF:-1,TELECINE TOUCH FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/788
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/555
+#EXTINF:-1,TELECINE TOUCH FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/788
 #EXTINF:-1,TELECINE TOUCH H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/294
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/294
 #EXTINF:-1,TELECINE TOUCH HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82
 #EXTINF:-1,TELECINE TOUCH SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/556
-#EXTINF:-1,TLC FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/809
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/556
+#EXTINF:-1,TLC FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/809
 #EXTINF:-1,TLC HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83
 #EXTINF:-1,TLC SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/558
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/558
 #EXTINF:-1,TNT FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/785
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/785
 #EXTINF:-1,TNT FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/296
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/296
 #EXTINF:-1,TNT HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/84
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/84
 #EXTINF:-1,TNT SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/559
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/559
 #EXTINF:-1,TNT SERIES FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/849
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/849
 #EXTINF:-1,TNT SERIES FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/297
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/297
 #EXTINF:-1,TNT SERIES HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/85
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/85
 #EXTINF:-1,TNT SERIES SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/560
-#EXTINF:-1,TOONCAST FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/834
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/560
+#EXTINF:-1,TOONCAST FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/834
 #EXTINF:-1,TOONCAST HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/124
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/124
 #EXTINF:-1,TOONCAST SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/561
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/561
 #EXTINF:-1,TOP 40 FM (RADIOS)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/194
-#EXTINF:-1,TRAVEL BOX BRASIL FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/884
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/194
+#EXTINF:-1,TRAVEL BOX BRASIL FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/884
 #EXTINF:-1,TRAVEL BOX BRASIL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/136
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/136
 #EXTINF:-1,TRUT TV FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/878
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/878
 #EXTINF:-1,TRUT TV HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/132
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/132
 #EXTINF:-1,TRUT TV SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/562
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/562
 #EXTINF:-1,GLOBO TV BRASILIA H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/434
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/434
 #EXTINF:-1,GLOBO TV ANHANGUERA GO FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/432
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/432
 #EXTINF:-1,GLOBO TV BRASILIA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/563
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/563
 #EXTINF:-1,TV APARECIDA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/564
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/564
 #EXTINF:-1,TV BRASIL
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/121
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/121
 #EXTINF:-1,TV CULTURA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/568
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/568
 #EXTINF:-1,TV CÂMARA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/566
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/566
 #EXTINF:-1,TV ESCOLA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/589
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/589
 #EXTINF:-1,TV EVANGELIZAR HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31750
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/31750
 #EXTINF:-1,WEB TV EXTREME
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/60182
-#EXTINF:-1,TV GLOOBINHO FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/828
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/60182
+#EXTINF:-1,TV GLOOBINHO FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/828
 #EXTINF:-1,TV GLOOBINHO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/123
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/123
 #EXTINF:-1,TV GLOOBINHO SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/3905
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/3905
 #EXTINF:-1,TV JUSTIÇA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/569
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/569
 #EXTINF:-1,TV NSPORTS HD (JOGO 1)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/163
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/163
 #EXTINF:-1,TV NSPORTS HD (JOGO 2)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/164
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/164
 #EXTINF:-1,TV NSPORTS HD (JOGO 3)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/165
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/165
 #EXTINF:-1,TV RA-TIM-BUM HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88
 #EXTINF:-1,TV RA-TIM-BUM SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/571
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/571
 #EXTINF:-1,TV SENADO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/572
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/572
 #EXTINF:-1,TV SERIES SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/60180
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/60180
 #EXTINF:-1,TV UNIVERSAL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31748
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/31748
 #EXTINF:-1,TVR VARIEDADES
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/71138
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/71138
 #EXTINF:-1,UNIVERSAL CHANNEL FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/848
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/848
 #EXTINF:-1,UNIVERSAL CHANNEL FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/301
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/301
 #EXTINF:-1,UNIVERSAL CHANNEL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/90
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/90
 #EXTINF:-1,UNIVERSAL CHANNEL SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/585
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/585
 #EXTINF:-1,VH1 HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/91
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/91
 #EXTINF:-1,VH1 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/2958
-#EXTINF:-1,GLOBOPLAY NOVELAS FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/865
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/2958
+#EXTINF:-1,GLOBOPLAY NOVELAS FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/865
 #EXTINF:-1,GLOBOPLAY NOVELAS HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/92
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/92
 #EXTINF:-1,GLOBOPLAY NOVELAS SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/580
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/580
 #EXTINF:-1,WARNER CHANNEL FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/850
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/850
 #EXTINF:-1,WARNER CHANNEL FHD H265
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/303
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/303
 #EXTINF:-1,WARNER CHANNEL HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/93
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/93
 #EXTINF:-1,WARNER CHANNEL SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/581
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/581
 #EXTINF:-1,WOOHOO TV FHD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/875
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/875
 #EXTINF:-1,WOOHOO TV HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/129
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/129
 #EXTINF:-1,WOOHOO TV SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/582
-#EXTINF:-1,ZOOMOO FHD 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/832
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/582
+#EXTINF:-1,ZOOMOO FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/832
 #EXTINF:-1,ZOOMOO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/833
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/833
 #EXTINF:-1,ZOOMOO SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/583
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/583
 #EXTINF:-1,GLOBO TV ANHANGUERA GO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/86
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/86
 #EXTINF:-1,RADIO DUMONT FM
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80123
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80123
 #EXTINF:-1,RADIO SANTO ANDRE FM
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80144
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80144
 #EXTINF:-1,Rádio Cultura 103.3 FM São Paulo
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80145
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80145
 #EXTINF:-1,Rádio FM O Dia FM 100.5 Rio de Janeiro
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80146
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80146
 #EXTINF:-1,Rádio Litoral 94.5 FM Cabo Frio
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80148
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80148
 #EXTINF:-1,Rádio Antena 1 103.7 FM Rio De Janeiro
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80154
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80154
 #EXTINF:-1,TV GIDEOES
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80159
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80159
 #EXTINF:-1,SBT TV ARATU BAHIA SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80160
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80160
 #EXTINF:-1,BONS TEMPOS TV
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80161
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80161
 #EXTINF:-1,BAND 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80551
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80551
 #EXTINF:-1,RECORD 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80552
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80552
 #EXTINF:-1,PREMIERE CLUBES 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80553
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80553
 #EXTINF:-1,TELECINE PREMIUM 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80554
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80554
 #EXTINF:-1,TNT 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80555
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80555
 #EXTINF:-1,TNT SERIES 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80556
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80556
 #EXTINF:-1,ANIMAL PLANET 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80557
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80557
 #EXTINF:-1,CARTOON NETWORK 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80558
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80558
 #EXTINF:-1,COMBATE 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80559
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80559
 #EXTINF:-1,DISCOVERY CHANNEL 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80560
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80560
 #EXTINF:-1,GLOBO 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80563
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80563
 #EXTINF:-1,HBO 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80564
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80564
 #EXTINF:-1,MEGAPIX 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80565
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80565
 #EXTINF:-1,MULTISHOW 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80566
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80566
 #EXTINF:-1,SBT 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80567
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80567
 #EXTINF:-1,SPACE 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80568
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80568
 #EXTINF:-1,SPORTV 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80569
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80569
 #EXTINF:-1,HBO XTREME 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80570
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80570
 #EXTINF:-1,TELECINE PIPOCA 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80575
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80575
 #EXTINF:-1,JOVEM PAN NEWS 4K
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/81009
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/81009
 #EXTINF:-1,REDE SECULO 21 SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82126
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82126
 #EXTINF:-1,TV PAI ETERNO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82127
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82127
 #EXTINF:-1,TV PAI ETERNO SD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82128
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82128
 #EXTINF:-1,GLN TV
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82855
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82855
 #EXTINF:-1,TV DIARIO NORDESTE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82856
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82856
 #EXTINF:-1,NBA LEAGUE PASS 01
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83025
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83025
 #EXTINF:-1,NBA LEAGUE PASS 02
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83026
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83026
 #EXTINF:-1,NBA LEAGUE PASS 03
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83027
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83027
 #EXTINF:-1,NBA LEAGUE PASS 04
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83028
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83028
 #EXTINF:-1,NBA LEAGUE PASS 05
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83029
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83029
+#EXTINF:-1,MARÍLIA MENDONÇA #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83820
+#EXTINF:-1,ROBERTO CARLOS #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83821
+#EXTINF:-1,CABARÉ #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83822
+#EXTINF:-1,WESLEY SAFADÃO #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83823
+#EXTINF:-1,LEONARDO #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83824
+#EXTINF:-1,OS MENOTTI #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83825
+#EXTINF:-1,SIMONE & SIMARIA #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83826
+#EXTINF:-1,JORGE E MATEUS #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83827
+#EXTINF:-1,BELO #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83828
+#EXTINF:-1,FELIPE ARAÚJO #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83829
+#EXTINF:-1,HENRIQUE E JULIANO #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83830
+#EXTINF:-1,ALEXANDRE PIRES #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83831
+#EXTINF:-1,MAIARA & MARAISA #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83832
+#EXTINF:-1,AMADO BATISTA #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83833
+#EXTINF:-1,CHARLIE BROW JR. #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83834
+#EXTINF:-1,MANEVA #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83835
+#EXTINF:-1,NATIRUTS #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83836
+#EXTINF:-1,GUSTAVO LIMA#FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83837
+#EXTINF:-1,SORRISO MAROTO #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83839
+#EXTINF:-1,SERTANEJO OS MELHORES #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83840
+#EXTINF:-1,ZÉ NETO E CRISTIANO #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83841
+#EXTINF:-1,ANA CASTELA #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83842
+#EXTINF:-1,MODO VIAGEM FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/85999
+#EXTINF:-1,MODO VIAGEM H265
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/86000
+#EXTINF:-1,MODO VIAGEM HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/86001
+#EXTINF:-1,MODO VIAGEM SD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/86002
+#EXTINF:-1,GLOBO TV ANHANGUERA GO SD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/86090
+#EXTINF:-1,GLOBO NSC CRICIUMA HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/86414
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/86682
+#EXTINF:-1,GLOBO TV RIO SUL SD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/86683
+#EXTINF:-1,REDE ALFA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/87726
+#EXTINF:-1,CINE FAROESTE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88962
+#EXTINF:-1,CINE DISNEY
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88963
+#EXTINF:-1,CINE STAR WARS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88965
+#EXTINF:-1,CINE FICÇÃO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88966
+#EXTINF:-1,CINE MARVEL
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88967
+#EXTINF:-1,TCM MOSSORÓ
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/88974
+#EXTINF:-1,APPLE TV 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/89786
+#EXTINF:-1,APPLE TV 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/89787
+#EXTINF:-1,APPLE TV 03
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/89788
+#EXTINF:-1,APPLE TV 04
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/89789
+#EXTINF:-1,GLOBO RPC MARINGÁ HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/89932
+#EXTINF:-1,GLOBO RPC MARINGÁ FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/89933
+#EXTINF:-1,SONY MOVIES SD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/93697
+#EXTINF:-1,SONY MOVIES HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/93696
+#EXTINF:-1,GLOBO RPC PARANAVAI SD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/94568
+#EXTINF:-1,TV BRASIL CENTRAL - GO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/428581
+#EXTINF:-1,AGRO+ HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/428744
+#EXTINF:-1,TRACE BRASIL HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/428888
+#EXTINF:-1,MTV LIVE FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/428890
+#EXTINF:-1,MIX FM DF
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/187
+#EXTINF:-1,JOVEM PAN LOVE FM
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/80153
+#EXTINF:-1,CBN (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/178
+#EXTINF:-1,89 FM ROCK (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/185
+#EXTINF:-1,POP FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/196
+#EXTINF:-1,BRUNO & MARRONE # FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430920
+#EXTINF:-1,IVETE SANGALO # FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430921
+#EXTINF:-1,JOTA QUEST # FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430922
+#EXTINF:-1,FABIO JR. #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430923
+#EXTINF:-1,RAÇA NEGRA # FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430924
+#EXTINF:-1,JOELMA #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/431236
+#EXTINF:-1,SKANK #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/431237
+#EXTINF:-1,SÉRGIO REIS #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/431238
+#EXTINF:-1,SANDY & JUNIOR #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/431239
+#EXTINF:-1,LUAN SANTANA #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/431240
+#EXTINF:-1,ACDC - LIVE AT RIVER PLATE #FIQUE EM CASA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/431241
+#EXTINF:-1,RETRO CARTOON SD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/445501
+#EXTINF:-1,SIC - PORTUGAL HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/450356
+#EXTINF:-1,PPV EXTRA 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/451381
+#EXTINF:-1,SBT+ NOVELAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/453188
+#EXTINF:-1,SBT+ POP
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/453189
+#EXTINF:-1,SBT+ SAUDADE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/453190
+#EXTINF:-1,SBT+ SILVIO SANTOS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/453192
+#EXTINF:-1,SBT+ TVZYN
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/453193
+#EXTINF:-1,RECORD TV RECIFE HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/453258
+#EXTINF:-1,UFC FIGHT PASS 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/86157
+#EXTINF:-1,UFC FIGHT PASS 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/84480
+#EXTINF:-1,UFC FIGHT PASS 03
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/84481
+#EXTINF:-1,BR SPORT 4K
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/454346
+#EXTINF:-1,PPV EXTRA 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/454757
+#EXTINF:-1,PPV EXTRA 03
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/454758
+#EXTINF:-1,PPV EXTRA 04
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/454759
+#EXTINF:-1,PPV EXTRA 05
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/454760
+#EXTINF:-1,PPV EXTRA 06
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/454761
+#EXTINF:-1,PPV EVENTOS ESPECIAIS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/462795
+#EXTINF:-1,PREMIERE 8 HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/466059
+#EXTINF:-1,PREMIERE 8 SD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/466060
+#EXTINF:-1,GOAT 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/469593
+#EXTINF:-1,GOAT 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/469594
+#EXTINF:-1,GOAT 03
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/469595
+#EXTINF:-1,ZAPPING 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/486032
+#EXTINF:-1,ZAPPING 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/486033
+#EXTINF:-1,BR SPORT 4 4K
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/497305
+#EXTINF:-1,RECORD TV CIDADE CE HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/499567
+#EXTINF:-1,RECORD TV CONQUISTA MT
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/499568
+#EXTINF:-1,FLA TV
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/509957
+#EXTINF:-1,COPINHA 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/536669
+#EXTINF:-1,COPINHA 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/536670
+#EXTINF:-1,COPINHA 03
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/536671
+#EXTINF:-1,COPINHA 04
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/536672
+#EXTINF:-1,COPINHA 05
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/536673
+#EXTINF:-1,BBB CAM 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537601
+#EXTINF:-1,BBB CAM 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537602
+#EXTINF:-1,BBB CAM 03
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537603
+#EXTINF:-1,BBB CAM 04
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537604
+#EXTINF:-1,BBB CAM 05
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537605
+#EXTINF:-1,BBB CAM 06
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537606
+#EXTINF:-1,BBB CAM 07
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537607
+#EXTINF:-1,BBB CAM 08
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537608
+#EXTINF:-1,BBB CAM 09
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537609
+#EXTINF:-1,BBB CAM 10
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537610
+#EXTINF:-1,BBB CAM 11
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537611
+#EXTINF:-1,BBB CAM 12
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537612
+#EXTINF:-1,BBB MOSAICO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537613
+#EXTINF:-1,CAZE TV 3
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537614
+#EXTINF:-1,CAZE TV 4
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537615
+#EXTINF:-1,PPV EXTRA 07
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537616
+#EXTINF:-1,PPV EXTRA 08
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/537617
+#EXTINF:-1,CAMPEONATO ALAGOANO 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538613
+#EXTINF:-1,CAMPEONATO ALAGOANO 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538614
+#EXTINF:-1,CAMPEONATO BAIANO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538615
+#EXTINF:-1,CAMPEONATO CAPIXABA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538616
+#EXTINF:-1,CAMPEONATO GAUCHO 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538617
+#EXTINF:-1,CAMPEONATO GAÚCHO 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538618
+#EXTINF:-1,CAMPEONATO GOIANO 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538619
+#EXTINF:-1,CAMPEONATO GOIANO 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538620
+#EXTINF:-1,CAMPEONATO MARANHENSE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538621
+#EXTINF:-1,CAMPEONATO MINEIRO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538622
+#EXTINF:-1,CAMPEONATO PAULISTA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538623
+#EXTINF:-1,CAMPEONATO PIAUIENSE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538624
+#EXTINF:-1,X SPORTS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538625
+#EXTINF:-1,HBO MAX 09
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541212
+#EXTINF:-1,HBO MAX 10
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541213
+#EXTINF:-1,HBO MAX 11
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541214
+#EXTINF:-1,HBO MAX 12
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541215
+#EXTINF:-1,HBO MAX 13
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541216
+#EXTINF:-1,HBO MAX 14
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541217
+#EXTINF:-1,HBO MAX 15
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541218
+#EXTINF:-1,HBO MAX 16
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541219
+#EXTINF:-1,HBO MAX 17
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541220
+#EXTINF:-1,HBO MAX 18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541221
+#EXTINF:-1,SPORTYNET 01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/546884
+#EXTINF:-1,SPORTYNET 02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/546885
+#EXTINF:-1,SPORTYNET 03
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/546886
+#EXTINF:-1,SPORTYNET 04
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/546887
+#EXTINF:-1,PLAYBOY FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/872
+#EXTINF:-1,PLAYBOY HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/934
+#EXTINF:-1,SEX PRIVE FHD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/873
+#EXTINF:-1,SEX PRIVE HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/127
+#EXTINF:-1,SEXTREME HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/541
+#EXTINF:-1,SEXY HOT HD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/126
+#EXTINF:-1,SEXY HOT SD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/542
+#EXTINF:-1,24h A CASA DAS BRASILEIRINHAS +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83240
+#EXTINF:-1,24h ASIA +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83241
+#EXTINF:-1,24h REDTUBE +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83242
+#EXTINF:-1,24h BRASILEIRINHAS +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82141
+#EXTINF:-1,24h BRASILEIRINHAS  +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83252
+#EXTINF:-1,24h HOT +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76720
+#EXTINF:-1,24h MOFOS +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82161
+#EXTINF:-1,24h CINE ADULTO +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83244
+#EXTINF:-1,24h TEEN AMADORA+18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83251
+#EXTINF:-1,24h PRIVATE +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82162
+#EXTINF:-1,24h HUSTLER +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82163
+#EXTINF:-1,24h EROXX  +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76703
+#EXTINF:-1,24h DORCEL +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82164
+#EXTINF:-1,24h KINGS +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82165
+#EXTINF:-1,24h EUROLUXE +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82166
+#EXTINF:-1,24h HENTAI +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82167
+#EXTINF:-1,24h PINK +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82168
+#EXTINF:-1,24h SLIM +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82169
+#EXTINF:-1,24h XXX LESBICAS +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76713
+#EXTINF:-1,24h ORGIA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82170
+#EXTINF:-1,24h XY MAX +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/82171
+#EXTINF:-1,24h AMADORAS +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83247
+#EXTINF:-1,24h GAYS +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83248
+#EXTINF:-1,24h XXL TV +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/76715
+#EXTINF:-1,24h SURUBA CASEIRA +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83249
+#EXTINF:-1,24h A CASA DAS BRASILEIRINHAS +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83260
+#EXTINF:-1,24h SPY CAM+18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83262
+#EXTINF:-1,24h LATINAS +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83440
+#EXTINF:-1,24h TEAMSKEET +18
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/83463
+#EXTINF:-1,24h REDTUBE 03
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430680
+#EXTINF:-1,24h BABES
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430681
+#EXTINF:-1,24h GORDAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430682
+#EXTINF:-1,24 BISEXUAL
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430683
+#EXTINF:-1,24h INDIANAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430684
+#EXTINF:-1,24h SEXO NA PRAIA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430685
+#EXTINF:-1,24h RUIVAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430686
+#EXTINF:-1,24h ALEMANHA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430687
+#EXTINF:-1,24h XXX WINTER JADE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/454348
+#EXTINF:-1,24h FANTASY
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/454349
+#EXTINF:-1,24H 3 PALAVRINHAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96566
+#EXTINF:-1,24H 44 GATOS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96567
+#EXTINF:-1,24H XODÓ DA VOVÓ
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96568
+#EXTINF:-1,24H A CASA DO MICKEY MOUSE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96569
+#EXTINF:-1,24H V A BATALHA FINAL
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96570
+#EXTINF:-1,24H A TURMA DA PANTERA COR DE ROSA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96571
+#EXTINF:-1,24H A TURMA DO ZÉ COLMÉIA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96572
+#EXTINF:-1,24H A VACA E O FRANGO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96573
+#EXTINF:-1,24H MR. MARKER
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96574
+#EXTINF:-1,24H ANIMANIACS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96576
+#EXTINF:-1,24H ANIMAZOO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96577
+#EXTINF:-1,24H KIDS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96578
+#EXTINF:-1,24H AS AVENTURAS DE TOM & JERRY
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96579
+#EXTINF:-1,24H AS AVENTURAS DE KIPO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96580
+#EXTINF:-1,24H As Novas Aventuras do Superman
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96581
+#EXTINF:-1,24H As Aventuras de Jackie Chan
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96582
+#EXTINF:-1,24H JASPION
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96583
+#EXTINF:-1,24H BABY LOONEY TUNES
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96584
+#EXTINF:-1,24H BANANAS DE PIJAMAS DESENHO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96585
+#EXTINF:-1,24H BATMAN E ROBIN CLASSICO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96586
+#EXTINF:-1,24H AQUAMAN
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96587
+#EXTINF:-1,24H BEN 10
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96588
+#EXTINF:-1,24H BEN 10 OMNIVERSE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96589
+#EXTINF:-1,24H BLACK KAMEN RIDER
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96590
+#EXTINF:-1,24H BOB CONSTRUTOR 1999
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96591
+#EXTINF:-1,24H BOB ESPONJA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96593
+#EXTINF:-1,24H Bob Esponja T09 a 12
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96594
+#EXTINF:-1,24H BOB ZOOM
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96595
+#EXTINF:-1,24H O MASKARA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96597
+#EXTINF:-1,24H MARINHEIRO POPEYE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96598
+#EXTINF:-1,24H BREAKING BAD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96599
+#EXTINF:-1,24H VAI QUE COLA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96600
+#EXTINF:-1,24H Hey Arnold
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96602
+#EXTINF:-1,24H CAVERNA DO DRAGÃO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96603
+#EXTINF:-1,24H Medabots
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96604
+#EXTINF:-1,24H CARGA PESADA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96605
+#EXTINF:-1,24H CASTORES PIRADOS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96606
+#EXTINF:-1,24H CAVALO DE FOGO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96607
+#EXTINF:-1,24H CAVERNA DO DRAGÃO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96608
+#EXTINF:-1,24H CHANGEMAN
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96609
+#EXTINF:-1,24H Chapolin T01 a 03
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96610
+#EXTINF:-1,24H Chapolin T04 a 07
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96611
+#EXTINF:-1,24H UM MALUCO NO PEDAÇO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96612
+#EXTINF:-1,24H CHAVES DESENHO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96613
+#EXTINF:-1,24H Aeroporto Área Restrita
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96614
+#EXTINF:-1,24H CHAVES TEMPORADA 07
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96617
+#EXTINF:-1,24H MIGTHOR
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96618
+#EXTINF:-1,24H CLARÊNCIO O OTIMISTA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96619
+#EXTINF:-1,24H CONTOS ASSUSTADORES DA MASHA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96621
+#EXTINF:-1,24H CORAGEM O CÃO COVARDE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96622
+#EXTINF:-1,24H Mega-man
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96623
+#EXTINF:-1,24H O Coisa
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96624
+#EXTINF:-1,24H Cuphead a Série
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96625
+#EXTINF:-1,24H CYBERCOPS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96626
+#EXTINF:-1,24H TURMA DA MONICA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96627
+#EXTINF:-1,24H DE VOLTA PARA O FUTURO DESENHO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96628
+#EXTINF:-1,24H Denis o Pimentinhas
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96629
+#EXTINF:-1,24H Os Sete monstrinhos
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96630
+#EXTINF:-1,24H DESENCANTO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96631
+#EXTINF:-1,24H DESENHOS BIBLICOS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96632
+#EXTINF:-1,24H DIGIMON
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96633
+#EXTINF:-1,24H DOUG
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96635
+#EXTINF:-1,24H DOUTORA BRINQUEDO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96636
+#EXTINF:-1,24H DR.STONE (ANIME)
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96637
+#EXTINF:-1,24H DRAGON BALL LONGAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96638
+#EXTINF:-1,24H DRAGONBALL CLASSICO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96639
+#EXTINF:-1,24H DRAGONBALL SUPER
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96640
+#EXTINF:-1,24H DRAGONBALL Z SAGA ANDROIDES
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96641
+#EXTINF:-1,24H DRAGONBALL Z SAGA BABIDI
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96642
+#EXTINF:-1,24H Os Pinguins de Madagascar
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96643
+#EXTINF:-1,24H Phineas e Ferb
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96645
+#EXTINF:-1,24H DRAGONBALL Z SAGA NAMEKUSEI
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96646
+#EXTINF:-1,24H DRAGONBALL Z SAGA SAYAJIN
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96647
+#EXTINF:-1,24H Ilha dos Desafios
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96648
+#EXTINF:-1,24H Jambo e Ruvião
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96649
+#EXTINF:-1,24H Homem de Ferro
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96650
+#EXTINF:-1,24H DUCK DODGERS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96651
+#EXTINF:-1,24H DUCK TALES CLÁSSICO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96652
+#EXTINF:-1,24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96653
+#EXTINF:-1,24H EU SOU O MAXIMO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96654
+#EXTINF:-1,24H FAISCA & FUMAÇA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96655
+#EXTINF:-1,24H Delvin o Motoqueiro
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96656
+#EXTINF:-1,24H FORMIGA ATÔMICA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96657
+#EXTINF:-1,24H FRANKSTEIN JR E OS IMPOSSIVEÍS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96658
+#EXTINF:-1,24H FREAKAZOID
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96659
+#EXTINF:-1,24H FUTURAMA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96660
+#EXTINF:-1,24H FÁBULAS DA DISNEY
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96661
+#EXTINF:-1,24H GALINHA BABY
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96662
+#EXTINF:-1,24H GALINHA PINTADINHA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96663
+#EXTINF:-1,24H Happy Tree Frieds
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96664
+#EXTINF:-1,24H GATO FELIX
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96665
+#EXTINF:-1,24H G. I. Joe: Sigma 6
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96666
+#EXTINF:-1,24H GOOGLE FIVE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96667
+#EXTINF:-1,24H HE-MAN
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96669
+#EXTINF:-1,24H HENRY DANGER
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96670
+#EXTINF:-1,24H Hercules Disney
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96671
+#EXTINF:-1,24H Fantasminhas Legal
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96672
+#EXTINF:-1,24H Fantomas
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96673
+#EXTINF:-1,24H AMERICAN HOUSEWIFE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96674
+#EXTINF:-1,24H iCARLY
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96675
+#EXTINF:-1,24H INUYASHA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96676
+#EXTINF:-1,24H Duelo Xiaolin
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96677
+#EXTINF:-1,24H IRMÃO DO JOREL
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96678
+#EXTINF:-1,24H JAKE E OS PIRATAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96679
+#EXTINF:-1,24H Comichão e Cocadinha
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96680
+#EXTINF:-1,24H JIBAN
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96681
+#EXTINF:-1,24H Jurassic World Acampamento Jurássico
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96682
+#EXTINF:-1,24H LARGADOS E PELADOS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96683
+#EXTINF:-1,24H LARGADOS E PELADOS A TRIBO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96684
+#EXTINF:-1,24H Charlie Chan
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96685
+#EXTINF:-1,24H LEGO UMA AVENTURA NA CIDADE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96686
+#EXTINF:-1,24H CAPITÃO LENTO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96687
+#EXTINF:-1,24H Luluzinha
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96688
+#EXTINF:-1,24H BATMAN GOTHAM KNIGHT
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96689
+#EXTINF:-1,24H BATMAN DO FUTURO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96690
+#EXTINF:-1,24H BATMAN
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96691
+#EXTINF:-1,24H MANNY MÃOS À OBRA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96692
+#EXTINF:-1,24H MARIA MAGDALENA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96693
+#EXTINF:-1,24H Batfino
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96694
+#EXTINF:-1,24H MARVEL DEMOLIDOR
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96695
+#EXTINF:-1,24H MEGAMAN CLASSICO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96696
+#EXTINF:-1,24H MEU AMIGÃOZÃO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96697
+#EXTINF:-1,24H Miami Vice
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96698
+#EXTINF:-1,24H MICKEY CLASSICO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96699
+#EXTINF:-1,24H Mickey Donald e Pateta
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96700
+#EXTINF:-1,24H As Meninas Superpoderosas Geração Z
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96701
+#EXTINF:-1,24H MORANGUINHO AVENTURAS EM TUTTI FRUTI
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96702
+#EXTINF:-1,24H MUCHA LUTA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96703
+#EXTINF:-1,24H MUMIAS VIVAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96704
+#EXTINF:-1,24H MUNDO BITA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96705
+#EXTINF:-1,24H NARUTO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96706
+#EXTINF:-1,24H O INCRÍVEL MUNDO DE GUMBALL
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96707
+#EXTINF:-1,24H O MANDALORIANO T01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96708
+#EXTINF:-1,24H O Maskara
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96709
+#EXTINF:-1,24H O PEQUENO SCOOBY-DOO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96710
+#EXTINF:-1,24H O PEQUENO URSO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96711
+#EXTINF:-1,24H O PODEROSO MIGTHOR
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96712
+#EXTINF:-1,24H A Terríveis Aventuras de Billy e Mandy
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96713
+#EXTINF:-1,24H O SHOW DOS LOONEY TUNES
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96714
+#EXTINF:-1,24H A Turma do Bairro
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96715
+#EXTINF:-1,24H OGGY E AS BARATAS TONTAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96716
+#EXTINF:-1,24H OQUE HÁ DE NOVO SCOOBY DOO?
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96717
+#EXTINF:-1,24H OS 7A
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96718
+#EXTINF:-1,24H OS BACKYARDIGANS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96719
+#EXTINF:-1,24H A Turma do Pato Bill
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96720
+#EXTINF:-1,24H OS CAÇA FANTASMA DESENHO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96721
+#EXTINF:-1,24H WANDINHA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96722
+#EXTINF:-1,24H Os Flintstones
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96723
+#EXTINF:-1,24H OS GÁRGULAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96724
+#EXTINF:-1,24H Bacamarte e Chumbinho
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96725
+#EXTINF:-1,24H OS JETSONS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96726
+#EXTINF:-1,24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96727
+#EXTINF:-1,24H OS JOVENS TITÃS EM AÇÃO T05
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96728
+#EXTINF:-1,24H Os Jovens Titãs em Ação T06
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96729
+#EXTINF:-1,24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96730
+#EXTINF:-1,24H A FAMÍLIA DRACULA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96731
+#EXTINF:-1,24H OS RONI
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96732
+#EXTINF:-1,24H OS SIMPSON 2000/2010
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96733
+#EXTINF:-1,24H OS SIMPSONS T31
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96734
+#EXTINF:-1,24H Os Simpsons 34° Temporada
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96735
+#EXTINF:-1,24H OS SIMPSONS T.35
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96736
+#EXTINF:-1,24H OS SMURFS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96737
+#EXTINF:-1,24H A MULHER MARAVILHA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96738
+#EXTINF:-1,24H OS TRAPALHÕES
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96739
+#EXTINF:-1,24H OS URSINHOS CARINHOSOS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96740
+#EXTINF:-1,24H AS MENINAS SUPERPODEROSAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96742
+#EXTINF:-1,24H A FAMÍLIA ADAMS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96743
+#EXTINF:-1,24H PATO DONALD
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96744
+#EXTINF:-1,24H PATRULHA CANINA T01
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96745
+#EXTINF:-1,24H PATRULHA CANINA T02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96746
+#EXTINF:-1,24H PATRULHA CANINA T03
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96747
+#EXTINF:-1,24H PATRULHA CANINA T04
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96748
+#EXTINF:-1,24H PATRULHA CANINA T05
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96749
+#EXTINF:-1,24H PEPPA PIG
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96751
+#EXTINF:-1,24H PERDIDO NAS ESTRELAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96752
+#EXTINF:-1,24H Pernalonga e Seus Amigos
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96753
+#EXTINF:-1,24H PICA- PAU
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96754
+#EXTINF:-1,24H PINK E O CEREBRO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96755
+#EXTINF:-1,24H PLIC & PLOC
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96756
+#EXTINF:-1,24H POLE POSITION
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96757
+#EXTINF:-1,24H PEPPA PIG
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96758
+#EXTINF:-1,24H A CORRIDA ESPACIAL
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96759
+#EXTINF:-1,24H POWER RANGERS CLASSICO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96760
+#EXTINF:-1,24H PUNKY A LEVADA DA BRECA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96761
+#EXTINF:-1,24H QUE LEGAL SCOOBY DOO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96762
+#EXTINF:-1,24H RAMBO DESENHO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96763
+#EXTINF:-1,24H CARDILLACS E DINOSSAURO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96764
+#EXTINF:-1,24H REN & STIMPY
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96765
+#EXTINF:-1,24H ROBOCOP DESENHO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96766
+#EXTINF:-1,24H BIBO PAI E BOB FILHO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96767
+#EXTINF:-1,24H SAMURAI JACK
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96768
+#EXTINF:-1,24H DR. HOUSE T07 & T08
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96769
+#EXTINF:-1,24H DR. HOUSE T05 & T06
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96770
+#EXTINF:-1,24H SEE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96771
+#EXTINF:-1,24H SHAMAN KING (ANIME)
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96772
+#EXTINF:-1,24H SHAUN O CARNEIRO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96773
+#EXTINF:-1,24H DR. HOUSE T03 & T04
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96774
+#EXTINF:-1,24H SHE-RA CLASSICA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96775
+#EXTINF:-1,24H SILVERHAWKS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96776
+#EXTINF:-1,24H EU A PATROA E AS CRIANÇAS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96778
+#EXTINF:-1,24H DR. HOUSE T01 & T02
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96779
+#EXTINF:-1,24H BEN 10 FORÇA ALIENÍGENA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96780
+#EXTINF:-1,24H STREET FIGHTER
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96781
+#EXTINF:-1,24H SUPER CHOQUE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96782
+#EXTINF:-1,24H Super Dragonball Heroes
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96783
+#EXTINF:-1,24H Super Homem Anos 40
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96784
+#EXTINF:-1,24H SUPERAMIGOS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96785
+#EXTINF:-1,24H SUPERCAMPEÕES
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96786
+#EXTINF:-1,24H SUPERNATURAL T01 A 05
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96787
+#EXTINF:-1,24H SURFISTA PRATEADO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96788
+#EXTINF:-1,24H TARZAN
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96789
+#EXTINF:-1,24H TAZ MANIA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96790
+#EXTINF:-1,24H Teletubbies
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96791
+#EXTINF:-1,24H Thundercats
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96792
+#EXTINF:-1,24H TODO MUNDO ODEIA O CHRIS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96793
+#EXTINF:-1,24H TOM & JERRY CLASSICO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96794
+#EXTINF:-1,24H Tom & Jerry New York
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96795
+#EXTINF:-1,24H TRANSFORMERS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96796
+#EXTINF:-1,24H OS SIMPSONS T32
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96797
+#EXTINF:-1,24H TURMA DO RONALDINHO GAUCHO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96798
+#EXTINF:-1,24H TV COLOSSO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96799
+#EXTINF:-1,24H TÁ CHOVENDO HAMBURGUER
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96801
+#EXTINF:-1,24H OS FEITICEIROS DE WARVELY PLACE
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96802
+#EXTINF:-1,24H HOUSE OF CARDS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96803
+#EXTINF:-1,24H BIG BANG: A Teoria
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96804
+#EXTINF:-1,24H VINGADORES OS SUPER HERÓIS MAIS PODEROSOS DA TERRA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96805
+#EXTINF:-1,24H WOLVERINE E OS X-MEN
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96806
+#EXTINF:-1,24H SHAZAAM
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96807
+#EXTINF:-1,24H IRMÃOS A OBRA
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96808
+#EXTINF:-1,24H HILDA FURACÃO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96809
+#EXTINF:-1,24H ZORRO CLASSICO
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96810
+#EXTINF:-1,24HR A FAMÍLIA HATHAWAYS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/96811
+#EXTINF:-1,24H THUNDERCATS
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/430208
+#EXTINF:-1,24H Dois Homens e Meio
+http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/431406
