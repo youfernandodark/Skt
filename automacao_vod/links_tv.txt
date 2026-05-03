@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1,GLOBO SP FHD
 http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/715
 #EXTINF:-1,GLOBO SP FHD H265
