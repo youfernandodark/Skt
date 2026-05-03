@@ -1,0 +1,1371 @@
+#EXTM3U
+#EXTINF:-1,GLOBO SP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/715
+#EXTINF:-1,GLOBO SP FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/714
+#EXTINF:-1,GLOBO SP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/741
+#EXTINF:-1,GLOBO SP SD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/492
+#EXTINF:-1,GLOBO RJ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/362
+#EXTINF:-1,GLOBO RJ H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76673
+#EXTINF:-1,GLOBO RJ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/335
+#EXTINF:-1,GLOBO RJ SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/491
+#EXTINF:-1,A&E FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/851
+#EXTINF:-1,A&E FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/210
+#EXTINF:-1,A&E HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/1
+#EXTINF:-1,A&E SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/444
+#EXTINF:-1,ALL SPORTS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31745
+#EXTINF:-1,AMC FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/840
+#EXTINF:-1,AMC FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/211
+#EXTINF:-1,AMC HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/2
+#EXTINF:-1,AMC SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/445
+#EXTINF:-1,ANIMAL PLANET FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/804
+#EXTINF:-1,ANIMAL PLANET H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/212
+#EXTINF:-1,ANIMAL PLANET HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/3
+#EXTINF:-1,ANIMAL PLANET SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/446
+#EXTINF:-1,ANTENA 1 FM ( RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/177
+#EXTINF:-1,ARTE 1 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/876
+#EXTINF:-1,ARTE 1 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/130
+#EXTINF:-1,ARTE 1 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/2956
+#EXTINF:-1,AXN FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/835
+#EXTINF:-1,AXN FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/213
+#EXTINF:-1,AXN HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/4
+#EXTINF:-1,AXN SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/447
+#EXTINF:-1,BAND BAHIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/449
+#EXTINF:-1,BAND CAMPINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/388
+#EXTINF:-1,BAND CAMPINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/320
+#EXTINF:-1,BAND CURITIBA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/408
+#EXTINF:-1,BAND CURITIBA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/358
+#EXTINF:-1,BAND MINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/311
+#EXTINF:-1,BAND MINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/310
+#EXTINF:-1,BAND NEWS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/866
+#EXTINF:-1,BAND NEWS FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/214
+#EXTINF:-1,BAND NEWS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/103
+#EXTINF:-1,BAND NEWS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/451
+#EXTINF:-1,BAND RJ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/307
+#EXTINF:-1,BAND RJ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/321
+#EXTINF:-1,BAND RS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/322
+#EXTINF:-1,BAND SERGIPE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/323
+#EXTINF:-1,BAND SP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/868
+#EXTINF:-1,BAND SP FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76679
+#EXTINF:-1,BAND SP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/324
+#EXTINF:-1,BAND SP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/450
+#EXTINF:-1,BAND SPORTS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/768
+#EXTINF:-1,BAND SPORTS H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/215
+#EXTINF:-1,BAND SPORTS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/5
+#EXTINF:-1,BAND SPORTS SD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/452
+#EXTINF:-1,BAND TV GOIANIA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/299
+#EXTINF:-1,BAND TV GOIÂNIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/87
+#EXTINF:-1,BIS FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/881
+#EXTINF:-1,BIS H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/216
+#EXTINF:-1,BIS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/6
+#EXTINF:-1,BIS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/453
+#EXTINF:-1,BORA FILMES
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63052
+#EXTINF:-1,CANAL BRASIL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/883
+#EXTINF:-1,CANAL BRASIL H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/218
+#EXTINF:-1,CANAL BRASIL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/135
+#EXTINF:-1,CANAL BRASIL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/455
+#EXTINF:-1,CANAL DO BOI
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/456
+#EXTINF:-1,CANAL RURAL
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/198
+#EXTINF:-1,CANAL SONY FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/219
+#EXTINF:-1,CANAL SONY FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/844
+#EXTINF:-1,CANAL SONY HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/7
+#EXTINF:-1,CANAL SONY SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/457
+#EXTINF:-1,CANÇÃO NOVA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/199
+#EXTINF:-1,CANÇÃO NOVA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/458
+#EXTINF:-1,CARTOON NETWORK FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/823
+#EXTINF:-1,CARTOON NETWORK H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/220
+#EXTINF:-1,CARTOON NETWORK HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/8
+#EXTINF:-1,CARTOON NETWORK SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/459
+#EXTINF:-1,CARTOONITO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/822
+#EXTINF:-1,CARTOONITO H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/217
+#EXTINF:-1,CARTOONITO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/122
+#EXTINF:-1,CARTOONITO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/454
+#EXTINF:-1,CINE SKY 1
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/686
+#EXTINF:-1,CINE SKY 2
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/687
+#EXTINF:-1,CINE SKY 3
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/688
+#EXTINF:-1,CINE SKY 4
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/689
+#EXTINF:-1,CINE SKY 5
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/690
+#EXTINF:-1,CINEMAX FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/841
+#EXTINF:-1,CINEMAX FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/221
+#EXTINF:-1,CINEMAX HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/9
+#EXTINF:-1,CINEMAX SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/460
+#EXTINF:-1,CLUBINHO FUN
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63863
+#EXTINF:-1,CNN BRASIL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/306
+#EXTINF:-1,CNN BRASIL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/102
+#EXTINF:-1,CNN BRASIL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/588
+#EXTINF:-1,COMBATE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/784
+#EXTINF:-1,COMBATE H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/222
+#EXTINF:-1,COMBATE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/10
+#EXTINF:-1,COMBATE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/461
+#EXTINF:-1,DAZN 01 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/325
+#EXTINF:-1,DAZN 02 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/326
+#EXTINF:-1,DAZN 03 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/327
+#EXTINF:-1,DAZN 04 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/111
+#EXTINF:-1,NOSSO FUTEBOL 01
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96522
+#EXTINF:-1,NOSSO FUTEBOL 02
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96523
+#EXTINF:-1,NOSSO FUTEBOL 03
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96524
+#EXTINF:-1,NOSSO FUTEBOL 04
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96525
+#EXTINF:-1,CAZE TV 1
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/90526
+#EXTINF:-1,CAZE TV 2
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/90527
+#EXTINF:-1,Curta !
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/463
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/808
+#EXTINF:-1,DISCOVERY CHANNEL H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/224
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/12
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/464
+#EXTINF:-1,DISCOVERY H&H FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/807
+#EXTINF:-1,DISCOVERY H&H H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/226
+#EXTINF:-1,DISCOVERY H&H HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/14
+#EXTINF:-1,DISCOVERY H&H SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/465
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/824
+#EXTINF:-1,DISCOVERY KIDS H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/227
+#EXTINF:-1,DISCOVERY KIDS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/15
+#EXTINF:-1,DISCOVERY KIDS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/466
+#EXTINF:-1,DISCOVERY SCIENCE FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/820
+#EXTINF:-1,DISCOVERY SCIENCE H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/228
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/16
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76670
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/821
+#EXTINF:-1,DISCOVERY THEATER H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/229
+#EXTINF:-1,DISCOVERY THEATER HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/17
+#EXTINF:-1,DISCOVERY THEATER SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76671
+#EXTINF:-1,DISCOVERY TURBO FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/818
+#EXTINF:-1,DISCOVERY TURBO H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/230
+#EXTINF:-1,DISCOVERY TURBO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/18
+#EXTINF:-1,DISCOVERY TURBO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/467
+#EXTINF:-1,DISCOVERY WORLD FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/802
+#EXTINF:-1,DISCOVERY WORLD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/231
+#EXTINF:-1,DISCOVERY WORLD HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/19
+#EXTINF:-1,DISCOVERY WORLD SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76672
+#EXTINF:-1,DOG TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/780
+#EXTINF:-1,DOG TV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/138
+#EXTINF:-1,E! FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/864
+#EXTINF:-1,E! H265 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/234
+#EXTINF:-1,E! HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/22
+#EXTINF:-1,PRIME VIDEO 1 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83809
+#EXTINF:-1,PRIME VIDEO 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83810
+#EXTINF:-1,PRIME VIDEO 3 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83811
+#EXTINF:-1,PRIME VIDEO 4 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83812
+#EXTINF:-1,GLOBOPLAY+ 01
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/85879
+#EXTINF:-1,GLOBOPLAY+ 02
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/85880
+#EXTINF:-1,PARAMOUNT+ 1 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96812
+#EXTINF:-1,PARAMOUNT+ 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96813
+#EXTINF:-1,PARAMOUNT+ 3 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96814
+#EXTINF:-1,PARAMOUNT+ 4 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96815
+#EXTINF:-1,E! SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/471
+#EXTINF:-1,ENTRETENDO FILMES
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63864
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/364
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/363
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/473
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/368
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/729
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/474
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/472
+#EXTINF:-1,BR SPORT H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/523673
+#EXTINF:-1,BR SPORT FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/494901
+#EXTINF:-1,BR SPORT HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/454345
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/728
+#EXTINF:-1,BR SPORT SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/523672
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/369
+#EXTINF:-1,BR SPORT 2 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/236
+#EXTINF:-1,BR SPORT 2 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/450103
+#EXTINF:-1,BR SPORT 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/505857
+#EXTINF:-1,BR SPORT 2 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/432374
+#EXTINF:-1,BR SPORT 3 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/772
+#EXTINF:-1,BR SPORT 3 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/237
+#EXTINF:-1,BR SPORT 3 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/23
+#EXTINF:-1,BR SPORT 3 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/476
+#EXTINF:-1,BR SPORT 4 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/497306
+#EXTINF:-1,BR SPORT 4 HD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/494039
+#EXTINF:-1,BR SPORT 4 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/503687
+#EXTINF:-1,BR SPORT 5 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/773
+#EXTINF:-1,BR SPORT 5 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/245
+#EXTINF:-1,BR SPORT 5 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/32
+#EXTINF:-1,BR SPORT 5 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/484
+#EXTINF:-1,BR SPORT 6 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/770
+#EXTINF:-1,BR SPORT 6 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/235
+#EXTINF:-1,BR SPORT 6 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/26
+#EXTINF:-1,BR SPORT 6 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76661
+#EXTINF:-1,FILM & ART FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/855
+#EXTINF:-1,FILM & ART HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/125
+#EXTINF:-1,FILM & ART SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/478
+#EXTINF:-1,FISH TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/239
+#EXTINF:-1,FISH TV SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/479
+#EXTINF:-1,FOOD  NETWORK FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/863
+#EXTINF:-1,FOOD NETWORK H265 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/240
+#EXTINF:-1,FOOD NETWORK HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/27
+#EXTINF:-1,FOOD NETWORK SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/480
+#EXTINF:-1,FURACAO TV (01)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/200
+#EXTINF:-1,HBO MAX 01
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78527
+#EXTINF:-1,FUTURA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/485
+#EXTINF:-1,GAUCHA ZH (Radios)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/180
+#EXTINF:-1,GAZETA FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/188
+#EXTINF:-1,TV GAZETA HD SP
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/333
+#EXTINF:-1,GERAÇÃO FUNK FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/191
+#EXTINF:-1,GLOBO TV BAHIA  FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/379
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/380
+#EXTINF:-1,GLOBO TV BRASILIA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/719
+#EXTINF:-1,GLOBO TV BRASILIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/334
+#EXTINF:-1,RECORD BRASILIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/487
+#EXTINF:-1,GLOBO INTEGRAÇÃO UBERLÂNDIA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/396
+#EXTINF:-1,GLOBO INTEGRAÇÃO UBERLÂNDIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/395
+#EXTINF:-1,GLOBO INTER DO VALE MG FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/392
+#EXTINF:-1,GLOBO INTER TV RJ FHD ( REGIAO SERRANA)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/390
+#EXTINF:-1,GLOBO INTER TV RJ HD (REGIAO SERRANA)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/389
+#EXTINF:-1,GLOBO INTER VALE MG HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/391
+#EXTINF:-1,GLOBO JOAÇABA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/752
+#EXTINF:-1,GLOBO JOAÇABA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/753
+#EXTINF:-1,GLOBO JUIZ DE FORA MG FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/750
+#EXTINF:-1,GLOBO JUIZ DE FORA MG HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/751
+#EXTINF:-1,GLOBO MINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/720
+#EXTINF:-1,GLOBO MINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/724
+#EXTINF:-1,GLOBO MINAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/488
+#EXTINF:-1,GLOBO MOGI DAS CRUZES FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/754
+#EXTINF:-1,GLOBO MOGI DAS CRUZES HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/755
+#EXTINF:-1,GLOBO MONTES CLAROS MG FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/744
+#EXTINF:-1,GLOBO NEWS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/853
+#EXTINF:-1,GLOBO NEWS FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/247
+#EXTINF:-1,GLOBO NEWS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/35
+#EXTINF:-1,GLOBO NEWS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/489
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/393
+#EXTINF:-1,GLOBO NORDESTE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/394
+#EXTINF:-1,GLOBO NORDESTE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/490
+#EXTINF:-1,GLOBO NSC BLUMENAU FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/430
+#EXTINF:-1,GLOBO NSC BLUMENAU HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/431
+#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/418
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/417
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76677
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/725
+#EXTINF:-1,GLOBO NSC TV BLUMENAU SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76678
+#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/731
+#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/732
+#EXTINF:-1,GLOBO PARAIBA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/718
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/748
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/749
+#EXTINF:-1,GLOBO RBS CAXIAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/373
+#EXTINF:-1,GLOBO RBS CAXIAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/372
+#EXTINF:-1,GLOBO RBS PASSO FUNDO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/416
+#EXTINF:-1,GLOBO RBS PASSO FUNDO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/415
+#EXTINF:-1,GLOBO RBS PELOTAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/374
+#EXTINF:-1,GLOBO RBS PELOTAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/375
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/743
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/337
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/532
+#EXTINF:-1,GLOBO RBS TV STA MARIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/800
+#EXTINF:-1,GLOBO RECIFE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76688
+#EXTINF:-1,GLOBO RPC CASCAVEL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/402
+#EXTINF:-1,GLOBO RPC CASCAVEL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/401
+#EXTINF:-1,GLOBO RPC CURITIBA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/406
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/405
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/539
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/376
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/730
+#EXTINF:-1,GLOBO RPC LONDRINA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/357
+#EXTINF:-1,GLOBO RPC PARANAVAÍ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/735
+#EXTINF:-1,GLOBO RPC PARANAVAI HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/736
+#EXTINF:-1,GLOBO TV ASA BRANCA PE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/139
+#EXTINF:-1,GLOBO TV ASA BRANCA PE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/717
+#EXTINF:-1,GLOBO TV BAHIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/565
+#EXTINF:-1,GLOBO TV CABO BRANCO JOAO PESSOA  FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/420
+#EXTINF:-1,GLOBO TV CABO BRANCO JOAO PESSOA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/419
+#EXTINF:-1,GLOBO TV CABUGI FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/440
+#EXTINF:-1,GLOBO TV CABUGI HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/441
+#EXTINF:-1,GLOBO TV CENTRO AMERICA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/567
+#EXTINF:-1,GLOBO TV CLUBE PI HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/716
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/425
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/424
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/746
+#EXTINF:-1,GLOBO TV GAZETA VITORIA ES FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/414
+#EXTINF:-1,GLOBO TV GAZETA VITORIA ES HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/413
+#EXTINF:-1,GLOBO TV GAZETA SUL ES FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78530
+#EXTINF:-1,GLOBO TV GAZETA SUL ES HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78531
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/410
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXÁ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/409
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO UBERABA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/313
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ITUIUTABA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/411
+#EXTINF:-1,GLOBO TV INTER CABUGI SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/502
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/570
+#EXTINF:-1,GLOBO TV LIBERAL HD (BELEM)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/365
+#EXTINF:-1,GLOBO TV MIRANTE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/721
+#EXTINF:-1,GLOBO TV MORENA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/733
+#EXTINF:-1,GLOBO TV MORENA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/734
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/757
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/756
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/427
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/426
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/422
+#EXTINF:-1,GLOBO TV SANTA CRUZ
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/352
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/336
+#EXTINF:-1,GLOBO TV SUBAE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/353
+#EXTINF:-1,GLOBO TV TEM BAURU FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/737
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/738
+#EXTINF:-1,GLOBO TV TEM ITAPETININGA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/573
+#EXTINF:-1,GLOBO TV TEM S. J. RIO PRETO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/314
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/412
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/575
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/384
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/383
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/576
+#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/577
+#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/377
+#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/378
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76701
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD (H265)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76702
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/366
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/578
+#EXTINF:-1,GLOOB FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/827
+#EXTINF:-1,GLOOB H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/248
+#EXTINF:-1,GLOOB HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/37
+#EXTINF:-1,GLOOB SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/493
+#EXTINF:-1,GNT FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/862
+#EXTINF:-1,GNT H265 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/249
+#EXTINF:-1,GNT HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/38
+#EXTINF:-1,GNT SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/494
+#EXTINF:-1,HBO 2 FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/793
+#EXTINF:-1,HBO 2 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/254
+#EXTINF:-1,HBO 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/39
+#EXTINF:-1,HBO 2 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/499
+#EXTINF:-1,HBO FAMILY FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/795
+#EXTINF:-1,HBO FAMILY HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/40
+#EXTINF:-1,HBO FAMILY SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/496
+#EXTINF:-1,HBO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/792
+#EXTINF:-1,HBO H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/251
+#EXTINF:-1,HBO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/41
+#EXTINF:-1,HBO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/495
+#EXTINF:-1,HBO MAX 02
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/204
+#EXTINF:-1,HBO MAX 03
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/205
+#EXTINF:-1,HBO MAX 04
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/206
+#EXTINF:-1,HBO MAX 05
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76696
+#EXTINF:-1,HBO MUNDI FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/797
+#EXTINF:-1,HBO MAX 06
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/529221
+#EXTINF:-1,HBO MAX 07
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/529222
+#EXTINF:-1,HBO MAX 08
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/529223
+#EXTINF:-1,HBO MUNDI HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/260
+#EXTINF:-1,HBO MUNDI SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/48
+#EXTINF:-1,HBO PLUS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/794
+#EXTINF:-1,HBO PLUS H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/252
+#EXTINF:-1,HBO PLUS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/42
+#EXTINF:-1,HBO PLUS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/497
+#EXTINF:-1,HBO POP FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/799
+#EXTINF:-1,HBO POP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/262
+#EXTINF:-1,HBO POP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/50
+#EXTINF:-1,HBO SIGNATURE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/796
+#EXTINF:-1,HBO SIGNATURE H265 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/253
+#EXTINF:-1,HBO SIGNATURE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/43
+#EXTINF:-1,HBO SIGNATURE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/498
+#EXTINF:-1,HBO XTREME FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/798
+#EXTINF:-1,HBO XTREME FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/261
+#EXTINF:-1,HBO XTREME HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/49
+#EXTINF:-1,HBO XTREME SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76662
+#EXTINF:-1,HELLO TV
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63867
+#EXTINF:-1,HGTV FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/861
+#EXTINF:-1,HGTV H265 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/225
+#EXTINF:-1,HGTV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/13
+#EXTINF:-1,HISTORY FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/781
+#EXTINF:-1,HISTORY H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/255
+#EXTINF:-1,HISTORY HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/45
+#EXTINF:-1,HISTORY SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/584
+#EXTINF:-1,HISTORY 2 FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/806
+#EXTINF:-1,HISTORY 2 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/256
+#EXTINF:-1,HISTORY 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/44
+#EXTINF:-1,HISTORY 2 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/500
+#EXTINF:-1,INSPIRE TV
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63866
+#EXTINF:-1,INVESTIGAÇAO DISCOVERY FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/819
+#EXTINF:-1,INVESTIGAÇAO DISCOVERY H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/257
+#EXTINF:-1,INVESTIGAÇAO DISCOVERY HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/46
+#EXTINF:-1,INVESTIGAÇAO DISCOVERY SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/501
+#EXTINF:-1,ISTV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31746
+#EXTINF:-1,JOVEM PAM SP (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/176
+#EXTINF:-1,JOVEM PAN FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/886
+#EXTINF:-1,JOVEM PAN FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76659
+#EXTINF:-1,JOVEM PAN HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/209
+#EXTINF:-1,JOVEM PAN SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76660
+#EXTINF:-1,LBV - BOA VONTADE
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/53957
+#EXTINF:-1,LIFETIME FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/801
+#EXTINF:-1,LIFETIME H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/258
+#EXTINF:-1,LIFETIME HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/47
+#EXTINF:-1,LIFETIME SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/503
+#EXTINF:-1,MEGAPIX FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/843
+#EXTINF:-1,MEGAPIX FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/263
+#EXTINF:-1,MEGAPIX HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/51
+#EXTINF:-1,MEGAPIX SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/507
+#EXTINF:-1,MIX FM SP (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/183
+#EXTINF:-1,MTV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/854
+#EXTINF:-1,MTV H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/264
+#EXTINF:-1,MTV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/52
+#EXTINF:-1,MTV LIVE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/197
+#EXTINF:-1,MTV SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/508
+#EXTINF:-1,MULTISHOW FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/860
+#EXTINF:-1,MULTISHOW H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/265
+#EXTINF:-1,MULTISHOW HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/53
+#EXTINF:-1,MULTISHOW SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/509
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/511
+#EXTINF:-1,MUSIC BOX BRASIL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/510
+#EXTINF:-1,NICK JR FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/831
+#EXTINF:-1,NICK JR H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/270
+#EXTINF:-1,NICK JR HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/58
+#EXTINF:-1,NICK JR SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/516
+#EXTINF:-1,NICKELODEON FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/830
+#EXTINF:-1,NICKELODEON H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/269
+#EXTINF:-1,NICKELODEON HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/57
+#EXTINF:-1,NICKELODEON SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/517
+#EXTINF:-1,NOVO TEMPO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/106
+#EXTINF:-1,NOVO TEMPO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/586
+#EXTINF:-1,OFF FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/859
+#EXTINF:-1,OFF H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/271
+#EXTINF:-1,OFF HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/59
+#EXTINF:-1,OFF SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/518
+#EXTINF:-1,PARAMOUNT FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/272
+#EXTINF:-1,GOSPEL MOVIES TELEVISION
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/522
+#EXTINF:-1,PREMIERE CLUBES  H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/273
+#EXTINF:-1,PREMIERE CLUBES H265*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88561
+#EXTINF:-1,PREMIERE CLUBES FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/775
+#EXTINF:-1,PREMIERE CLUBES FHD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88559
+#EXTINF:-1,PREMIERE CLUBES HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/67
+#EXTINF:-1,PREMIERE CLUBES HD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88560
+#EXTINF:-1,PREMIERE CLUBES SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/531
+#EXTINF:-1,PREMIERE CLUBES SD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88562
+#EXTINF:-1,PREMIERE 2 FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/815
+#EXTINF:-1,PREMIERE 2 FHD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88563
+#EXTINF:-1,PREMIERE 2 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/274
+#EXTINF:-1,PREMIERE 2 H265*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88564
+#EXTINF:-1,PREMIERE 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/61
+#EXTINF:-1,PREMIERE 2 HD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88565
+#EXTINF:-1,PREMIERE 2 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/523
+#EXTINF:-1,PREMIERE 2 SD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88566
+#EXTINF:-1,PREMIERE 3 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/814
+#EXTINF:-1,PREMIERE 3 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/275
+#EXTINF:-1,PREMIERE 3 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/62
+#EXTINF:-1,PREMIERE 3 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/524
+#EXTINF:-1,PREMIERE 4 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/813
+#EXTINF:-1,PREMIERE 4 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/276
+#EXTINF:-1,PREMIERE 4 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/63
+#EXTINF:-1,PREMIERE 4 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/525
+#EXTINF:-1,PREMIERE 5 FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/812
+#EXTINF:-1,PREMIERE 5 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/277
+#EXTINF:-1,PREMIERE 5 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/64
+#EXTINF:-1,PREMIERE 5 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/526
+#EXTINF:-1,PREMIERE 6 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/811
+#EXTINF:-1,PREMIERE 6 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/278
+#EXTINF:-1,PREMIERE 6 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/65
+#EXTINF:-1,PREMIERE 6 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/527
+#EXTINF:-1,PREMIERE 7 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/810
+#EXTINF:-1,PREMIERE 7 FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/279
+#EXTINF:-1,PREMIERE 7 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/66
+#EXTINF:-1,PREMIERE 7 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/528
+#EXTINF:-1,RADIO EVANGELIZAR FM
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31743
+#EXTINF:-1,RADIO SERTANEJA FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/186
+#EXTINF:-1,RECORD NEWS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/867
+#EXTINF:-1,RECORD NEWS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/104
+#EXTINF:-1,RECORD NEWS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/533
+#EXTINF:-1,RECORD TV SP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/727
+#EXTINF:-1,RECORD TV SP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/726
+#EXTINF:-1,RECORD TV SP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/534
+#EXTINF:-1,RECORD TV RJ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/87102
+#EXTINF:-1,RECORD TV RJ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/345
+#EXTINF:-1,RECORD TV RJ SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76666
+#EXTINF:-1,RECORD TV BAHIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/151
+#EXTINF:-1,RECORD TV BAHIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/598
+#EXTINF:-1,RECORD TV BELEM HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/342
+#EXTINF:-1,RECORD TV BELEM SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76669
+#EXTINF:-1,RECORD TV BRASILIA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/338
+#EXTINF:-1,RECORD TV BRASILIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76663
+#EXTINF:-1,RECORD TV CAMPINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/387
+#EXTINF:-1,RECORD TV CAMPINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/354
+#EXTINF:-1,RECORD TV GOIANIA FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/280
+#EXTINF:-1,RECORD TV GOIANIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/68
+#EXTINF:-1,RECORD TV GOIANIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76664
+#EXTINF:-1,RECORD TV MANAUS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/371
+#EXTINF:-1,RECORD TV MINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/112
+#EXTINF:-1,RECORD TV MINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/344
+#EXTINF:-1,RECORD TV MINAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/312
+#EXTINF:-1,RECORD TV PARANÁ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/398
+#EXTINF:-1,RECORD TV PARANÁ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/360
+#EXTINF:-1,RECORD TV RS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/442
+#EXTINF:-1,RECORD TV RS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/339
+#EXTINF:-1,RECORD TV RS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76668
+#EXTINF:-1,RECORD TV SANTA CATARINA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/356
+#EXTINF:-1,RECORD TV SANTOS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/343
+#EXTINF:-1,RECORD TV SERGIPE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/341
+#EXTINF:-1,RECORD TV SJRP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/340
+#EXTINF:-1,RED BULL TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31744
+#EXTINF:-1,TV REDE GOSPEL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/157
+#EXTINF:-1,REDE BRASIL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/536
+#EXTINF:-1,TV REDE GOSPEL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/152
+#EXTINF:-1,REDE SUPER
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/596
+#EXTINF:-1,REDE TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/869
+#EXTINF:-1,REDE TV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/69
+#EXTINF:-1,REDE VIDA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/538
+#EXTINF:-1,RIT TV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/162
+#EXTINF:-1,SAMBA E PAGODE FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/193
+#EXTINF:-1,SBT BRASILIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/346
+#EXTINF:-1,SBT CAMPINAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/386
+#EXTINF:-1,SBT CAMPINAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/385
+#EXTINF:-1,SBT CIDADE VERDE PI
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/59921
+#EXTINF:-1,SBT INTERIOR FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/59920
+#EXTINF:-1,SBT PARANÁ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/397
+#EXTINF:-1,SBT PARANÁ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/359
+#EXTINF:-1,SBT RECIFE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/68341
+#EXTINF:-1,SBT RJ FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/370
+#EXTINF:-1,SBT RJ HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/367
+#EXTINF:-1,SBT RJ SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76680
+#EXTINF:-1,SBT RS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/347
+#EXTINF:-1,SBT SERGIPE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/348
+#EXTINF:-1,SBT SERRA DOURADA FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76682
+#EXTINF:-1,SBT SERRA DOURADA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76683
+#EXTINF:-1,SBT SP FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/870
+#EXTINF:-1,SBT SP FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76681
+#EXTINF:-1,SBT SP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/429
+#EXTINF:-1,SBT SP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/540
+#EXTINF:-1,SBT TV ALTEROSA MG FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/897
+#EXTINF:-1,SBT TV ALTEROSA MG HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/896
+#EXTINF:-1,SBT TV ARATU BAHIA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/349
+#EXTINF:-1,SBT TV JANGADEIRO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76684
+#EXTINF:-1,SBT TV JANGADEIRO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76685
+#EXTINF:-1,SBT TV JORNAL PERNAMBUCO
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76686
+#EXTINF:-1,POLISHOP HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/885
+#EXTINF:-1,POLISHOP SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/150
+#EXTINF:-1,SPACE FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/846
+#EXTINF:-1,SPACE FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/282
+#EXTINF:-1,SPACE HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/70
+#EXTINF:-1,SPACE SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/543
+#EXTINF:-1,SPORTV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/776
+#EXTINF:-1,SPORTV FHD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88556
+#EXTINF:-1,SPORTV H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/285
+#EXTINF:-1,SPORTV H265*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88558
+#EXTINF:-1,SPORTV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/73
+#EXTINF:-1,SPORTV HD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/87150
+#EXTINF:-1,SPORTV SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/544
+#EXTINF:-1,SPORTV SD*
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88557
+#EXTINF:-1,SPORTV 2 FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/777
+#EXTINF:-1,SPORTV 2 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/283
+#EXTINF:-1,SPORTV 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/71
+#EXTINF:-1,SPORTV 2 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/545
+#EXTINF:-1,SPORTV 3 FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/778
+#EXTINF:-1,SPORTV 3 H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/284
+#EXTINF:-1,SPORTV 3 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/72
+#EXTINF:-1,SPORTV 3 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/546
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/847
+#EXTINF:-1,STUDIO UNIVERSAL FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/286
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/74
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/547
+#EXTINF:-1,SUPER GOSPEL
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/35627
+#EXTINF:-1,SYFY FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/857
+#EXTINF:-1,SYFY FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/287
+#EXTINF:-1,SYFY HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/75
+#EXTINF:-1,SYFY SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/548
+#EXTINF:-1,TNT NOVELAS FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/856
+#EXTINF:-1,TNT NOVELAS FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/288
+#EXTINF:-1,TNT NOVELAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/76
+#EXTINF:-1,TNT NOVELAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/549
+#EXTINF:-1,TCM FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/877
+#EXTINF:-1,TCM HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/131
+#EXTINF:-1,TCM SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/550
+#EXTINF:-1,TELECINE ACTION FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/787
+#EXTINF:-1,TELECINE ACTION H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/289
+#EXTINF:-1,TELECINE ACTION HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/77
+#EXTINF:-1,TELECINE ACTION SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/551
+#EXTINF:-1,TELECINE CULT FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/791
+#EXTINF:-1,TELECINE CULT H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/290
+#EXTINF:-1,TELECINE CULT HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/78
+#EXTINF:-1,TELECINE CULT SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/552
+#EXTINF:-1,TELECINE FUN FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/790
+#EXTINF:-1,TELECINE FUN H265 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/291
+#EXTINF:-1,TELECINE FUN HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/79
+#EXTINF:-1,TELECINE FUN SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/553
+#EXTINF:-1,TELECINE PIPOCA FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/789
+#EXTINF:-1,TELECINE PIPOCA H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/292
+#EXTINF:-1,TELECINE PIPOCA HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80
+#EXTINF:-1,TELECINE PIPOCA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/554
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/786
+#EXTINF:-1,TELECINE PREMIUM H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/293
+#EXTINF:-1,TELECINE PREMIUM HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/81
+#EXTINF:-1,TELECINE PREMIUM SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/555
+#EXTINF:-1,TELECINE TOUCH FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/788
+#EXTINF:-1,TELECINE TOUCH H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/294
+#EXTINF:-1,TELECINE TOUCH HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82
+#EXTINF:-1,TELECINE TOUCH SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/556
+#EXTINF:-1,TLC FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/809
+#EXTINF:-1,TLC HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83
+#EXTINF:-1,TLC SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/558
+#EXTINF:-1,TNT FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/785
+#EXTINF:-1,TNT FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/296
+#EXTINF:-1,TNT HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/84
+#EXTINF:-1,TNT SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/559
+#EXTINF:-1,TNT SERIES FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/849
+#EXTINF:-1,TNT SERIES FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/297
+#EXTINF:-1,TNT SERIES HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/85
+#EXTINF:-1,TNT SERIES SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/560
+#EXTINF:-1,TOONCAST FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/834
+#EXTINF:-1,TOONCAST HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/124
+#EXTINF:-1,TOONCAST SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/561
+#EXTINF:-1,TOP 40 FM (RADIOS)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/194
+#EXTINF:-1,TRAVEL BOX BRASIL FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/884
+#EXTINF:-1,TRAVEL BOX BRASIL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/136
+#EXTINF:-1,TRUT TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/878
+#EXTINF:-1,TRUT TV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/132
+#EXTINF:-1,TRUT TV SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/562
+#EXTINF:-1,GLOBO TV BRASILIA H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/434
+#EXTINF:-1,GLOBO TV ANHANGUERA GO FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/432
+#EXTINF:-1,GLOBO TV BRASILIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/563
+#EXTINF:-1,TV APARECIDA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/564
+#EXTINF:-1,TV BRASIL
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/121
+#EXTINF:-1,TV CULTURA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/568
+#EXTINF:-1,TV CÂMARA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/566
+#EXTINF:-1,TV ESCOLA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/589
+#EXTINF:-1,TV EVANGELIZAR HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31750
+#EXTINF:-1,WEB TV EXTREME
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/60182
+#EXTINF:-1,TV GLOOBINHO FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/828
+#EXTINF:-1,TV GLOOBINHO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/123
+#EXTINF:-1,TV GLOOBINHO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/3905
+#EXTINF:-1,TV JUSTIÇA
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/569
+#EXTINF:-1,TV NSPORTS HD (JOGO 1)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/163
+#EXTINF:-1,TV NSPORTS HD (JOGO 2)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/164
+#EXTINF:-1,TV NSPORTS HD (JOGO 3)
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/165
+#EXTINF:-1,TV RA-TIM-BUM HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/88
+#EXTINF:-1,TV RA-TIM-BUM SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/571
+#EXTINF:-1,TV SENADO
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/572
+#EXTINF:-1,TV SERIES SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/60180
+#EXTINF:-1,TV UNIVERSAL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/31748
+#EXTINF:-1,TVR VARIEDADES
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/71138
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/848
+#EXTINF:-1,UNIVERSAL CHANNEL FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/301
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/90
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/585
+#EXTINF:-1,VH1 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/91
+#EXTINF:-1,VH1 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/2958
+#EXTINF:-1,GLOBOPLAY NOVELAS FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/865
+#EXTINF:-1,GLOBOPLAY NOVELAS HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/92
+#EXTINF:-1,GLOBOPLAY NOVELAS SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/580
+#EXTINF:-1,WARNER CHANNEL FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/850
+#EXTINF:-1,WARNER CHANNEL FHD H265
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/303
+#EXTINF:-1,WARNER CHANNEL HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/93
+#EXTINF:-1,WARNER CHANNEL SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/581
+#EXTINF:-1,WOOHOO TV FHD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/875
+#EXTINF:-1,WOOHOO TV HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/129
+#EXTINF:-1,WOOHOO TV SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/582
+#EXTINF:-1,ZOOMOO FHD 
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/832
+#EXTINF:-1,ZOOMOO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/833
+#EXTINF:-1,ZOOMOO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/583
+#EXTINF:-1,GLOBO TV ANHANGUERA GO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/86
+#EXTINF:-1,RADIO DUMONT FM
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80123
+#EXTINF:-1,RADIO SANTO ANDRE FM
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80144
+#EXTINF:-1,Rádio Cultura 103.3 FM São Paulo
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80145
+#EXTINF:-1,Rádio FM O Dia FM 100.5 Rio de Janeiro
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80146
+#EXTINF:-1,Rádio Litoral 94.5 FM Cabo Frio
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80148
+#EXTINF:-1,Rádio Antena 1 103.7 FM Rio De Janeiro
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80154
+#EXTINF:-1,TV GIDEOES
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80159
+#EXTINF:-1,SBT TV ARATU BAHIA SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80160
+#EXTINF:-1,BONS TEMPOS TV
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80161
+#EXTINF:-1,BAND 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80551
+#EXTINF:-1,RECORD 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80552
+#EXTINF:-1,PREMIERE CLUBES 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80553
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80554
+#EXTINF:-1,TNT 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80555
+#EXTINF:-1,TNT SERIES 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80556
+#EXTINF:-1,ANIMAL PLANET 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80557
+#EXTINF:-1,CARTOON NETWORK 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80558
+#EXTINF:-1,COMBATE 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80559
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80560
+#EXTINF:-1,GLOBO 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80563
+#EXTINF:-1,HBO 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80564
+#EXTINF:-1,MEGAPIX 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80565
+#EXTINF:-1,MULTISHOW 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80566
+#EXTINF:-1,SBT 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80567
+#EXTINF:-1,SPACE 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80568
+#EXTINF:-1,SPORTV 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80569
+#EXTINF:-1,HBO XTREME 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80570
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80575
+#EXTINF:-1,JOVEM PAN NEWS 4K
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/81009
+#EXTINF:-1,REDE SECULO 21 SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82126
+#EXTINF:-1,TV PAI ETERNO HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82127
+#EXTINF:-1,TV PAI ETERNO SD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82128
+#EXTINF:-1,GLN TV
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82855
+#EXTINF:-1,TV DIARIO NORDESTE
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/82856
+#EXTINF:-1,NBA LEAGUE PASS 01
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83025
+#EXTINF:-1,NBA LEAGUE PASS 02
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83026
+#EXTINF:-1,NBA LEAGUE PASS 03
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83027
+#EXTINF:-1,NBA LEAGUE PASS 04
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83028
+#EXTINF:-1,NBA LEAGUE PASS 05
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/83029
